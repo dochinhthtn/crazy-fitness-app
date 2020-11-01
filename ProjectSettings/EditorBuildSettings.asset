@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Manifest.unity
+    guid: 3c0cf35a9d220fe4eaf610b59ae66cf1
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/WelcomeScreen.unity
+    guid: cf83ff6596645534db7c3533787bfc66
+  - enabled: 1
+    path: Assets/Scenes/DailyPlanScreen.unity
+    guid: 72ae063ffcd91a94aaef4ce865e4e1e4
+  - enabled: 1
+    path: Assets/Scenes/ChallengeScreen.unity
+    guid: 155031a987df16846aa9aeef11b1626d
+  - enabled: 1
+    path: Assets/Scenes/PlanProcessScreen.unity
+    guid: 14ea1f8c213df9f48bf86d434993ae18
+  - enabled: 1
+    path: Assets/Scenes/WorkoutScreen.unity
+    guid: deecc885493b38641b5c7b1765f59ab1
   m_configObjects: {}

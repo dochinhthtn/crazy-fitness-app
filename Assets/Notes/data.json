@@ -1,0 +1,15 @@
+{
+    "profile": {
+        "id": 1,
+        "name": "Do Chinh",
+        "age": 22,
+        "sex": "male",
+        "weight": 65,
+        "height": 170,
+        "currentPlan": {
+
+        },
+        "finishedPlans": [],
+        "finshedChallenges": []
+    }
+}

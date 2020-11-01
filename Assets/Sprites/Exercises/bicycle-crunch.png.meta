@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: c64048a22d3b51540aa8e1472fb2a6b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8359682232913049541
+    second: bicycle-crunch_0
+  - first:
+      213: -4270933077646043425
+    second: bicycle-crunch_1
+  - first:
+      213: 78112514353652350
+    second: bicycle-crunch_2
+  - first:
+      213: -6148498739154502553
+    second: bicycle-crunch_3
+  - first:
+      213: -669992762520645816
+    second: bicycle-crunch_4
+  - first:
+      213: 1863803959800381272
+    second: bicycle-crunch_5
+  - first:
+      213: 3605854441340447341
+    second: bicycle-crunch_6
+  - first:
+      213: 8599596164075245631
+    second: bicycle-crunch_7
+  - first:
+      213: -4857563775116599956
+    second: bicycle-crunch_8
+  - first:
+      213: 8215052339338199212
+    second: bicycle-crunch_9
+  - first:
+      213: 2984914316787654471
+    second: bicycle-crunch_10
+  - first:
+      213: 8666547446330930389
+    second: bicycle-crunch_11
+  - first:
+      213: -7843099902777586269
+    second: bicycle-crunch_12
+  - first:
+      213: -5715338640664931055
+    second: bicycle-crunch_13
+  - first:
+      213: 3774643903467247162
+    second: bicycle-crunch_14
+  - first:
+      213: -7584689084283982307
+    second: bicycle-crunch_15
+  - first:
+      213: 4911070234182880862
+    second: bicycle-crunch_16
+  - first:
+      213: 1443834125738777424
+    second: bicycle-crunch_17
+  - first:
+      213: 7289170405217034056
+    second: bicycle-crunch_18
+  - first:
+      213: 4796328455329341212
+    second: bicycle-crunch_19
+  - first:
+      213: -8353437382127577969
+    second: bicycle-crunch_20
+  - first:
+      213: 9093130354425261456
+    second: bicycle-crunch_21
+  - first:
+      213: -7901900966200851550
+    second: bicycle-crunch_22
+  - first:
+      213: 7626063207077766270
+    second: bicycle-crunch_23
+  - first:
+      213: -7928640233461123524
+    second: bicycle-crunch_24
+  - first:
+      213: -7362515343086737052
+    second: bicycle-crunch_25
+  - first:
+      213: -7758054115641485717
+    second: bicycle-crunch_26
+  - first:
+      213: 3781484075324714554
+    second: bicycle-crunch_27
+  - first:
+      213: 767230384697884192
+    second: bicycle-crunch_28
+  - first:
+      213: 3150943544828174889
+    second: bicycle-crunch_29
+  - first:
+      213: -3216597781351040963
+    second: bicycle-crunch_30
+  - first:
+      213: -5886836436814430850
+    second: bicycle-crunch_31
+  - first:
+      213: 7815032345392260954
+    second: bicycle-crunch_32
+  - first:
+      213: -232835258337661186
+    second: bicycle-crunch_33
+  - first:
+      213: 5690196241929051320
+    second: bicycle-crunch_34
+  - first:
+      213: 6735416745886726185
+    second: bicycle-crunch_35
+  - first:
+      213: 7962422445266656825
+    second: bicycle-crunch_36
+  - first:
+      213: 3141757702391472481
+    second: bicycle-crunch_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bicycle-crunch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c218fc417cfb80800000000000000
+      internalID: -8359682232913049541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1440
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd611778ef89ab4c0800000000000000
+      internalID: -4270933077646043425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1440
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ef8efae2851100800000000000000
+      internalID: 78112514353652350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1440
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c32ce09f42caaa0800000000000000
+      internalID: -6148498739154502553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1440
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fcfdbd125b3b6f0800000000000000
+      internalID: -669992762520645816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_5
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1440
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f3eda93df8dd910800000000000000
+      internalID: 1863803959800381272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aacdf72819a0230800000000000000
+      internalID: 3605854441340447341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1200
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30548b0627e75770800000000000000
+      internalID: 8599596164075245631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1200
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d9e56ab77769cb0800000000000000
+      internalID: -4857563775116599956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1200
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0ce71d39ab10270800000000000000
+      internalID: 8215052339338199212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_10
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1200
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f1b11a1cb8c6920800000000000000
+      internalID: 2984914316787654471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_11
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1200
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4bf9f2cf2c54870800000000000000
+      internalID: 8666547446330930389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8a056136b72390800000000000000
+      internalID: -7843099902777586269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 960
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1155a1899c90fa0b0800000000000000
+      internalID: -5715338640664931055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 960
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3652cb91aa326430800000000000000
+      internalID: 3774643903467247162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_15
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 960
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e68779675cdb690800000000000000
+      internalID: -7584689084283982307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_16
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 960
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0777ab50a72440800000000000000
+      internalID: 4911070234182880862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_17
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 960
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1f33dc77890410800000000000000
+      internalID: 1443834125738777424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f50462dd5582560800000000000000
+      internalID: 7289170405217034056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 720
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fd00e615bff8240800000000000000
+      internalID: 4796328455329341212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 720
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8411d895f0a21c80800000000000000
+      internalID: -8353437382127577969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 720
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de6df31e9413e70800000000000000
+      internalID: 9093130354425261456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_22
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 720
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a34843ffeec65290800000000000000
+      internalID: -7901900966200851550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_23
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 720
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74eb8c051835d960800000000000000
+      internalID: 7626063207077766270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36fda427bfc7f190800000000000000
+      internalID: -7928640233461123524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 480
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a3f1cd4713d990800000000000000
+      internalID: -7362515343086737052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 480
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669ee0c2ead55490800000000000000
+      internalID: -7758054115641485717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_27
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 480
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea6893bb78a7430800000000000000
+      internalID: 3781484075324714554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_28
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 480
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ebdcc48ffb5aa00800000000000000
+      internalID: 767230384697884192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_29
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 480
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9222bc8a5766abb20800000000000000
+      internalID: 3150943544828174889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f2413c595c53d0800000000000000
+      internalID: -3216597781351040963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 240
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d79d45371cd4ea0800000000000000
+      internalID: -5886836436814430850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 240
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572b472382947c60800000000000000
+      internalID: 7815032345392260954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_33
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 240
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efee89fe09dc4ccf0800000000000000
+      internalID: -232835258337661186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_34
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 240
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc91768553a7fe40800000000000000
+      internalID: 5690196241929051320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_35
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 240
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928bbc838d1097d50800000000000000
+      internalID: 6735416745886726185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e57b9f605308e60800000000000000
+      internalID: 7962422445266656825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicycle-crunch_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161246d0cf3c99b20800000000000000
+      internalID: 3141757702391472481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

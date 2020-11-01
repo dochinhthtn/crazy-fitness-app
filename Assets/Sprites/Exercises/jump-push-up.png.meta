@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 93fa82c51a4adc342becfec1ba834658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6853841241070011681
+    second: jump-push-up_0
+  - first:
+      213: -1540268126267281924
+    second: jump-push-up_1
+  - first:
+      213: 6723931585339102500
+    second: jump-push-up_2
+  - first:
+      213: -2456515025127922736
+    second: jump-push-up_3
+  - first:
+      213: -7557827555230275096
+    second: jump-push-up_4
+  - first:
+      213: 1413229020765031034
+    second: jump-push-up_5
+  - first:
+      213: -477032756569970236
+    second: jump-push-up_6
+  - first:
+      213: 733813233639483487
+    second: jump-push-up_7
+  - first:
+      213: 4261921717092267979
+    second: jump-push-up_8
+  - first:
+      213: -4690527593740574479
+    second: jump-push-up_9
+  - first:
+      213: -4015450833895739320
+    second: jump-push-up_10
+  - first:
+      213: 8675091012325001215
+    second: jump-push-up_11
+  - first:
+      213: 6677666838581913215
+    second: jump-push-up_12
+  - first:
+      213: 1823721547918101649
+    second: jump-push-up_13
+  - first:
+      213: 553194536450716014
+    second: jump-push-up_14
+  - first:
+      213: -799075191865409307
+    second: jump-push-up_15
+  - first:
+      213: -7250173598303118837
+    second: jump-push-up_16
+  - first:
+      213: -5644761608779848635
+    second: jump-push-up_17
+  - first:
+      213: 3269877731646109597
+    second: jump-push-up_18
+  - first:
+      213: 4733883942339352327
+    second: jump-push-up_19
+  - first:
+      213: -2732028719452406095
+    second: jump-push-up_20
+  - first:
+      213: 6329255498471882900
+    second: jump-push-up_21
+  - first:
+      213: -5730531293113989750
+    second: jump-push-up_22
+  - first:
+      213: -6939779740623917234
+    second: jump-push-up_23
+  - first:
+      213: 7267099811618741848
+    second: jump-push-up_24
+  - first:
+      213: -5947696881609112308
+    second: jump-push-up_25
+  - first:
+      213: -5026305365328508872
+    second: jump-push-up_26
+  - first:
+      213: 6200940044229976904
+    second: jump-push-up_27
+  - first:
+      213: 5822969062842419191
+    second: jump-push-up_28
+  - first:
+      213: 3586178278481783832
+    second: jump-push-up_29
+  - first:
+      213: 6768679938817864701
+    second: jump-push-up_30
+  - first:
+      213: 3732186722013268986
+    second: jump-push-up_31
+  - first:
+      213: 7835123700522382327
+    second: jump-push-up_32
+  - first:
+      213: 1950648276085233811
+    second: jump-push-up_33
+  - first:
+      213: 3015268120559671876
+    second: jump-push-up_34
+  - first:
+      213: -608757975269845873
+    second: jump-push-up_35
+  - first:
+      213: -4862942834929888387
+    second: jump-push-up_36
+  - first:
+      213: -1845427326625027214
+    second: jump-push-up_37
+  - first:
+      213: 3713703394926618906
+    second: jump-push-up_38
+  - first:
+      213: 5356869842353285280
+    second: jump-push-up_39
+  - first:
+      213: 4192395458159879718
+    second: jump-push-up_40
+  - first:
+      213: 473491379693609201
+    second: jump-push-up_41
+  - first:
+      213: 8415940216706689807
+    second: jump-push-up_42
+  - first:
+      213: 4795710761761589627
+    second: jump-push-up_43
+  - first:
+      213: -2304581943259648660
+    second: jump-push-up_44
+  - first:
+      213: 6450537166515982410
+    second: jump-push-up_45
+  - first:
+      213: 6164169733821854540
+    second: jump-push-up_46
+  - first:
+      213: -941902439888552356
+    second: jump-push-up_47
+  - first:
+      213: 3144381786513798043
+    second: jump-push-up_48
+  - first:
+      213: 5361453736013629480
+    second: jump-push-up_49
+  - first:
+      213: -45463681807342310
+    second: jump-push-up_50
+  - first:
+      213: -614587148536244974
+    second: jump-push-up_51
+  - first:
+      213: 3819714560988974458
+    second: jump-push-up_52
+  - first:
+      213: 5787463952730778291
+    second: jump-push-up_53
+  - first:
+      213: -5858909017764384073
+    second: jump-push-up_54
+  - first:
+      213: -1991454959343429922
+    second: jump-push-up_55
+  - first:
+      213: 67168636663255014
+    second: jump-push-up_56
+  - first:
+      213: 377839731765244519
+    second: jump-push-up_57
+  - first:
+      213: 5464988999706345210
+    second: jump-push-up_58
+  - first:
+      213: -5545341393600696523
+    second: jump-push-up_59
+  - first:
+      213: -8554148793598996204
+    second: jump-push-up_60
+  - first:
+      213: 2999671180717582281
+    second: jump-push-up_61
+  - first:
+      213: -242209486842679556
+    second: jump-push-up_62
+  - first:
+      213: -5124231990425913405
+    second: jump-push-up_63
+  - first:
+      213: -484823960419577063
+    second: jump-push-up_64
+  - first:
+      213: 5909084415735422398
+    second: jump-push-up_65
+  - first:
+      213: 6845234643526041552
+    second: jump-push-up_66
+  - first:
+      213: -8211141329201908470
+    second: jump-push-up_67
+  - first:
+      213: -1103370791201914026
+    second: jump-push-up_68
+  - first:
+      213: 6226994338778309584
+    second: jump-push-up_69
+  - first:
+      213: 1957361805213825477
+    second: jump-push-up_70
+  - first:
+      213: 8179278966245953830
+    second: jump-push-up_71
+  - first:
+      213: 6537484312841316693
+    second: jump-push-up_72
+  - first:
+      213: 526835734716849781
+    second: jump-push-up_73
+  - first:
+      213: -5263624897094001703
+    second: jump-push-up_74
+  - first:
+      213: 1260409244823576543
+    second: jump-push-up_75
+  - first:
+      213: 7525464081299575643
+    second: jump-push-up_76
+  - first:
+      213: 4122612676897324321
+    second: jump-push-up_77
+  - first:
+      213: 9031059915833594458
+    second: jump-push-up_78
+  - first:
+      213: 1503683438233264007
+    second: jump-push-up_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump-push-up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda791754b342e0a0800000000000000
+      internalID: -6853841241070011681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd6bf2cc4edf9ae0800000000000000
+      internalID: -1540268126267281924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259a26e624305d50800000000000000
+      internalID: 6723931585339102500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d327dd8994b8edd0800000000000000
+      internalID: -2456515025127922736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e927d0b1e33d1790800000000000000
+      internalID: -7557827555230275096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a09f88e4ccc9310800000000000000
+      internalID: 1413229020765031034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9eb6e3c3d3169f0800000000000000
+      internalID: -477032756569970236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_7
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ef828f370f2a00800000000000000
+      internalID: 733813233639483487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7bec79833652b30800000000000000
+      internalID: 4261921717092267979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_9
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ece54106e7eeb0800000000000000
+      internalID: -4690527593740574479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_10
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403998cdb04648c0800000000000000
+      internalID: -4015450833895739320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_11
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7c0d7205d146870800000000000000
+      internalID: 8675091012325001215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_12
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a4122c96dbac50800000000000000
+      internalID: 6677666838581913215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_13
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c42e8d5192f4910800000000000000
+      internalID: 1823721547918101649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_14
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61f4dcff775da700800000000000000
+      internalID: 553194536450716014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_15
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1296
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e00900c85d19e4f0800000000000000
+      internalID: -799075191865409307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1a318685326b90800000000000000
+      internalID: -7250173598303118837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442aea5937c9a1b0800000000000000
+      internalID: -5644761608779848635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f9bde870f06d20800000000000000
+      internalID: 3269877731646109597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70710174d5222b140800000000000000
+      internalID: 4733883942339352327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bebfd4ca52e51ad0800000000000000
+      internalID: -2732028719452406095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ca1f875806d750800000000000000
+      internalID: 6329255498471882900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_22
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854eab86201970b0800000000000000
+      internalID: -5730531293113989750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_23
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa8ac2813f0bf90800000000000000
+      internalID: -6939779740623917234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_24
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed7d2a6cce9d460800000000000000
+      internalID: 7267099811618741848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_25
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c058dfbc239857da0800000000000000
+      internalID: -5947696881609112308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_26
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83844f696e9fe3ab0800000000000000
+      internalID: -5026305365328508872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_27
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a2d1cd1a2e0650800000000000000
+      internalID: 6200940044229976904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_28
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7cfc0e2875fc050800000000000000
+      internalID: 5822969062842419191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_29
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ce026d42aa4c130800000000000000
+      internalID: 3586178278481783832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_30
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33d87da8e2fed50800000000000000
+      internalID: 6768679938817864701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_31
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 972
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc709bc046bc330800000000000000
+      internalID: 3732186722013268986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f371ec4e73fbbc60800000000000000
+      internalID: 7835123700522382327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d9c9a548121b10800000000000000
+      internalID: 1950648276085233811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad48c416268d920800000000000000
+      internalID: 3015268120559671876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84dad9c8d14d87f0800000000000000
+      internalID: -608757975269845873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_36
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7319f0b14b538cb0800000000000000
+      internalID: -4862942834929888387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_37
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b67b9bf99b366e0800000000000000
+      internalID: -1845427326625027214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_38
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1963c7cf89b98330800000000000000
+      internalID: 3713703394926618906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_39
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8687d5dbc675a40800000000000000
+      internalID: 5356869842353285280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_40
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a499f4716e2a30800000000000000
+      internalID: 4192395458159879718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_41
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e8d2b6ed229600800000000000000
+      internalID: 473491379693609201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_42
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be9bb990d6bc470800000000000000
+      internalID: 8415940216706689807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_43
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7941507789cd8240800000000000000
+      internalID: 4795710761761589627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_44
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6daa3cceea7400e0800000000000000
+      internalID: -2304581943259648660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_45
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40d3a46069e48950800000000000000
+      internalID: 6450537166515982410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_46
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437aa7b6b78b8550800000000000000
+      internalID: 6164169733821854540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_47
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 648
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7e59a8b0bde2f0800000000000000
+      internalID: -941902439888552356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fc5f339613ab20800000000000000
+      internalID: 3144381786513798043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82888c644c5b76a40800000000000000
+      internalID: 5361453736013629480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1521b3b50b7e5ff0800000000000000
+      internalID: -45463681807342310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151aff9e3c8877f0800000000000000
+      internalID: -614587148536244974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_52
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d822fc72a520530800000000000000
+      internalID: 3819714560988974458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_53
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba65ec3dc3315050800000000000000
+      internalID: 5787463952730778291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_54
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b232d84a49f0bea0800000000000000
+      internalID: -5858909017764384073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_55
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed61522044eec54e0800000000000000
+      internalID: -1991454959343429922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_56
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4c58e481aee000800000000000000
+      internalID: 67168636663255014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_57
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76275e1fb3b5e3500800000000000000
+      internalID: 377839731765244519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_58
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afef9ec5a8a87db40800000000000000
+      internalID: 5464988999706345210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_59
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f292c026dfa03b0800000000000000
+      internalID: -5545341393600696523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_60
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41112b97efe894980800000000000000
+      internalID: -8554148793598996204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_61
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e5a1cb09f0a920800000000000000
+      internalID: 2999671180717582281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_62
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe238741cf73acf0800000000000000
+      internalID: -242209486842679556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_63
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 324
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c778ff672213e8b0800000000000000
+      internalID: -5124231990425913405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d79c3d2f8549f0800000000000000
+      internalID: -484823960419577063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd4bbe7f8410250800000000000000
+      internalID: 5909084415735422398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_66
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df319304a82ffe50800000000000000
+      internalID: 6845234643526041552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_67
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a053460377a2c0e80800000000000000
+      internalID: -8211141329201908470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_68
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6534ede7c1a00b0f0800000000000000
+      internalID: -1103370791201914026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_69
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ef3deb5aba6650800000000000000
+      internalID: 6226994338778309584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_70
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ffa8f032f92b10800000000000000
+      internalID: 1957361805213825477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-push-up_71
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 244
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211ae552e2a28170800000000000000
+      internalID: 8179278966245953830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

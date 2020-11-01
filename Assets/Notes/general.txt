@@ -1,0 +1,11 @@
+color:
+    green: #739F3D
+    orange: #F69454
+    background-panel: #FCFDFE
+    background: #FBFBFB;
+
+font: rubik
+
+font-size: 
+    45 - 35 - 30
+    
