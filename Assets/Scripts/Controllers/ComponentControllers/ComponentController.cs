@@ -5,7 +5,7 @@ namespace Controller.ComponentControllers {
     public abstract class ComponentController<T> : MonoBehaviour {
         protected T data;
 
-        protected void Start() {
+        protected void Awake() {
             if (data == null) return;
             Render ();
         }

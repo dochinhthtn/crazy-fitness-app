@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 
 namespace Controller.TemplateControllers {
-    public class MenuController : TemplateController {
+    public class NavBarController : TemplateController {
         [SerializeField] private Button homeNav;
         [SerializeField] private Button planNav;
         [SerializeField] private Button challengeNav;

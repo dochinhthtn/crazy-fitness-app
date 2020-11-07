@@ -1,14 +1,23 @@
-﻿
+﻿using UnityEngine;
+using UnityEngine.UI;
 namespace Controller.TemplateControllers {
     public class HeaderController : TemplateController {
-        // Start is called before the first frame update
-        void Start () {
+        [SerializeField] private Button sideMenuButton;
+        [SerializeField] private SideMenuController sideMenu;
+        [SerializeField] private Button backwardButton;
 
-        }
+        void Start() {
+            if(sideMenuButton != null && sideMenu != null) {
+                sideMenuButton.onClick.AddListener(() => {
+                    sideMenu.Toggle();
+                });
+            }
 
-        // Update is called once per frame
-        void Update () {
-            
+            if(backwardButton != null) {
+                backwardButton.onClick.AddListener(() => {
+                    Navigator.Backward();
+                });
+            }
         }
     }
 }

@@ -15,12 +15,10 @@ namespace Controller.TemplateControllers {
 
         private Profile profile;
 
-        void Awake () {
+        void Start () {
             profile = App.instance.profile;
             if (profile == null) profile = new Profile ();
-        }
-
-        void Start () {
+            
             AttachInputsListener ();
             SetInputsDefaultValue ();
         }

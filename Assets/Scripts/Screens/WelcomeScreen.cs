@@ -9,7 +9,7 @@ namespace Screens {
             screenName = "Welcome";
         }
 
-        void Awake () {
+        void Start () {
             getStarted.onClick.AddListener(() => {
                 Navigator.Navigate("HomeScreen");
             });

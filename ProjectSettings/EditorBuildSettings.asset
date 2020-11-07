@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorkoutScreen.unity
     guid: deecc885493b38641b5c7b1765f59ab1
+  - enabled: 1
+    path: Assets/Scenes/ProcessDetailScreen.unity
+    guid: 2f2b5d7531c5adc4090e2aaad026bc94
+  - enabled: 1
+    path: Assets/Scenes/TutorialScreen.unity
+    guid: 234c6b75028903c49a5ef92b5740b344
   m_configObjects: {}

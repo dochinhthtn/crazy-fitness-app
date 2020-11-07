@@ -10,8 +10,10 @@ namespace Models {
         public float height;
 
         public float caloriesConsumed;
-        public List<Plan> finishedPlans;
-        public List<Challenge> finishedChallenges;
+        public List<Plan> completedPlans;
+        public List<Challenge> completedChallenges;
+        public float currentCalories;
+        public float currentDurations;
         public Plan currentPlan = null;
     }
 }
