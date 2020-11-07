@@ -32,10 +32,10 @@ RectTransform:
   m_Father: {fileID: 4531187788711065868}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -75, y: 0}
-  m_SizeDelta: {x: 150, y: 150}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 120, y: 0}
+  m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &933563438204238523
 CanvasRenderer:
@@ -64,7 +64,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1488950303924479320, guid: 3c88eb2c89c2d2c43bd0f5606702f7a7,
+  m_Sprite: {fileID: 1459254534615996743, guid: 3c88eb2c89c2d2c43bd0f5606702f7a7,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 1
@@ -109,8 +109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 80, y: 37.500015}
-  m_SizeDelta: {x: 160, y: 75}
+  m_AnchoredPosition: {x: 25, y: 0}
+  m_SizeDelta: {x: 300, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6483145379837351386
 CanvasRenderer:
@@ -165,7 +165,7 @@ GameObject:
   - component: {fileID: 2998162298817781492}
   - component: {fileID: 5827570039721505677}
   m_Layer: 5
-  m_Name: ExerciseCount
+  m_Name: ExerciseCounter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -185,10 +185,10 @@ RectTransform:
   m_Father: {fileID: 4531187788711065868}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 80, y: -37.5}
-  m_SizeDelta: {x: 160, y: 75}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -70, y: 0}
+  m_SizeDelta: {x: 100, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2998162298817781492
 CanvasRenderer:
@@ -219,18 +219,18 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 91c8046d6c1b99242b5388b0342ea64e, type: 3}
-    m_FontSize: 20
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
-    m_Alignment: 3
+    m_Alignment: 5
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: x20 repitition
+  m_Text: x20
 --- !u!1 &5791386770643770187
 GameObject:
   m_ObjectHideFlags: 0
@@ -242,6 +242,8 @@ GameObject:
   - component: {fileID: 4531187788711065868}
   - component: {fileID: 8493571764924511095}
   - component: {fileID: 6686260117027205418}
+  - component: {fileID: 31691050514100655}
+  - component: {fileID: 3454737115781203027}
   m_Layer: 5
   m_Name: ExerciseContainer
   m_TagString: Untagged
@@ -269,7 +271,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 340, y: 200}
+  m_SizeDelta: {x: 690, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8493571764924511095
 CanvasRenderer:
@@ -309,3 +311,37 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &31691050514100655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5791386770643770187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: 690
+  m_MinHeight: 200
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
+--- !u!114 &3454737115781203027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5791386770643770187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b9e8c3fa4d769947a31f36f3cbb31d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exerciseName: {fileID: 6507101232880348703}
+  exerciseCounter: {fileID: 5827570039721505677}

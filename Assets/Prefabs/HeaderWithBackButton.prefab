@@ -90,6 +90,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc8f817899da2bd49b8dfff13a32feb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sideMenuButton: {fileID: 0}
+  sideMenu: {fileID: 0}
+  backwardButton: {fileID: 6356068821851544032}
 --- !u!114 &6532172452350016966
 MonoBehaviour:
   m_ObjectHideFlags: 0
