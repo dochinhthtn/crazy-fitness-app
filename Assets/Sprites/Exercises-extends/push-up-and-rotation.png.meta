@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 5f6d556e99228834d9cc0858df1f0a9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7397152622977932997
+    second: push-up-and-rotation_0
+  - first:
+      213: -744285644229391373
+    second: push-up-and-rotation_1
+  - first:
+      213: -2759245627073392232
+    second: push-up-and-rotation_2
+  - first:
+      213: -5267376355640684754
+    second: push-up-and-rotation_3
+  - first:
+      213: 7894752404890006794
+    second: push-up-and-rotation_4
+  - first:
+      213: -7799752555890911537
+    second: push-up-and-rotation_5
+  - first:
+      213: -6774747111228446442
+    second: push-up-and-rotation_6
+  - first:
+      213: 7883974373177180715
+    second: push-up-and-rotation_7
+  - first:
+      213: 4670502434076372902
+    second: push-up-and-rotation_8
+  - first:
+      213: 860509411828050833
+    second: push-up-and-rotation_9
+  - first:
+      213: -8347418973804914536
+    second: push-up-and-rotation_10
+  - first:
+      213: 6653516747381622202
+    second: push-up-and-rotation_11
+  - first:
+      213: 1490193362375898382
+    second: push-up-and-rotation_12
+  - first:
+      213: 2595627009443880564
+    second: push-up-and-rotation_13
+  - first:
+      213: -6677176168956536120
+    second: push-up-and-rotation_14
+  - first:
+      213: -3905885142098277891
+    second: push-up-and-rotation_15
+  - first:
+      213: 776047648355553133
+    second: push-up-and-rotation_16
+  - first:
+      213: -5346735599981356195
+    second: push-up-and-rotation_17
+  - first:
+      213: 6157032906278139937
+    second: push-up-and-rotation_18
+  - first:
+      213: 7313227818901489248
+    second: push-up-and-rotation_19
+  - first:
+      213: -598959383375193876
+    second: push-up-and-rotation_20
+  - first:
+      213: 8302120798935891374
+    second: push-up-and-rotation_21
+  - first:
+      213: -9008752451311472649
+    second: push-up-and-rotation_22
+  - first:
+      213: 3736372880299501458
+    second: push-up-and-rotation_23
+  - first:
+      213: -2493357608090726390
+    second: push-up-and-rotation_24
+  - first:
+      213: -4507579057425424645
+    second: push-up-and-rotation_25
+  - first:
+      213: 8407576390917510447
+    second: push-up-and-rotation_26
+  - first:
+      213: -7518932238323334959
+    second: push-up-and-rotation_27
+  - first:
+      213: -1218459764938542706
+    second: push-up-and-rotation_28
+  - first:
+      213: -7027323477365871957
+    second: push-up-and-rotation_29
+  - first:
+      213: -3184554418547187707
+    second: push-up-and-rotation_30
+  - first:
+      213: 3708088866884439505
+    second: push-up-and-rotation_31
+  - first:
+      213: -7224163925012201962
+    second: push-up-and-rotation_32
+  - first:
+      213: 7273756529081182294
+    second: push-up-and-rotation_33
+  - first:
+      213: 4706439618741198919
+    second: push-up-and-rotation_34
+  - first:
+      213: 4402337925880078180
+    second: push-up-and-rotation_35
+  - first:
+      213: 928759271676870650
+    second: push-up-and-rotation_36
+  - first:
+      213: -8200394821649539676
+    second: push-up-and-rotation_37
+  - first:
+      213: 4548798921391981367
+    second: push-up-and-rotation_38
+  - first:
+      213: -1902063140575821259
+    second: push-up-and-rotation_39
+  - first:
+      213: -3687533211192622002
+    second: push-up-and-rotation_40
+  - first:
+      213: -3781495020192065194
+    second: push-up-and-rotation_41
+  - first:
+      213: 1181816117682639903
+    second: push-up-and-rotation_42
+  - first:
+      213: 3035185880754123636
+    second: push-up-and-rotation_43
+  - first:
+      213: -1431677944023442042
+    second: push-up-and-rotation_44
+  - first:
+      213: -127038773494716764
+    second: push-up-and-rotation_45
+  - first:
+      213: -5706629409244660600
+    second: push-up-and-rotation_46
+  - first:
+      213: 6431151899366095481
+    second: push-up-and-rotation_47
+  - first:
+      213: 3145064589115097649
+    second: push-up-and-rotation_48
+  - first:
+      213: -9143283786427952285
+    second: push-up-and-rotation_49
+  - first:
+      213: -2942492497260691138
+    second: push-up-and-rotation_50
+  - first:
+      213: -4499548924618097188
+    second: push-up-and-rotation_51
+  - first:
+      213: -7296713625817618432
+    second: push-up-and-rotation_52
+  - first:
+      213: 564344655173657358
+    second: push-up-and-rotation_53
+  - first:
+      213: -913791358866866514
+    second: push-up-and-rotation_54
+  - first:
+      213: -1252136775840600969
+    second: push-up-and-rotation_55
+  - first:
+      213: 4812429146342155668
+    second: push-up-and-rotation_56
+  - first:
+      213: -8988199383160328092
+    second: push-up-and-rotation_57
+  - first:
+      213: -3763686481931389401
+    second: push-up-and-rotation_58
+  - first:
+      213: 4144693842545959246
+    second: push-up-and-rotation_59
+  - first:
+      213: -7948248711728038247
+    second: push-up-and-rotation_60
+  - first:
+      213: -4195037469519996618
+    second: push-up-and-rotation_61
+  - first:
+      213: -5659730277051226240
+    second: push-up-and-rotation_62
+  - first:
+      213: 3577544590775735928
+    second: push-up-and-rotation_63
+  - first:
+      213: -6477906127508975467
+    second: push-up-and-rotation_64
+  - first:
+      213: 3968569952658277674
+    second: push-up-and-rotation_65
+  - first:
+      213: -2006346807753989804
+    second: push-up-and-rotation_66
+  - first:
+      213: -5026424076093285105
+    second: push-up-and-rotation_67
+  - first:
+      213: 1876244125107536327
+    second: push-up-and-rotation_68
+  - first:
+      213: 7907119250319553027
+    second: push-up-and-rotation_69
+  - first:
+      213: -8802680626618515851
+    second: push-up-and-rotation_70
+  - first:
+      213: -6088138907742116151
+    second: push-up-and-rotation_71
+  - first:
+      213: 5614400150858035728
+    second: push-up-and-rotation_72
+  - first:
+      213: 5878475245710717168
+    second: push-up-and-rotation_73
+  - first:
+      213: -1206556566764090082
+    second: push-up-and-rotation_74
+  - first:
+      213: -3784575902265147575
+    second: push-up-and-rotation_75
+  - first:
+      213: -1687707081785059919
+    second: push-up-and-rotation_76
+  - first:
+      213: -4914905766502481841
+    second: push-up-and-rotation_77
+  - first:
+      213: -7876227919062902441
+    second: push-up-and-rotation_78
+  - first:
+      213: -3689842157322071449
+    second: push-up-and-rotation_79
+  - first:
+      213: -6185288126375843890
+    second: push-up-and-rotation_80
+  - first:
+      213: 3613507475419825859
+    second: push-up-and-rotation_81
+  - first:
+      213: 6048604386441857254
+    second: push-up-and-rotation_82
+  - first:
+      213: 341691946405674361
+    second: push-up-and-rotation_83
+  - first:
+      213: -9092067722624737565
+    second: push-up-and-rotation_84
+  - first:
+      213: 3991681476710623549
+    second: push-up-and-rotation_85
+  - first:
+      213: 3180346197917706308
+    second: push-up-and-rotation_86
+  - first:
+      213: -9161728911015235988
+    second: push-up-and-rotation_87
+  - first:
+      213: -5398487870769148930
+    second: push-up-and-rotation_88
+  - first:
+      213: 6895932269056611945
+    second: push-up-and-rotation_89
+  - first:
+      213: -871017467479860065
+    second: push-up-and-rotation_90
+  - first:
+      213: -2517382521977382280
+    second: push-up-and-rotation_91
+  - first:
+      213: -8288486510836611154
+    second: push-up-and-rotation_92
+  - first:
+      213: 1713623530018093025
+    second: push-up-and-rotation_93
+  - first:
+      213: -3957711106889678218
+    second: push-up-and-rotation_94
+  - first:
+      213: 2176519543239286037
+    second: push-up-and-rotation_95
+  - first:
+      213: 1972403444833482378
+    second: push-up-and-rotation_96
+  - first:
+      213: -3774372419464968959
+    second: push-up-and-rotation_97
+  - first:
+      213: -4769995896776731809
+    second: push-up-and-rotation_98
+  - first:
+      213: -856172979054921904
+    second: push-up-and-rotation_99
+  - first:
+      213: 142807198916645257
+    second: push-up-and-rotation_100
+  - first:
+      213: -5061627358251898917
+    second: push-up-and-rotation_101
+  - first:
+      213: 4335432704085000103
+    second: push-up-and-rotation_102
+  - first:
+      213: -1065645917465836561
+    second: push-up-and-rotation_103
+  - first:
+      213: -1895944771834185067
+    second: push-up-and-rotation_104
+  - first:
+      213: 7083108675658965865
+    second: push-up-and-rotation_105
+  - first:
+      213: -7726374299781733309
+    second: push-up-and-rotation_106
+  - first:
+      213: 5993526430042654922
+    second: push-up-and-rotation_107
+  - first:
+      213: -2815933467693030072
+    second: push-up-and-rotation_108
+  - first:
+      213: -1140867326525470358
+    second: push-up-and-rotation_109
+  - first:
+      213: 4005532929872787181
+    second: push-up-and-rotation_110
+  - first:
+      213: 1483078192383440936
+    second: push-up-and-rotation_111
+  - first:
+      213: -1013299998921599139
+    second: push-up-and-rotation_112
+  - first:
+      213: -3822253633853163538
+    second: push-up-and-rotation_113
+  - first:
+      213: 8033737046087051124
+    second: push-up-and-rotation_114
+  - first:
+      213: -8498406126262140612
+    second: push-up-and-rotation_115
+  - first:
+      213: 8411092425790162421
+    second: push-up-and-rotation_116
+  - first:
+      213: 3002819245200788304
+    second: push-up-and-rotation_117
+  - first:
+      213: 2374484637468407399
+    second: push-up-and-rotation_118
+  - first:
+      213: -4989292790209729943
+    second: push-up-and-rotation_119
+  - first:
+      213: -1722454942433877770
+    second: push-up-and-rotation_120
+  - first:
+      213: -9137455224028413343
+    second: push-up-and-rotation_121
+  - first:
+      213: 3683958784935139648
+    second: push-up-and-rotation_122
+  - first:
+      213: 6968743886311940479
+    second: push-up-and-rotation_123
+  - first:
+      213: -8483366320725499153
+    second: push-up-and-rotation_124
+  - first:
+      213: 7113990723385584511
+    second: push-up-and-rotation_125
+  - first:
+      213: 4891547785126672414
+    second: push-up-and-rotation_126
+  - first:
+      213: -674244063381251256
+    second: push-up-and-rotation_127
+  - first:
+      213: -7215011020962331744
+    second: push-up-and-rotation_128
+  - first:
+      213: -8084693882138925370
+    second: push-up-and-rotation_129
+  - first:
+      213: -5703833373698709812
+    second: push-up-and-rotation_130
+  - first:
+      213: -4185289374183154272
+    second: push-up-and-rotation_131
+  - first:
+      213: -7778199638352047255
+    second: push-up-and-rotation_132
+  - first:
+      213: 5833925901160507095
+    second: push-up-and-rotation_133
+  - first:
+      213: 5044150915100971256
+    second: push-up-and-rotation_134
+  - first:
+      213: 7182720142705960298
+    second: push-up-and-rotation_135
+  - first:
+      213: 5524184885311939873
+    second: push-up-and-rotation_136
+  - first:
+      213: -1280364442849405730
+    second: push-up-and-rotation_137
+  - first:
+      213: 6396166576508664071
+    second: push-up-and-rotation_138
+  - first:
+      213: 6843152362525716878
+    second: push-up-and-rotation_139
+  - first:
+      213: -8596586282587473761
+    second: push-up-and-rotation_140
+  - first:
+      213: 3052417555285858289
+    second: push-up-and-rotation_141
+  - first:
+      213: 6707677116430047120
+    second: push-up-and-rotation_142
+  - first:
+      213: 5078247387046869332
+    second: push-up-and-rotation_143
+  - first:
+      213: -7805582585137524554
+    second: push-up-and-rotation_144
+  - first:
+      213: 2898785799825857621
+    second: push-up-and-rotation_145
+  - first:
+      213: -1767030860583068443
+    second: push-up-and-rotation_146
+  - first:
+      213: -5057870442721118701
+    second: push-up-and-rotation_147
+  - first:
+      213: 6291902200046658353
+    second: push-up-and-rotation_148
+  - first:
+      213: -3483417586000636647
+    second: push-up-and-rotation_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: push-up-and-rotation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced2f96e17f7a660800000000000000
+      internalID: 7397152622977932997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc8446624cba5f0800000000000000
+      internalID: -744285644229391373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8919d36a8b035b9d0800000000000000
+      internalID: -2759245627073392232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fcebfbc1586e6b0800000000000000
+      internalID: -5267376355640684754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05312beb7bcf8d60800000000000000
+      internalID: 7894752404890006794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65d221066b1c390800000000000000
+      internalID: -7799752555890911537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ef1085634bf1a0800000000000000
+      internalID: -6774747111228446442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22428bdbe0896d60800000000000000
+      internalID: 7883974373177180715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af28b9e735f0d040800000000000000
+      internalID: 4670502434076372902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b24e930c421fb00800000000000000
+      internalID: 860509411828050833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898900b7ba2082c80800000000000000
+      internalID: -8347418973804914536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54bcada3a065c50800000000000000
+      internalID: 6653516747381622202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057f0bb7fa3ea410800000000000000
+      internalID: 1490193362375898382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47edf4b4305850420800000000000000
+      internalID: 2595627009443880564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca54aac6a7e553a0800000000000000
+      internalID: -6677176168956536120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df981c358228bc9c0800000000000000
+      internalID: -3905885142098277891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f8209793315ca00800000000000000
+      internalID: 776047648355553133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b1d2fcc449cc5b0800000000000000
+      internalID: -5346735599981356195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12879119ecc227550800000000000000
+      internalID: 6157032906278139937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 595
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c02344fdcd7560800000000000000
+      internalID: 7313227818901489248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d80f3d9110b7f0800000000000000
+      internalID: -598959383375193876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb4fe41ee073370800000000000000
+      internalID: 8302120798935891374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff662e306b7af280800000000000000
+      internalID: -9008752451311472649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a7a6a6534ad330800000000000000
+      internalID: 3736372880299501458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001cbf3770d56dd0800000000000000
+      internalID: -2493357608090726390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeda2dbabcd171c0800000000000000
+      internalID: -4507579057425424645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25599aae26bda470800000000000000
+      internalID: 8407576390917510447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0418c57f267a790800000000000000
+      internalID: -7518932238323334959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817bb9ac49271fe0800000000000000
+      internalID: -1218459764938542706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa28d9978ee97e90800000000000000
+      internalID: -7027323477365871957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500289af0a03ec3d0800000000000000
+      internalID: -3184554418547187707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd4a3a9d27c57330800000000000000
+      internalID: 3708088866884439505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb47a7f2d9ebb90800000000000000
+      internalID: -7224163925012201962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ef82760391f460800000000000000
+      internalID: 7273756529081182294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e4efb5e1a05140800000000000000
+      internalID: 4706439618741198919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fdf4dd40f381d30800000000000000
+      internalID: 4402337925880078180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff762603ad93ec00800000000000000
+      internalID: 928759271676870650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad50a57b58523e80800000000000000
+      internalID: -8200394821649539676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733cf38b484902f30800000000000000
+      internalID: 4548798921391981367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 510
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324d95b6a38a95e0800000000000000
+      internalID: -1902063140575821259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448861f41043dcc0800000000000000
+      internalID: -3687533211192622002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6591b89705e658bc0800000000000000
+      internalID: -3781495020192065194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f141e4c5f77a66010800000000000000
+      internalID: 1181816117682639903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47371a93a752f1a20800000000000000
+      internalID: 3035185880754123636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d98b9ce78a12ce0800000000000000
+      internalID: -1431677944023442042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6652998eaac3ef0800000000000000
+      internalID: -127038773494716764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cbc2d89cafdc0b0800000000000000
+      internalID: -5706629409244660600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7b4a249a004950800000000000000
+      internalID: 6431151899366095481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1328ddd949385ab20800000000000000
+      internalID: 3145064589115097649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639f55e6d78c1180800000000000000
+      internalID: -9143283786427952285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31468ae9aa2a27d0800000000000000
+      internalID: -2942492497260691138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb5aab7146e81c0800000000000000
+      internalID: -4499548924618097188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0086361fd9ddcba90800000000000000
+      internalID: -7296713625817618432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03248e4974f4d700800000000000000
+      internalID: 564344655173657358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3befb99f8153f0800000000000000
+      internalID: -913791358866866514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_55
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c61d98c348f9ee0800000000000000
+      internalID: -1252136775840600969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e57eafce29c240800000000000000
+      internalID: 4812429146342155668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f7545840834380800000000000000
+      internalID: -8988199383160328092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7263a86e513b4cbc0800000000000000
+      internalID: -3763686481931389401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_59
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 425
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4163bb1719e48930800000000000000
+      internalID: 4144693842545959246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7ef688e522b190800000000000000
+      internalID: -7948248711728038247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6399ec1d5ab38c5c0800000000000000
+      internalID: -4195037469519996618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a6dfac499471b0800000000000000
+      internalID: -5659730277051226240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876de45c9ddf5a130800000000000000
+      internalID: 3577544590775735928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590508dc2bad916a0800000000000000
+      internalID: -6477906127508975467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a254c767851331730800000000000000
+      internalID: 3968569952658277674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a59b55360824e0800000000000000
+      internalID: -2006346807753989804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1df51fed8e3ab0800000000000000
+      internalID: -5026424076093285105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c2fc4712c90a10800000000000000
+      internalID: 1876244125107536327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30233ff701bbbbd60800000000000000
+      internalID: 7907119250319553027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb033db9896d580800000000000000
+      internalID: -8802680626618515851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ebc47be5928ba0800000000000000
+      internalID: -6088138907742116151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012facad03b5aed40800000000000000
+      internalID: 5614400150858035728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b389271a849150800000000000000
+      internalID: 5878475245710717168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8c94f133714fe0800000000000000
+      internalID: -1206556566764090082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f7bf7b44c7a7bc0800000000000000
+      internalID: -3784575902265147575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55a49d95f0498e0800000000000000
+      internalID: -1687707081785059919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c913ee3fbacbb0800000000000000
+      internalID: -4914905766502481841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759dd3a007402b290800000000000000
+      internalID: -7876227919062902441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 340
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629e878b1c0bccc0800000000000000
+      internalID: -3689842157322071449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72de95831792aa0800000000000000
+      internalID: -6185288126375843890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60e9957e1c52230800000000000000
+      internalID: 3613507475419825859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88cb084a5f0f350800000000000000
+      internalID: 6048604386441857254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3f10d30fedb400800000000000000
+      internalID: 341691946405674361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee582ff39c72d180800000000000000
+      internalID: -9092067722624737565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39e7db772d456730800000000000000
+      internalID: 3991681476710623549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44826ad440cd22c20800000000000000
+      internalID: 3180346197917706308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ea28aa8100bd080800000000000000
+      internalID: -9161728911015235988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbcc8a42e7b415b0800000000000000
+      internalID: -5398487870769148930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d54cccd543bf50800000000000000
+      internalID: 6895932269056611945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd3b96a3689e3f0800000000000000
+      internalID: -871017467479860065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_91
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad2c51fe5701dd0800000000000000
+      internalID: -2517382521977382280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea787f3ce6169fc80800000000000000
+      internalID: -8288486510836611154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ba79758308c710800000000000000
+      internalID: 1713623530018093025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672093697b26319c0800000000000000
+      internalID: -3957711106889678218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_95
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d197d2efc843e10800000000000000
+      internalID: 2176519543239286037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a867e0b9b726f5b10800000000000000
+      internalID: 1972403444833482378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10542cf284cbe9bc0800000000000000
+      internalID: -3774372419464968959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535d8021029dcdb0800000000000000
+      internalID: -4769995896776731809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 255
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057b42536334e14f0800000000000000
+      internalID: -856172979054921904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9819bca046a5bf100800000000000000
+      internalID: 142807198916645257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd72ffd3cbc71c9b0800000000000000
+      internalID: -5061627358251898917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff892031d8a2c30800000000000000
+      internalID: 4335432704085000103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe38a112fa01631f0800000000000000
+      internalID: -1065645917465836561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7011764040b5e0800000000000000
+      internalID: -1895944771834185067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e32600d14c4260800000000000000
+      internalID: 7083108675658965865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3446dcba28766c490800000000000000
+      internalID: -7726374299781733309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88b9678884d2350800000000000000
+      internalID: 5993526430042654922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e50b3e6bcbe8d0800000000000000
+      internalID: -2815933467693030072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69899a0633da20f0800000000000000
+      internalID: -1140867326525470358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6723d3af2869730800000000000000
+      internalID: 4005532929872787181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_111
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b42f12c3f49410800000000000000
+      internalID: 1483078192383440936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57df59050900f1f0800000000000000
+      internalID: -1013299998921599139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_113
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77cb83290a4fac0800000000000000
+      internalID: -3822253633853163538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4772ae267419d7f60800000000000000
+      internalID: 8033737046087051124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_115
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31442797a89f0a80800000000000000
+      internalID: -8498406126262140612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f583345ff33ab470800000000000000
+      internalID: 8411092425790162421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_117
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b46e2a1382ca920800000000000000
+      internalID: 3002819245200788304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663dec723dd3f020800000000000000
+      internalID: 2374484637468407399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_119
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 170
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa12744a872cab0800000000000000
+      internalID: -4989292790209729943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ec961b5c9818e0800000000000000
+      internalID: -1722454942433877770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162cfb4d2ec313180800000000000000
+      internalID: -9137455224028413343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491d371ffc002330800000000000000
+      internalID: 3683958784935139648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f716c4284a3f5b060800000000000000
+      internalID: 6968743886311940479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e4a13747054a80800000000000000
+      internalID: -8483366320725499153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b62d21fd8f9b260800000000000000
+      internalID: 7113990723385584511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f2564bc442e340800000000000000
+      internalID: 4891547785126672414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b9e3eb89a94a6f0800000000000000
+      internalID: -674244063381251256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3030504b12fdb90800000000000000
+      internalID: -7215011020962331744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e55dafb56dcf80800000000000000
+      internalID: -8084693882138925370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6abae44c9e7d0b0800000000000000
+      internalID: -5703833373698709812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad98912d7ddae5c0800000000000000
+      internalID: -4185289374183154272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96354fbb3a84e0490800000000000000
+      internalID: -7778199638352047255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_133
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d66f9892b446f050800000000000000
+      internalID: 5833925901160507095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_134
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01e00488c600640800000000000000
+      internalID: 5044150915100971256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6528030ae52ea360800000000000000
+      internalID: 7182720142705960298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a99282e8d9ac40800000000000000
+      internalID: 5524184885311939873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49be8a25b3b3ee0800000000000000
+      internalID: -1280364442849405730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709760dec9fb3c850800000000000000
+      internalID: 6396166576508664071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_139
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 85
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81783031d2c7fe50800000000000000
+      internalID: 6843152362525716878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98b069925ac2b880800000000000000
+      internalID: -8596586282587473761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7daf8189d5c5a20800000000000000
+      internalID: 3052417555285858289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09754d07cc4761d50800000000000000
+      internalID: 6707677116430047120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459fb72c71f897640800000000000000
+      internalID: 5078247387046869332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b017eb9efffca390800000000000000
+      internalID: -7805582585137524554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c1196935e8a3820800000000000000
+      internalID: 2898785799825857621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec1bcf5bce3a77e0800000000000000
+      internalID: -1767030860583068443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316f8ad41a5dec9b0800000000000000
+      internalID: -5057870442721118701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a74b07b3515750800000000000000
+      internalID: 6291902200046658353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: push-up-and-rotation_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9155516592a68afc0800000000000000
+      internalID: -3483417586000636647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

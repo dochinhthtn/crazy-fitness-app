@@ -10,15 +10,22 @@ namespace Screens {
         // Start is called before the first frame update
         [SerializeField] private RectTransform currentPlanInfoSection;
         [SerializeField] private Text currentPlanName;
+        [SerializeField] private Text currentPlanDate;
         [SerializeField] private ProcessBarController currentProcess;
         [SerializeField] private Button startForTodayButton;
+
         [SerializeField] private RectTransform planInfoSection;
         [SerializeField] private Text planName;
+        [SerializeField] private Text planDates;
         [SerializeField] private Button startPlanButton;
+
         [SerializeField] private DateListController dateList;
 
         private Plan currentPlan;
         private Plan plan;
+        PlanProcessScreen () {
+            screenName = "Plan Process";
+        }
         void Start () {
 
             currentPlan = App.instance.profile.currentPlan;
@@ -26,7 +33,10 @@ namespace Screens {
             plan = (Plan) Navigator.data;
 
             currentPlanInfoSection.gameObject.SetActive (false);
+            startForTodayButton.gameObject.SetActive (false);
+
             planInfoSection.gameObject.SetActive (false);
+            startPlanButton.gameObject.SetActive (false);
 
             if (currentPlan != null && plan.id == currentPlan.id) {
 
@@ -48,18 +58,19 @@ namespace Screens {
 
         void RenderCurrentPlanInfoSection () {
             currentPlanInfoSection.gameObject.SetActive (true);
+            startForTodayButton.gameObject.SetActive (true);
             currentPlanName.text = currentPlan.name;
-            currentProcess.percentage = currentPlan.completedDates.Count * 100 / currentPlan.dates.Count;
-            startForTodayButton.onClick.AddListener (StartForToday);
+            currentProcess.percentage = Mathf.Round(currentPlan.completedDates.Count * 100 / currentPlan.dates.Count) / 100;
         }
 
         void RenderPlanInfoSection () {
             planInfoSection.gameObject.SetActive (true);
+            startPlanButton.gameObject.SetActive (true);
             planName.text = plan.name;
-            startPlanButton.onClick.AddListener (StartPlan);
+            planDates.text = plan.dates.Count.ToString () + " days";
         }
 
-        void StartPlan () {
+        public void StartPlan () {
             Profile currentProfile = App.instance.profile;
             if (currentPlan.id != 0) {
                 Debug.Log ("Already have a current plan. Are you sure to select this plan instead?");
@@ -67,11 +78,17 @@ namespace Screens {
                 Debug.Log ("start new plan");
                 currentProfile.currentPlan = plan;
                 App.instance.SaveProfile (currentProfile);
-                Navigator.Reload();
+                Navigator.Reload ();
             }
         }
 
-        void StartForToday () {
+        public void StartForToday () {
+            foreach (Date date in currentPlan.dates) {
+                if (!date.isCompleted) {
+                    Navigator.NavigateWithData ("ProcessDetailScreen", date, true);
+                    break;
+                }
+            }
 
         }
     }

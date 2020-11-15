@@ -16,7 +16,7 @@ namespace Controller.ComponentControllers {
         }
 
         public void OnPointerClick(PointerEventData pointerEventData) {
-            Navigator.NavigateWithData("ProcessDetailScreen", data);
+            Navigator.NavigateWithData("ProcessDetailScreen", data, false);
         }
     }
 }

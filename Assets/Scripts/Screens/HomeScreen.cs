@@ -21,9 +21,8 @@ namespace Screens {
         // has current plan section
         [SerializeField] private RectTransform sectionIfHasCurrentPlan;
         [SerializeField] private Text currentPlanName;
-        [SerializeField] private ProcessBarController currentProcessBar;
-        [SerializeField] private Text currentPlanDates;
-        [SerializeField] private Button continuePlanButton;
+        [SerializeField] private ProcessBarController currentPlanProcessBar;
+        [SerializeField] private Text currentPlanDatesText;
         // lists
         [SerializeField] private PlanListController recommendedPlanList;
 
@@ -54,7 +53,7 @@ namespace Screens {
 
         void RenderStatSection() {
             challengesCompletedText.text = profile.completedChallenges.Count.ToString();
-            durationsText.text = profile.currentDurations.ToString();
+            durationsText.text = StringUtils.SecondsToMinutes((int) profile.currentDurations);
             planCompletedText.text = profile.completedPlans.Count.ToString();
             caloriesConsumedText.text = profile.currentCalories.ToString();
         }
@@ -67,20 +66,25 @@ namespace Screens {
             if (currentPlan.id == 0) {
                 sectionIfNoCurrentPlan.gameObject.SetActive (true);
             } else {
+                int completedDates = currentPlan.completedDates.Count;
+                int currentPlanDates = currentPlan.dates.Count;
                 sectionIfHasCurrentPlan.gameObject.SetActive (true);
                 currentPlanName.text = currentPlan.name;
-                currentPlanDates.text = currentPlan.completedDates.Count.ToString() + "/" + currentPlan.dates.Count.ToString() + " days";
+                currentPlanProcessBar.percentage = Mathf.Round(completedDates * 100 / currentPlanDates) / 100;
+                currentPlanDatesText.text = completedDates.ToString() + "/" + currentPlanDates.ToString() + " days";
             }
         }
 
         void RenderRecommendedPlanList () {
             RestClient.Get<Result<List<Plan>>>(Config.api + "/plan").Then((result) => {
                 recommendedPlanList.SetData(result.data);
+            }).Catch((error) => {
+                recommendedPlanList.ShowErrorPanel();
             });
         }
 
         void RenderRecommendedChallengeList() {
-
+            
         }
     }
 }

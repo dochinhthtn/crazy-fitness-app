@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 29d48c62fb395e440b3e862a5955146b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2739658593119806623
+    second: alternating-rope-whips_0
+  - first:
+      213: -7716208414120509582
+    second: alternating-rope-whips_1
+  - first:
+      213: -2809958424382991617
+    second: alternating-rope-whips_2
+  - first:
+      213: -8689300749529835133
+    second: alternating-rope-whips_3
+  - first:
+      213: 3936143944812976062
+    second: alternating-rope-whips_4
+  - first:
+      213: -390710181063780393
+    second: alternating-rope-whips_5
+  - first:
+      213: -6170624731510898036
+    second: alternating-rope-whips_6
+  - first:
+      213: 4877034616412074555
+    second: alternating-rope-whips_7
+  - first:
+      213: 7263418245349332694
+    second: alternating-rope-whips_8
+  - first:
+      213: -1112469165225717158
+    second: alternating-rope-whips_9
+  - first:
+      213: 4367771975069965380
+    second: alternating-rope-whips_10
+  - first:
+      213: 7752708574364720868
+    second: alternating-rope-whips_11
+  - first:
+      213: -5108007848201470962
+    second: alternating-rope-whips_12
+  - first:
+      213: 2735444615123787316
+    second: alternating-rope-whips_13
+  - first:
+      213: -811824334314830796
+    second: alternating-rope-whips_14
+  - first:
+      213: -2591985729893884287
+    second: alternating-rope-whips_15
+  - first:
+      213: 2843109693064128589
+    second: alternating-rope-whips_16
+  - first:
+      213: 3026277290335505126
+    second: alternating-rope-whips_17
+  - first:
+      213: 8906446344973475323
+    second: alternating-rope-whips_18
+  - first:
+      213: -1419099515025828873
+    second: alternating-rope-whips_19
+  - first:
+      213: -2358606327775675278
+    second: alternating-rope-whips_20
+  - first:
+      213: -2897515461014728136
+    second: alternating-rope-whips_21
+  - first:
+      213: -4040328114611340933
+    second: alternating-rope-whips_22
+  - first:
+      213: 7101217571806579736
+    second: alternating-rope-whips_23
+  - first:
+      213: 4486465897959048801
+    second: alternating-rope-whips_24
+  - first:
+      213: 4169843581547402530
+    second: alternating-rope-whips_25
+  - first:
+      213: -3068991975827957439
+    second: alternating-rope-whips_26
+  - first:
+      213: 1509614014481140153
+    second: alternating-rope-whips_27
+  - first:
+      213: -5083227726684902322
+    second: alternating-rope-whips_28
+  - first:
+      213: -2356580876118424006
+    second: alternating-rope-whips_29
+  - first:
+      213: 2982233074355676302
+    second: alternating-rope-whips_30
+  - first:
+      213: -5431032126842113838
+    second: alternating-rope-whips_31
+  - first:
+      213: -6711473500954598693
+    second: alternating-rope-whips_32
+  - first:
+      213: -8170673449325580530
+    second: alternating-rope-whips_33
+  - first:
+      213: -7881918047511358832
+    second: alternating-rope-whips_34
+  - first:
+      213: 2727485506908647499
+    second: alternating-rope-whips_35
+  - first:
+      213: -8813883753312103578
+    second: alternating-rope-whips_36
+  - first:
+      213: -7505365679643055198
+    second: alternating-rope-whips_37
+  - first:
+      213: 7975514784734714482
+    second: alternating-rope-whips_38
+  - first:
+      213: 5039709865150164471
+    second: alternating-rope-whips_39
+  - first:
+      213: 2832322555924510083
+    second: alternating-rope-whips_40
+  - first:
+      213: 9144723269414251992
+    second: alternating-rope-whips_41
+  - first:
+      213: -2808239647557052002
+    second: alternating-rope-whips_42
+  - first:
+      213: -301505510125753528
+    second: alternating-rope-whips_43
+  - first:
+      213: -6217570079089876834
+    second: alternating-rope-whips_44
+  - first:
+      213: -1803642730584081719
+    second: alternating-rope-whips_45
+  - first:
+      213: 2156690182411309608
+    second: alternating-rope-whips_46
+  - first:
+      213: -3051530299073811497
+    second: alternating-rope-whips_47
+  - first:
+      213: -8554474042225200197
+    second: alternating-rope-whips_48
+  - first:
+      213: -7970287912394706131
+    second: alternating-rope-whips_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alternating-rope-whips_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a0c0a9f8350620800000000000000
+      internalID: 2739658593119806623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f777f54558ae490800000000000000
+      internalID: -7716208414120509582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2190963b50109d0800000000000000
+      internalID: -2809958424382991617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891db59107696780800000000000000
+      internalID: -8689300749529835133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d16f201eff9630800000000000000
+      internalID: 3936143944812976062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7909f092be39af0800000000000000
+      internalID: -390710181063780393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c828d0400898d5aa0800000000000000
+      internalID: -6170624731510898036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32768cd425bea340800000000000000
+      internalID: 4877034616412074555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d653213968dcc460800000000000000
+      internalID: 7263418245349332694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 348
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5255273037bf80f0800000000000000
+      internalID: -1112469165225717158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c93f948717d9c30800000000000000
+      internalID: 4367771975069965380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee522e6f57279b60800000000000000
+      internalID: 7752708574364720868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3b0aece5bc19b0800000000000000
+      internalID: -5108007848201470962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e553b626046f520800000000000000
+      internalID: 2735444615123787316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348525b112dbb4f0800000000000000
+      internalID: -811824334314830796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1bca26ba670cd0800000000000000
+      internalID: -2591985729893884287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ae80d331c47720800000000000000
+      internalID: 2843109693064128589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea8742692f7ff920800000000000000
+      internalID: 3026277290335505126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd583b23cd0a9b70800000000000000
+      internalID: 8906446344973475323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 261
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d4f182885e4ce0800000000000000
+      internalID: -1419099515025828873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c31f39a0c844fd0800000000000000
+      internalID: -2358606327775675278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d3073a05f9c7d0800000000000000
+      internalID: -2897515461014728136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7931908cfedde7c0800000000000000
+      internalID: -4040328114611340933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0b48f1c79c8260800000000000000
+      internalID: 7101217571806579736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c0c0c6f0234e30800000000000000
+      internalID: 4486465897959048801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225531705a24ed930800000000000000
+      internalID: 4169843581547402530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1491046ee00c865d0800000000000000
+      internalID: -3068991975827957439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98919a2f933f410800000000000000
+      internalID: 1509614014481140153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca78e805fb479b0800000000000000
+      internalID: -5083227726684902322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 174
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368b7acd2ebb4fd0800000000000000
+      internalID: -2356580876118424006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84246a3e25036920800000000000000
+      internalID: 2982233074355676302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d077d33e0911a4b0800000000000000
+      internalID: -5431032126842113838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26728e86e0cd2a0800000000000000
+      internalID: -6711473500954598693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fab35b9cfeb9e80800000000000000
+      internalID: -8170673449325580530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925855cb4dcd9290800000000000000
+      internalID: -7881918047511358832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f0512e99f9d520800000000000000
+      internalID: 2727485506908647499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663de30ac6bcea580800000000000000
+      internalID: -8813883753312103578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba773fda597d790800000000000000
+      internalID: -7505365679643055198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a1dfcc078beae60800000000000000
+      internalID: 7975514784734714482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 87
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdae4bbb65a0f540800000000000000
+      internalID: 5039709865150164471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f43bbb5e6e4720800000000000000
+      internalID: 2832322555924510083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6faadc5598ee70800000000000000
+      internalID: 9144723269414251992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9991335be02709d0800000000000000
+      internalID: -2808239647557052002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ba1230656d0dbf0800000000000000
+      internalID: -301505510125753528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9020c584f0c6b9a0800000000000000
+      internalID: -6217570079089876834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf1dd1e7c28f6e0800000000000000
+      internalID: -1803642730584081719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d2355b4a1eed10800000000000000
+      internalID: 2156690182411309608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2d565c59c6a5d0800000000000000
+      internalID: -3051530299073811497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3fdd0ae27684980800000000000000
+      internalID: -8554474042225200197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-rope-whips_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23bf104f59d36190800000000000000
+      internalID: -7970287912394706131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

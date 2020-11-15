@@ -11,6 +11,7 @@ public class History {
     }
 }
 public static class Navigator {
+    static public object tmpData;
     static public object data {
         get {
             if (histories.Count == 0) return null;
@@ -20,10 +21,11 @@ public static class Navigator {
     }
     static public Stack<History> histories = new Stack<History>();
     static public void Navigate(string screenName) {
-        NavigateWithData(screenName, null);        
+        NavigateWithData(screenName, null, null);        
     }
 
-    static public void NavigateWithData(string screenName, object data) {
+    static public void NavigateWithData(string screenName, object data, object tmpData = null) {
+        Navigator.tmpData = tmpData;
         histories.Push(new History(screenName, data));
         SceneManager.LoadSceneAsync(screenName);
     }

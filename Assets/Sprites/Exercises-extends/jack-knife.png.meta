@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 53085ed5896e0c54da19c4ea42b20fca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6276220934847822229
+    second: jack-knife_0
+  - first:
+      213: -3188823132912665114
+    second: jack-knife_1
+  - first:
+      213: 17439719279461852
+    second: jack-knife_2
+  - first:
+      213: -3448872855942737703
+    second: jack-knife_3
+  - first:
+      213: -4716025363918202123
+    second: jack-knife_4
+  - first:
+      213: -4037235227566833746
+    second: jack-knife_5
+  - first:
+      213: 8792580354438324083
+    second: jack-knife_6
+  - first:
+      213: -2145710562545594791
+    second: jack-knife_7
+  - first:
+      213: -5394884696069387164
+    second: jack-knife_8
+  - first:
+      213: -428680625188942136
+    second: jack-knife_9
+  - first:
+      213: 8115157928304678927
+    second: jack-knife_10
+  - first:
+      213: -4307684475457223507
+    second: jack-knife_11
+  - first:
+      213: -2729591306720679403
+    second: jack-knife_12
+  - first:
+      213: 8057100894583968092
+    second: jack-knife_13
+  - first:
+      213: -6733468038106787513
+    second: jack-knife_14
+  - first:
+      213: -3915093818288264913
+    second: jack-knife_15
+  - first:
+      213: -5630801838430859807
+    second: jack-knife_16
+  - first:
+      213: -6020459696835502015
+    second: jack-knife_17
+  - first:
+      213: 5609418484216757170
+    second: jack-knife_18
+  - first:
+      213: -3244546477271080659
+    second: jack-knife_19
+  - first:
+      213: 8769407402322730512
+    second: jack-knife_20
+  - first:
+      213: -2534501296926618201
+    second: jack-knife_21
+  - first:
+      213: -1663532213394009087
+    second: jack-knife_22
+  - first:
+      213: 2521114207174450366
+    second: jack-knife_23
+  - first:
+      213: -5595414158705029893
+    second: jack-knife_24
+  - first:
+      213: -9008777818863782795
+    second: jack-knife_25
+  - first:
+      213: 2547767852402428131
+    second: jack-knife_26
+  - first:
+      213: -8803067390563226873
+    second: jack-knife_27
+  - first:
+      213: 2631494421775603022
+    second: jack-knife_28
+  - first:
+      213: -4947964900011016021
+    second: jack-knife_29
+  - first:
+      213: -1341413566295930887
+    second: jack-knife_30
+  - first:
+      213: -7532905196895737954
+    second: jack-knife_31
+  - first:
+      213: 2425038218725994935
+    second: jack-knife_32
+  - first:
+      213: -3721518623347918611
+    second: jack-knife_33
+  - first:
+      213: 2040446608490134665
+    second: jack-knife_34
+  - first:
+      213: -78232162014298511
+    second: jack-knife_35
+  - first:
+      213: 819721951352707817
+    second: jack-knife_36
+  - first:
+      213: -7490237070346764054
+    second: jack-knife_37
+  - first:
+      213: 223361179851928837
+    second: jack-knife_38
+  - first:
+      213: 7803880726887942470
+    second: jack-knife_39
+  - first:
+      213: 1570489595890162645
+    second: jack-knife_40
+  - first:
+      213: 1920913940703155416
+    second: jack-knife_41
+  - first:
+      213: -8491573117337530073
+    second: jack-knife_42
+  - first:
+      213: -2215312785231666105
+    second: jack-knife_43
+  - first:
+      213: -309249087275256883
+    second: jack-knife_44
+  - first:
+      213: -8196952098120637152
+    second: jack-knife_45
+  - first:
+      213: -5363912955207883612
+    second: jack-knife_46
+  - first:
+      213: -5683738166225899903
+    second: jack-knife_47
+  - first:
+      213: 7985728828466083895
+    second: jack-knife_48
+  - first:
+      213: 5271132251968661793
+    second: jack-knife_49
+  - first:
+      213: -5025078611987810905
+    second: jack-knife_50
+  - first:
+      213: 862949016994487465
+    second: jack-knife_51
+  - first:
+      213: 8629734171922737070
+    second: jack-knife_52
+  - first:
+      213: 7096027665540522539
+    second: jack-knife_53
+  - first:
+      213: 6685563309374545275
+    second: jack-knife_54
+  - first:
+      213: 7206353838103494520
+    second: jack-knife_55
+  - first:
+      213: 6211170316523280440
+    second: jack-knife_56
+  - first:
+      213: -1353135563876174445
+    second: jack-knife_57
+  - first:
+      213: 4396745040178029377
+    second: jack-knife_58
+  - first:
+      213: -4128261115904797707
+    second: jack-knife_59
+  - first:
+      213: 6596587179035712571
+    second: jack-knife_60
+  - first:
+      213: -752639874509599599
+    second: jack-knife_61
+  - first:
+      213: 1353742343582005993
+    second: jack-knife_62
+  - first:
+      213: 6121601513908771278
+    second: jack-knife_63
+  - first:
+      213: 4819771354183786473
+    second: jack-knife_64
+  - first:
+      213: 3250004229546600184
+    second: jack-knife_65
+  - first:
+      213: -5446853124401655147
+    second: jack-knife_66
+  - first:
+      213: 3099128550499267843
+    second: jack-knife_67
+  - first:
+      213: 2070385421367630430
+    second: jack-knife_68
+  - first:
+      213: -3767657982316129043
+    second: jack-knife_69
+  - first:
+      213: -3428944763125148728
+    second: jack-knife_70
+  - first:
+      213: 5153904199863067613
+    second: jack-knife_71
+  - first:
+      213: -1760351472683829409
+    second: jack-knife_72
+  - first:
+      213: 7772856603312667962
+    second: jack-knife_73
+  - first:
+      213: 4401539139030001102
+    second: jack-knife_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jack-knife_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997979ffad991750800000000000000
+      internalID: 6276220934847822229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed313771460fb3d0800000000000000
+      internalID: -3188823132912665114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd582a01555fd3000800000000000000
+      internalID: 17439719279461852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0db0219642320d0800000000000000
+      internalID: -3448872855942737703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa5ce70bef4d8eb0800000000000000
+      internalID: -4716025363918202123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf7f2263fbd8f7c0800000000000000
+      internalID: -4037235227566833746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fdf5d4f35850a70800000000000000
+      internalID: 8792580354438324083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8aa0ac97e832e0800000000000000
+      internalID: -2145710562545594791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc796c3f48125b0800000000000000
+      internalID: -5394884696069387164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce458d1e350d0af0800000000000000
+      internalID: -428680625188942136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089bccc325de9070800000000000000
+      internalID: 8115157928304678927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da448ebeac70834c0800000000000000
+      internalID: -4307684475457223507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6be42b2b8e1ad0800000000000000
+      internalID: -2729591306720679403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51d825439290df60800000000000000
+      internalID: 8057100894583968092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d23aae7aed82a0800000000000000
+      internalID: -6733468038106787513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29a9925aeacaa9c0800000000000000
+      internalID: -3915093818288264913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed46bbaf8f5bd1b0800000000000000
+      internalID: -5630801838430859807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406091bdc7037ca0800000000000000
+      internalID: -6020459696835502015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbff343468a8dd40800000000000000
+      internalID: 5609418484216757170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2123055b2e09f2d0800000000000000
+      internalID: -3244546477271080659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e9022f19133b970800000000000000
+      internalID: 8769407402322730512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad0ce1bf74a3dcd0800000000000000
+      internalID: -2534501296926618201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1041b340442f9e8e0800000000000000
+      internalID: -1663532213394009087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd2d4930cccf220800000000000000
+      internalID: 2521114207174450366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc023be7781952b0800000000000000
+      internalID: -5595414158705029893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574b436ed446af280800000000000000
+      internalID: -9008777818863782795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e84b94fc5d7b5320800000000000000
+      internalID: 2547767852402428131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b67a359d835d580800000000000000
+      internalID: -8803067390563226873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455b5efb32f48420800000000000000
+      internalID: 2631494421775603022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba00ebd832c455bb0800000000000000
+      internalID: -4947964900011016021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f78a04f777526de0800000000000000
+      internalID: -1341413566295930887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e55c62aeb57790800000000000000
+      internalID: -7532905196895737954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b8e9596777a120800000000000000
+      internalID: 2425038218725994935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b85e87828a5cc0800000000000000
+      internalID: -3721518623347918611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7432316f115c10800000000000000
+      internalID: 2040446608490134665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e702d53401aeef0800000000000000
+      internalID: -78232162014298511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead7fc85cc306b00800000000000000
+      internalID: 819721951352707817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c48ac1155d0890800000000000000
+      internalID: -7490237070346764054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505bfa54fc9891300800000000000000
+      internalID: 223361179851928837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494ca3ac24fc4c60800000000000000
+      internalID: 7803880726887942470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbda7677ff7bc510800000000000000
+      internalID: 1570489595890162645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d415b73d0578aa10800000000000000
+      internalID: 1920913940703155416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72117d47d3fd72a80800000000000000
+      internalID: -8491573117337530073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a2e152c0a141e0800000000000000
+      internalID: -2215312785231666105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc338d5f79355bbf0800000000000000
+      internalID: -309249087275256883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02560aefe739e3e80800000000000000
+      internalID: -8196952098120637152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e7b2269d8f85b0800000000000000
+      internalID: -5363912955207883612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e66c5604e4f11b0800000000000000
+      internalID: -5683738166225899903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738315d2f0203de60800000000000000
+      internalID: 7985728828466083895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12962b20bd2d62940800000000000000
+      internalID: 5271132251968661793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5bd0c50a5534ab0800000000000000
+      internalID: -5025078611987810905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9a311f8fc9fb00800000000000000
+      internalID: 862949016994487465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7218fc189f2c770800000000000000
+      internalID: 8629734171922737070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2223e0c0972a7260800000000000000
+      internalID: 7096027665540522539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d97a28864e7cc50800000000000000
+      internalID: 6685563309374545275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7ee582ac120460800000000000000
+      internalID: 7206353838103494520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83812d3ae72823650800000000000000
+      internalID: 6211170316523280440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957636bf52b83de0800000000000000
+      internalID: -1353135563876174445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143a5cfa150640d30800000000000000
+      internalID: 4396745040178029377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3df66336875b6c0800000000000000
+      internalID: -4128261115904797707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd150d619cb8b50800000000000000
+      internalID: 6596587179035712571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8f0495061e85f0800000000000000
+      internalID: -752639874509599599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea3c923d7579c210800000000000000
+      internalID: 1353742343582005993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9960da42c44f450800000000000000
+      internalID: 6121601513908771278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef5ab8a28443e240800000000000000
+      internalID: 4819771354183786473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f664a4a0a55a1d20800000000000000
+      internalID: 3250004229546600184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592105821f3e864b0800000000000000
+      internalID: -5446853124401655147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b7cd2ff0520b20800000000000000
+      internalID: 3099128550499267843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad3c4429c7bbc10800000000000000
+      internalID: 2070385421367630430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4d1e8e60796bbc0800000000000000
+      internalID: -3767657982316129043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35d7fb7e0f960d0800000000000000
+      internalID: -3428944763125148728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd36b3f2098568740800000000000000
+      internalID: 5153904199863067613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5738de89a9f197e0800000000000000
+      internalID: -1760351472683829409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d308af5ebbedb60800000000000000
+      internalID: 7772856603312667962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack-knife_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5acdec688651d30800000000000000
+      internalID: 4401539139030001102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

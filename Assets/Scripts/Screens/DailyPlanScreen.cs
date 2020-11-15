@@ -8,40 +8,70 @@ using UnityEngine.UI;
 
 namespace Screens {
     public class DailyPlanScreen : Screen {
-        [SerializeField] private Text planLabel;
+        [SerializeField] private RectTransform allPlansContent;
+        [SerializeField] private SimpleSearchForm searchPlansForm;
         [SerializeField] private PlanListController planList;
+        private int currentPlanPage = 1;
 
-        // search plans
-        [SerializeField] private SimpleSearchForm searchForm;
+        [SerializeField] private RectTransform recommendedPlansPlansContent;
+        [SerializeField] private SimpleSearchForm searchRecommendedPlansForm;
+        [SerializeField] private PlanListController recommendedPlanList;
+        private int currentRecommendedPlanPage = 1;
+
+        DailyPlanScreen () {
+            screenName = "Daily Plan";
+        }
 
         void Start () {
-            searchForm.simpleSearch = SearchPlans;
-            ShowAllPlans();
+            ShowAllPlansContent ();
+            RenderPlanList ();
+            RenderRecommendedPlanList ();
         }
 
-        public void ShowRecommendedPlans () {
-            RenderPlanList("Recommended Plans", "/plan");
+        public void HideAllContent () {
+            allPlansContent.gameObject.SetActive (false);
+            recommendedPlansPlansContent.gameObject.SetActive (false);
         }
 
-        public void ShowAllPlans () {
-            RenderPlanList("All Plans", "/plan");
+        public void ShowAllPlansContent () {
+            HideAllContent ();
+            allPlansContent.gameObject.SetActive (true);
         }
 
-        public void ShowTopPlans () {
-            RenderPlanList("Top Plans", "/plan/top");
+        public void ShowRecommendedPlansContent () {
+            HideAllContent ();
+            recommendedPlansPlansContent.gameObject.SetActive (true);
         }
 
-        public void SearchPlans (string keyword) {
-            if (keyword == "") return;
-            RenderPlanList ("Result for \"" + keyword + "\"", "/plan/search/" + keyword);
+        public void ShowCurrentPlanContent () {
+            Profile profile = App.instance.profile;
+            if(profile.currentPlan.id != 0) {
+                Navigator.NavigateWithData("ProcessDetailScreen", profile.currentPlan);
+            }
         }
 
-        void RenderPlanList (string label, string url) {
-            planLabel.text = label;
-            planList.ShowLoadingPanel();
-            RestClient.Get<Result<List<Plan>>> (Config.api + url).Then ((result) => {
-                planList.SetData (result.data);
+        public void LoadPlans (PlanListController planList, string url, int page = 1) {
+            planList.ShowLoadingPanel ();
+            RestClient.Get<Result<List<Plan>>> (Config.api + url + "?page=" + page.ToString ()).Then ((result) => {
+                if (page > 1) {
+                    List<Plan> data = planList.GetData ();
+                    data.AddRange (result.data);
+                    planList.SetData (data);
+                } else {
+                    planList.SetData (result.data);
+                }
+            }).Catch ((error) => {
+                planList.ShowErrorPanel ();
             });
         }
+
+        public void RenderPlanList () {
+            LoadPlans (this.planList, "/plan", currentPlanPage++);
+        }
+
+        public void RenderRecommendedPlanList () {
+            LoadPlans (this.recommendedPlanList, "/plan", currentRecommendedPlanPage++);
+        }
+
     }
 }

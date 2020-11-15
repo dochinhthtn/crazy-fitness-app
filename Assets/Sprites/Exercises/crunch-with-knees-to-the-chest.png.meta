@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: b188b8c46d8f0714f88846cf21c323ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8956332153990932885
+    second: crunch-with-knees-to-the-chest_0
+  - first:
+      213: -8217516027332046110
+    second: crunch-with-knees-to-the-chest_1
+  - first:
+      213: -4849016666469067689
+    second: crunch-with-knees-to-the-chest_2
+  - first:
+      213: -5941846047313460489
+    second: crunch-with-knees-to-the-chest_3
+  - first:
+      213: -8008135754420307274
+    second: crunch-with-knees-to-the-chest_4
+  - first:
+      213: -8261634928939159451
+    second: crunch-with-knees-to-the-chest_5
+  - first:
+      213: 8063602690573162343
+    second: crunch-with-knees-to-the-chest_6
+  - first:
+      213: -6831038225801964677
+    second: crunch-with-knees-to-the-chest_7
+  - first:
+      213: -5740657784678385719
+    second: crunch-with-knees-to-the-chest_8
+  - first:
+      213: 8092490893765778166
+    second: crunch-with-knees-to-the-chest_9
+  - first:
+      213: 4855948123525835721
+    second: crunch-with-knees-to-the-chest_10
+  - first:
+      213: -4302452941948114906
+    second: crunch-with-knees-to-the-chest_11
+  - first:
+      213: 1680985903850114825
+    second: crunch-with-knees-to-the-chest_12
+  - first:
+      213: 3559938414871083591
+    second: crunch-with-knees-to-the-chest_13
+  - first:
+      213: -2300401027067200277
+    second: crunch-with-knees-to-the-chest_14
+  - first:
+      213: -5135554903550988949
+    second: crunch-with-knees-to-the-chest_15
+  - first:
+      213: 6745738420254755012
+    second: crunch-with-knees-to-the-chest_16
+  - first:
+      213: 4836560686895449804
+    second: crunch-with-knees-to-the-chest_17
+  - first:
+      213: -6709778875689666298
+    second: crunch-with-knees-to-the-chest_18
+  - first:
+      213: 2900455672519330084
+    second: crunch-with-knees-to-the-chest_19
+  - first:
+      213: -1518729865333358573
+    second: crunch-with-knees-to-the-chest_20
+  - first:
+      213: 4983016891696282232
+    second: crunch-with-knees-to-the-chest_21
+  - first:
+      213: 5163153190783678858
+    second: crunch-with-knees-to-the-chest_22
+  - first:
+      213: -2458777868227023351
+    second: crunch-with-knees-to-the-chest_23
+  - first:
+      213: -5625469318103034492
+    second: crunch-with-knees-to-the-chest_24
+  - first:
+      213: 4852667460015818307
+    second: crunch-with-knees-to-the-chest_25
+  - first:
+      213: -6592423111088402127
+    second: crunch-with-knees-to-the-chest_26
+  - first:
+      213: 1907070298861615376
+    second: crunch-with-knees-to-the-chest_27
+  - first:
+      213: -861165552372902893
+    second: crunch-with-knees-to-the-chest_28
+  - first:
+      213: 3847811207557182575
+    second: crunch-with-knees-to-the-chest_29
+  - first:
+      213: -7841856628534844879
+    second: crunch-with-knees-to-the-chest_30
+  - first:
+      213: -5804593837418448920
+    second: crunch-with-knees-to-the-chest_31
+  - first:
+      213: -4636693914719017138
+    second: crunch-with-knees-to-the-chest_32
+  - first:
+      213: -1571412284362676334
+    second: crunch-with-knees-to-the-chest_33
+  - first:
+      213: -8426052001827513133
+    second: crunch-with-knees-to-the-chest_34
+  - first:
+      213: 5194497773314375407
+    second: crunch-with-knees-to-the-chest_35
+  - first:
+      213: 1578053943446108011
+    second: crunch-with-knees-to-the-chest_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e90134a84b4c70800000000000000
+      internalID: 8956332153990932885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25bce16b485fd80800000000000000
+      internalID: -8217516027332046110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75499257805d4bcb0800000000000000
+      internalID: -4849016666469067689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f282df40825a8da0800000000000000
+      internalID: -5941846047313460489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3ca4d5f26dd090800000000000000
+      internalID: -8008135754420307274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5603f9cddc6c85d80800000000000000
+      internalID: -8261634928939159451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1040
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7675f7d9ceba7ef60800000000000000
+      internalID: 8063602690573162343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7395ff0de64331a0800000000000000
+      internalID: -6831038225801964677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f92ff8261550b0800000000000000
+      internalID: -5740657784678385719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1efe879d4e4070800000000000000
+      internalID: 8092490893765778166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6b76271bc36340800000000000000
+      internalID: 4855948123525835721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_11
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628295c38dd9a44c0800000000000000
+      internalID: -4302452941948114906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fcc67f5cf045710800000000000000
+      internalID: 1680985903850114825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 832
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a78a08021776130800000000000000
+      internalID: 3559938414871083591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec37b434755310e0800000000000000
+      internalID: -2300401027067200277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de3594608dab8b0800000000000000
+      internalID: -5135554903550988949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c84dfe4a5dad9d50800000000000000
+      internalID: 6745738420254755012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c50dc15aee1340800000000000000
+      internalID: 4836560686895449804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f81999a312e2a0800000000000000
+      internalID: -6709778875689666298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429084f111d704820800000000000000
+      internalID: 2900455672519330084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_20
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 624
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310470beb336ceae0800000000000000
+      internalID: -1518729865333358573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af35b367b372540800000000000000
+      internalID: 4983016891696282232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f591b87437a740800000000000000
+      internalID: 5163153190783678858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6cb65e8aa0edd0800000000000000
+      internalID: -2458777868227023351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851c9fc5715ee1b0800000000000000
+      internalID: -5625469318103034492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34607572853285340800000000000000
+      internalID: 4852667460015818307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131108ecb120384a0800000000000000
+      internalID: -6592423111088402127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_27
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 416
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019385d2556477a10800000000000000
+      internalID: 1907070298861615376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31492062e768c04f0800000000000000
+      internalID: -861165552372902893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64763d18eb266530800000000000000
+      internalID: 3847811207557182575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13263acb1f02c2390800000000000000
+      internalID: -7841856628534844879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7704fa8a0f17fa0800000000000000
+      internalID: -5804593837418448920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4725f8637727afb0800000000000000
+      internalID: -4636693914719017138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_33
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a0e26ad8313ae0800000000000000
+      internalID: -1571412284362676334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_34
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 208
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1a14f856a01b80800000000000000
+      internalID: -8426052001827513133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef5f40430961840800000000000000
+      internalID: 5194497773314375407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crunch-with-knees-to-the-chest_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67728f53bf56e510800000000000000
+      internalID: 1578053943446108011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

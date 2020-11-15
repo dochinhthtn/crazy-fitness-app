@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 58fb5dbf5153f7548a5e52ee09d5b1fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2214798960768012015
+    second: dumbbell-lateral-squats_0
+  - first:
+      213: -1888837630833862213
+    second: dumbbell-lateral-squats_1
+  - first:
+      213: 3312765698788998574
+    second: dumbbell-lateral-squats_2
+  - first:
+      213: 1006239390436171410
+    second: dumbbell-lateral-squats_3
+  - first:
+      213: -6967115194510461229
+    second: dumbbell-lateral-squats_4
+  - first:
+      213: -3948945150752357225
+    second: dumbbell-lateral-squats_5
+  - first:
+      213: -8038017772639712149
+    second: dumbbell-lateral-squats_6
+  - first:
+      213: 1312508631189343767
+    second: dumbbell-lateral-squats_7
+  - first:
+      213: 8411969877561982804
+    second: dumbbell-lateral-squats_8
+  - first:
+      213: -1110182275663336497
+    second: dumbbell-lateral-squats_9
+  - first:
+      213: 5043103469198122911
+    second: dumbbell-lateral-squats_10
+  - first:
+      213: -5153418901295565362
+    second: dumbbell-lateral-squats_11
+  - first:
+      213: -2277487688416375229
+    second: dumbbell-lateral-squats_12
+  - first:
+      213: -3633103709007216163
+    second: dumbbell-lateral-squats_13
+  - first:
+      213: -6918020394168254611
+    second: dumbbell-lateral-squats_14
+  - first:
+      213: 6612741512289564817
+    second: dumbbell-lateral-squats_15
+  - first:
+      213: 4684590653073801084
+    second: dumbbell-lateral-squats_16
+  - first:
+      213: -5541788589064242997
+    second: dumbbell-lateral-squats_17
+  - first:
+      213: 8159671503980071189
+    second: dumbbell-lateral-squats_18
+  - first:
+      213: -7154944678279977420
+    second: dumbbell-lateral-squats_19
+  - first:
+      213: 6767484491513484478
+    second: dumbbell-lateral-squats_20
+  - first:
+      213: -2124639483963580621
+    second: dumbbell-lateral-squats_21
+  - first:
+      213: 3677944595882186729
+    second: dumbbell-lateral-squats_22
+  - first:
+      213: -8222474513751203354
+    second: dumbbell-lateral-squats_23
+  - first:
+      213: -7753600383484645357
+    second: dumbbell-lateral-squats_24
+  - first:
+      213: 1745658470111152406
+    second: dumbbell-lateral-squats_25
+  - first:
+      213: -8062716807786026508
+    second: dumbbell-lateral-squats_26
+  - first:
+      213: -1390920881084390677
+    second: dumbbell-lateral-squats_27
+  - first:
+      213: -7035873538782485882
+    second: dumbbell-lateral-squats_28
+  - first:
+      213: -7534832804208549706
+    second: dumbbell-lateral-squats_29
+  - first:
+      213: -5934709708536563082
+    second: dumbbell-lateral-squats_30
+  - first:
+      213: 72456597320397277
+    second: dumbbell-lateral-squats_31
+  - first:
+      213: 809967612139888917
+    second: dumbbell-lateral-squats_32
+  - first:
+      213: 5811012555213365025
+    second: dumbbell-lateral-squats_33
+  - first:
+      213: -8178574569823732680
+    second: dumbbell-lateral-squats_34
+  - first:
+      213: -551360869960922110
+    second: dumbbell-lateral-squats_35
+  - first:
+      213: 4596137448149132502
+    second: dumbbell-lateral-squats_36
+  - first:
+      213: -1759213124699259121
+    second: dumbbell-lateral-squats_37
+  - first:
+      213: -772699213751140493
+    second: dumbbell-lateral-squats_38
+  - first:
+      213: -2246735899620141854
+    second: dumbbell-lateral-squats_39
+  - first:
+      213: -4218258288444966157
+    second: dumbbell-lateral-squats_40
+  - first:
+      213: 568275841154927958
+    second: dumbbell-lateral-squats_41
+  - first:
+      213: -7345546421603476463
+    second: dumbbell-lateral-squats_42
+  - first:
+      213: 8323494936579488304
+    second: dumbbell-lateral-squats_43
+  - first:
+      213: -6983309688078866710
+    second: dumbbell-lateral-squats_44
+  - first:
+      213: -4603158610620990991
+    second: dumbbell-lateral-squats_45
+  - first:
+      213: 3630266213161839059
+    second: dumbbell-lateral-squats_46
+  - first:
+      213: -1011886536109064876
+    second: dumbbell-lateral-squats_47
+  - first:
+      213: 8614004350735806622
+    second: dumbbell-lateral-squats_48
+  - first:
+      213: 2452936752775073195
+    second: dumbbell-lateral-squats_49
+  - first:
+      213: -7665243147145026895
+    second: dumbbell-lateral-squats_50
+  - first:
+      213: 1680354572341060906
+    second: dumbbell-lateral-squats_51
+  - first:
+      213: -5130983661073125993
+    second: dumbbell-lateral-squats_52
+  - first:
+      213: 6314879730134084484
+    second: dumbbell-lateral-squats_53
+  - first:
+      213: -988622840915585199
+    second: dumbbell-lateral-squats_54
+  - first:
+      213: 7024202929269920887
+    second: dumbbell-lateral-squats_55
+  - first:
+      213: 7775406394637055463
+    second: dumbbell-lateral-squats_56
+  - first:
+      213: 421807786073946061
+    second: dumbbell-lateral-squats_57
+  - first:
+      213: 8349943542509399928
+    second: dumbbell-lateral-squats_58
+  - first:
+      213: 2833410572914392227
+    second: dumbbell-lateral-squats_59
+  - first:
+      213: -7494829377389630829
+    second: dumbbell-lateral-squats_60
+  - first:
+      213: 1851318702257497000
+    second: dumbbell-lateral-squats_61
+  - first:
+      213: 2578663216543720954
+    second: dumbbell-lateral-squats_62
+  - first:
+      213: -5303834345795414173
+    second: dumbbell-lateral-squats_63
+  - first:
+      213: 2387825185328805112
+    second: dumbbell-lateral-squats_64
+  - first:
+      213: 8640769442928429845
+    second: dumbbell-lateral-squats_65
+  - first:
+      213: -5759433345329212625
+    second: dumbbell-lateral-squats_66
+  - first:
+      213: 2344740258500073075
+    second: dumbbell-lateral-squats_67
+  - first:
+      213: 5706494692672005641
+    second: dumbbell-lateral-squats_68
+  - first:
+      213: 9206750836427423916
+    second: dumbbell-lateral-squats_69
+  - first:
+      213: 4393040237895205469
+    second: dumbbell-lateral-squats_70
+  - first:
+      213: -9203803209022723202
+    second: dumbbell-lateral-squats_71
+  - first:
+      213: -895779055184167729
+    second: dumbbell-lateral-squats_72
+  - first:
+      213: 2092368463173122652
+    second: dumbbell-lateral-squats_73
+  - first:
+      213: -8525007704595557081
+    second: dumbbell-lateral-squats_74
+  - first:
+      213: -8205563505225190239
+    second: dumbbell-lateral-squats_75
+  - first:
+      213: 5753468932780503274
+    second: dumbbell-lateral-squats_76
+  - first:
+      213: -8813965425705441318
+    second: dumbbell-lateral-squats_77
+  - first:
+      213: 2359079084954944984
+    second: dumbbell-lateral-squats_78
+  - first:
+      213: -7061116987450020027
+    second: dumbbell-lateral-squats_79
+  - first:
+      213: -8333833957777001512
+    second: dumbbell-lateral-squats_80
+  - first:
+      213: -3734511135069692674
+    second: dumbbell-lateral-squats_81
+  - first:
+      213: -3709526239944609374
+    second: dumbbell-lateral-squats_82
+  - first:
+      213: 4688813888729970581
+    second: dumbbell-lateral-squats_83
+  - first:
+      213: -904361678225158062
+    second: dumbbell-lateral-squats_84
+  - first:
+      213: 8627146384749454626
+    second: dumbbell-lateral-squats_85
+  - first:
+      213: -8211840279947659432
+    second: dumbbell-lateral-squats_86
+  - first:
+      213: -8993053120778663409
+    second: dumbbell-lateral-squats_87
+  - first:
+      213: 3274522509917485540
+    second: dumbbell-lateral-squats_88
+  - first:
+      213: -5912069530233472841
+    second: dumbbell-lateral-squats_89
+  - first:
+      213: -1170112617795446952
+    second: dumbbell-lateral-squats_90
+  - first:
+      213: -8232888863131474440
+    second: dumbbell-lateral-squats_91
+  - first:
+      213: -6057083017747167518
+    second: dumbbell-lateral-squats_92
+  - first:
+      213: 980534082297965685
+    second: dumbbell-lateral-squats_93
+  - first:
+      213: 8792910608006627920
+    second: dumbbell-lateral-squats_94
+  - first:
+      213: -4478236604241164087
+    second: dumbbell-lateral-squats_95
+  - first:
+      213: -3588455185780692483
+    second: dumbbell-lateral-squats_96
+  - first:
+      213: 955863659792565519
+    second: dumbbell-lateral-squats_97
+  - first:
+      213: 4224064635552584169
+    second: dumbbell-lateral-squats_98
+  - first:
+      213: -1840515786926259999
+    second: dumbbell-lateral-squats_99
+  - first:
+      213: 7159184580231076108
+    second: dumbbell-lateral-squats_100
+  - first:
+      213: 8809775206389464273
+    second: dumbbell-lateral-squats_101
+  - first:
+      213: 3682019812173608484
+    second: dumbbell-lateral-squats_102
+  - first:
+      213: 6277300782505363533
+    second: dumbbell-lateral-squats_103
+  - first:
+      213: -8630343055604835988
+    second: dumbbell-lateral-squats_104
+  - first:
+      213: -8327613183797068659
+    second: dumbbell-lateral-squats_105
+  - first:
+      213: -4841279596411096709
+    second: dumbbell-lateral-squats_106
+  - first:
+      213: 3138157020208345989
+    second: dumbbell-lateral-squats_107
+  - first:
+      213: -2600614987315858080
+    second: dumbbell-lateral-squats_108
+  - first:
+      213: -3561446603920612977
+    second: dumbbell-lateral-squats_109
+  - first:
+      213: 6204602253609863520
+    second: dumbbell-lateral-squats_110
+  - first:
+      213: -486670290445675368
+    second: dumbbell-lateral-squats_111
+  - first:
+      213: 1147508760412064506
+    second: dumbbell-lateral-squats_112
+  - first:
+      213: 4839259375140609903
+    second: dumbbell-lateral-squats_113
+  - first:
+      213: 962218165752836177
+    second: dumbbell-lateral-squats_114
+  - first:
+      213: 2886757765579994381
+    second: dumbbell-lateral-squats_115
+  - first:
+      213: -4663620024788233621
+    second: dumbbell-lateral-squats_116
+  - first:
+      213: 6066862999499333839
+    second: dumbbell-lateral-squats_117
+  - first:
+      213: 4828128272486090913
+    second: dumbbell-lateral-squats_118
+  - first:
+      213: 6072215871919911159
+    second: dumbbell-lateral-squats_119
+  - first:
+      213: 1402095242994771109
+    second: dumbbell-lateral-squats_120
+  - first:
+      213: -8749206686093424254
+    second: dumbbell-lateral-squats_121
+  - first:
+      213: -1661859964422814270
+    second: dumbbell-lateral-squats_122
+  - first:
+      213: -3495630796070932639
+    second: dumbbell-lateral-squats_123
+  - first:
+      213: 3502097187140180291
+    second: dumbbell-lateral-squats_124
+  - first:
+      213: 7368852869791836717
+    second: dumbbell-lateral-squats_125
+  - first:
+      213: 230473528911665704
+    second: dumbbell-lateral-squats_126
+  - first:
+      213: -8116072741749184555
+    second: dumbbell-lateral-squats_127
+  - first:
+      213: -2055521886477166010
+    second: dumbbell-lateral-squats_128
+  - first:
+      213: -638798482094894750
+    second: dumbbell-lateral-squats_129
+  - first:
+      213: 7951883951246170472
+    second: dumbbell-lateral-squats_130
+  - first:
+      213: 1932174048446980571
+    second: dumbbell-lateral-squats_131
+  - first:
+      213: 5682410505742722964
+    second: dumbbell-lateral-squats_132
+  - first:
+      213: 9077249349980765261
+    second: dumbbell-lateral-squats_133
+  - first:
+      213: -7961790332726944550
+    second: dumbbell-lateral-squats_134
+  - first:
+      213: 6681438614527376678
+    second: dumbbell-lateral-squats_135
+  - first:
+      213: 8535972602145769440
+    second: dumbbell-lateral-squats_136
+  - first:
+      213: -3336723758243565723
+    second: dumbbell-lateral-squats_137
+  - first:
+      213: -5598470002881708386
+    second: dumbbell-lateral-squats_138
+  - first:
+      213: 5662737779397603904
+    second: dumbbell-lateral-squats_139
+  - first:
+      213: 8368574268882764303
+    second: dumbbell-lateral-squats_140
+  - first:
+      213: -8101078273490749508
+    second: dumbbell-lateral-squats_141
+  - first:
+      213: -6968876688666714339
+    second: dumbbell-lateral-squats_142
+  - first:
+      213: -9178841149202947907
+    second: dumbbell-lateral-squats_143
+  - first:
+      213: 3745760446930242931
+    second: dumbbell-lateral-squats_144
+  - first:
+      213: -7545368478160287611
+    second: dumbbell-lateral-squats_145
+  - first:
+      213: -279848628151903296
+    second: dumbbell-lateral-squats_146
+  - first:
+      213: -1292940497514584086
+    second: dumbbell-lateral-squats_147
+  - first:
+      213: -6800239440176173629
+    second: dumbbell-lateral-squats_148
+  - first:
+      213: -1472137664372428441
+    second: dumbbell-lateral-squats_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b48664147341e0800000000000000
+      internalID: -2214798960768012015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d1c7ae2089c5e0800000000000000
+      internalID: -1888837630833862213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadba6ce9de49fd20800000000000000
+      internalID: 3312765698788998574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e14f1f461e6fd00800000000000000
+      internalID: 1006239390436171410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d63af9d4a5df4f90800000000000000
+      internalID: -6967115194510461229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79487ebce478239c0800000000000000
+      internalID: -3948945150752357225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c888b4c69337090800000000000000
+      internalID: -8038017772639712149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ecca665a7f63210800000000000000
+      internalID: 1312508631189343767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f3e5df8025db470800000000000000
+      internalID: 8411969877561982804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbe62f2a17d790f0800000000000000
+      internalID: -1110182275663336497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f181fb2e3bcf540800000000000000
+      internalID: 5043103469198122911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57e7130d06b78b0800000000000000
+      internalID: -5153418901295565362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ecd97930db460e0800000000000000
+      internalID: -2277487688416375229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18878fc6f949dc0800000000000000
+      internalID: -3633103709007216163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f71b0da114eff90800000000000000
+      internalID: -6918020394168254611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198bf7f9e5d25cb50800000000000000
+      internalID: 6612741512289564817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f34920162030140800000000000000
+      internalID: 4684590653073801084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83380d3ac9713b0800000000000000
+      internalID: -5541788589064242997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190c96400afc3170800000000000000
+      internalID: 8159671503980071189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436ec8f39b784bc90800000000000000
+      internalID: -7154944678279977420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb450a31a4feaed50800000000000000
+      internalID: 6767484491513484478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd49a65a3c382e0800000000000000
+      internalID: -2124639483963580621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e710259f1faa0330800000000000000
+      internalID: 3677944595882186729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e128298ef6e3ed80800000000000000
+      internalID: -8222474513751203354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b014188da56490800000000000000
+      internalID: -7753600383484645357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61980223123d93810800000000000000
+      internalID: 1745658470111152406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9a75b08c97b1090800000000000000
+      internalID: -8062716807786026508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2aa4cf3d472bce0800000000000000
+      internalID: -1390920881084390677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ac4c4b4e8b5e90800000000000000
+      internalID: -7035873538782485882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0603f5c75ee6790800000000000000
+      internalID: -7534832804208549706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abd99a6fca3ada0800000000000000
+      internalID: -5934709708536563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17ae034ea610100800000000000000
+      internalID: 72456597320397277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116b2970459d3b00800000000000000
+      internalID: 809967612139888917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd3d2812dd4a050800000000000000
+      internalID: 5811012555213365025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cfc9cb2cddf7e80800000000000000
+      internalID: -8178574569823732680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ccde2c53c2958f0800000000000000
+      internalID: -551360869960922110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4accf58a2c8cf30800000000000000
+      internalID: 4596137448149132502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f781adbf40697e0800000000000000
+      internalID: -1759213124699259121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb326b822d645f0800000000000000
+      internalID: -772699213751140493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4160f5a9df1d0e0800000000000000
+      internalID: -2246735899620141854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf36a9f6cb575c0800000000000000
+      internalID: -4218258288444966157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc97edddbe2e700800000000000000
+      internalID: 568275841154927958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cde2ba2706f0a90800000000000000
+      internalID: -7345546421603476463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a35988b8ef28370800000000000000
+      internalID: 8323494936579488304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e38d76dc461f90800000000000000
+      internalID: -6983309688078866710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b729d1ab4e10c0800000000000000
+      internalID: -4603158610620990991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92d9b03eb416230800000000000000
+      internalID: 3630266213161839059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df73e7e8e05f1f0800000000000000
+      internalID: -1011886536109064876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f64b61571b8770800000000000000
+      internalID: 8614004350735806622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad88adfaf49a0220800000000000000
+      internalID: 2452936752775073195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26c6948f59f9590800000000000000
+      internalID: -7665243147145026895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a715a491d15710800000000000000
+      internalID: 1680354572341060906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d276d9b851bc8b0800000000000000
+      internalID: -5130983661073125993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be4f928a5f2a750800000000000000
+      internalID: 6314879730134084484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157936e93c4b742f0800000000000000
+      internalID: -988622840915585199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_55
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774546d295bfa7160800000000000000
+      internalID: 7024202929269920887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e574a88beac7eb60800000000000000
+      internalID: 7775406394637055463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc77e6452ff8ad500800000000000000
+      internalID: 421807786073946061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe6d97965f0e370800000000000000
+      internalID: 8349943542509399928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_59
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf56d67eb425720800000000000000
+      internalID: 2833410572914392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a678cf3640df790800000000000000
+      internalID: -7494829377389630829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3681e0d8431b910800000000000000
+      internalID: 1851318702257497000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56479788049c320800000000000000
+      internalID: 2578663216543720954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367195f63cef466b0800000000000000
+      internalID: -5303834345795414173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43145da52432120800000000000000
+      internalID: 2387825185328805112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b8ccf070e2ae770800000000000000
+      internalID: 8640769442928429845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23dc1023e16210b0800000000000000
+      internalID: -5759433345329212625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376547697d03a8020800000000000000
+      internalID: 2344740258500073075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ed5d40ba813f40800000000000000
+      internalID: 5706494692672005641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca089c43b13f4cf70800000000000000
+      internalID: 9206750836427423916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52cdbf22d637fc30800000000000000
+      internalID: 4393040237895205469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba997ceb5854080800000000000000
+      internalID: -9203803209022723202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc338202bd8193f0800000000000000
+      internalID: -895779055184167729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5af9aa0806990d10800000000000000
+      internalID: 2092368463173122652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251d1cf8a611b980800000000000000
+      internalID: -8525007704595557081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b429877bff1e80800000000000000
+      internalID: -8205563505225190239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b0acd28d68df40800000000000000
+      internalID: 5753468932780503274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a04ac4218ea580800000000000000
+      internalID: -8813965425705441318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50bc7cde12db020800000000000000
+      internalID: 2359079084954944984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa095e28fd10e90800000000000000
+      internalID: -7061116987450020027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33d918b26485c80800000000000000
+      internalID: -8333833957777001512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1e60b8e95c2cc0800000000000000
+      internalID: -3734511135069692674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a17c17e98d158cc0800000000000000
+      internalID: -3709526239944609374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597faafa363021140800000000000000
+      internalID: 4688813888729970581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d9ec58df0373f0800000000000000
+      internalID: -904361678225158062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256948ade7c9b770800000000000000
+      internalID: 8627146384749454626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b97906cea90e80800000000000000
+      internalID: -8211840279947659432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a05c975d1423380800000000000000
+      internalID: -8993053120778663409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f6a4afd0717d20800000000000000
+      internalID: 3274522509917485540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f503f51c14fda0800000000000000
+      internalID: -5912069530233472841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857991d06cce2cfe0800000000000000
+      internalID: -1170112617795446952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_91
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f567cdd237eebd80800000000000000
+      internalID: -8232888863131474440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e60120561be0fba0800000000000000
+      internalID: -6057083017747167518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca8818d8e8b9d00800000000000000
+      internalID: 980534082297965685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052cff37c91b60a70800000000000000
+      internalID: 8792910608006627920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_95
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8cd00098b1ad1c0800000000000000
+      internalID: -4478236604241164087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9222f550f333ec0800000000000000
+      internalID: -3588455185780692483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0504a72fe8e34d00800000000000000
+      internalID: 955863659792565519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d66ee764ee9a30800000000000000
+      internalID: 4224064635552584169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e003cca4ac2576e0800000000000000
+      internalID: -1840515786926259999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09902ad1788a5360800000000000000
+      internalID: 7159184580231076108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc33efbfdb924a70800000000000000
+      internalID: 8809775206389464273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426fe80d289291330800000000000000
+      internalID: 3682019812173608484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4883899dc37d1750800000000000000
+      internalID: 6277300782505363533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691ae867bcda3880800000000000000
+      internalID: -8630343055604835988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7ae05eef5e6c80800000000000000
+      internalID: -8327613183797068659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71f1957bd150dcb0800000000000000
+      internalID: -4841279596411096709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583bae6ee29fc8b20800000000000000
+      internalID: 3138157020208345989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0653b7b9272c8ebd0800000000000000
+      internalID: -2600614987315858080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f816acede23339ec0800000000000000
+      internalID: -3561446603920612977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069010350ec2b1650800000000000000
+      internalID: 6204602253609863520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_111
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894df3703fffe39f0800000000000000
+      internalID: -486670290445675368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa82094325ccef00800000000000000
+      internalID: 1147508760412064506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_113
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f1c3f13c0882340800000000000000
+      internalID: 4839259375140609903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150302ed25c7a5d00800000000000000
+      internalID: 962218165752836177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_115
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05fef1a4e2df0820800000000000000
+      internalID: 2886757765579994381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62591fdb4e774fb0800000000000000
+      internalID: -4663620024788233621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_117
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc06e1221c3d13450800000000000000
+      internalID: 6066862999499333839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8cd835515f00340800000000000000
+      internalID: 4828128272486090913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_119
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0764dd928d44450800000000000000
+      internalID: 6072215871919911159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e7f3e13e357310800000000000000
+      internalID: 1402095242994771109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289cde0dfd2949680800000000000000
+      internalID: -8749206686093424254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58222da23efe8e0800000000000000
+      internalID: -1661859964422814270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa646cf460d7fc0800000000000000
+      internalID: -3495630796070932639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349926836d2f99030800000000000000
+      internalID: 3502097187140180291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6f0aa4ac634660800000000000000
+      internalID: 7368852869791836717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a19e4147ec23300800000000000000
+      internalID: 230473528911665704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72fc897daed5f80800000000000000
+      internalID: -8116072741749184555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64adc702cb15973e0800000000000000
+      internalID: -2055521886477166010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261dcaf3a288227f0800000000000000
+      internalID: -638798482094894750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8695821a254ca5e60800000000000000
+      internalID: 7951883951246170472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd129e95f0670da10800000000000000
+      internalID: 1932174048446980571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4972ebe8f3afbde40800000000000000
+      internalID: 5682410505742722964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_133
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbf33c03ed8fd70800000000000000
+      internalID: 9077249349980765261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_134
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcdba130e9028190800000000000000
+      internalID: -7961790332726944550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7b77250d39bc50800000000000000
+      internalID: 6681438614527376678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e78d5b2bddd57670800000000000000
+      internalID: 8535972602145769440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f294cab6391b1d0800000000000000
+      internalID: -3336723758243565723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3e80c13d3e42b0800000000000000
+      internalID: -5598470002881708386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_139
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042bd250206169e40800000000000000
+      internalID: 5662737779397603904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024b3d75f5232470800000000000000
+      internalID: 8368574268882764303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f2fa4b30339f80800000000000000
+      internalID: -8101078273490749508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f15880393994f90800000000000000
+      internalID: -6968876688666714339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0250c3b943e9080800000000000000
+      internalID: -9178841149202947907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4cf4d74d9bf330800000000000000
+      internalID: 3745760446930242931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58883df9857794790800000000000000
+      internalID: -7545368478160287611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb1028c727cd1cf0800000000000000
+      internalID: -279848628151903296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72de1c77d8e0ee0800000000000000
+      internalID: -1292940497514584086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cda2b42242b0a1a0800000000000000
+      internalID: -6800239440176173629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-lateral-squats_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761bb9e089ae19be0800000000000000
+      internalID: -1472137664372428441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

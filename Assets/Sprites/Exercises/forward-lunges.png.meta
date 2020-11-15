@@ -1,7 +1,247 @@
 fileFormatVersion: 2
 guid: bcebac7206dd0ce44b8ea5067852b3d6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7905875757393557765
+    second: forward-lunges_0
+  - first:
+      213: -8513790680057852862
+    second: forward-lunges_1
+  - first:
+      213: -7872431857377664923
+    second: forward-lunges_2
+  - first:
+      213: 699097198006216626
+    second: forward-lunges_3
+  - first:
+      213: 2216741134596966747
+    second: forward-lunges_4
+  - first:
+      213: 7055000549630126275
+    second: forward-lunges_5
+  - first:
+      213: 6835920632191777629
+    second: forward-lunges_6
+  - first:
+      213: -5351052202911548007
+    second: forward-lunges_7
+  - first:
+      213: 3406958469533108119
+    second: forward-lunges_8
+  - first:
+      213: 6849970502320153318
+    second: forward-lunges_9
+  - first:
+      213: -6050255316285132211
+    second: forward-lunges_10
+  - first:
+      213: -9066053199830622387
+    second: forward-lunges_11
+  - first:
+      213: -8993638639601566490
+    second: forward-lunges_12
+  - first:
+      213: -201708815657516759
+    second: forward-lunges_13
+  - first:
+      213: -4366588631187244996
+    second: forward-lunges_14
+  - first:
+      213: -2481523152541551499
+    second: forward-lunges_15
+  - first:
+      213: -8728797282562027298
+    second: forward-lunges_16
+  - first:
+      213: -5250915167232210246
+    second: forward-lunges_17
+  - first:
+      213: 3113614157533073955
+    second: forward-lunges_18
+  - first:
+      213: -5840961468514521763
+    second: forward-lunges_19
+  - first:
+      213: 2396021761439433161
+    second: forward-lunges_20
+  - first:
+      213: 1461938801657535734
+    second: forward-lunges_21
+  - first:
+      213: -8106680613429160934
+    second: forward-lunges_22
+  - first:
+      213: -1826472301545834257
+    second: forward-lunges_23
+  - first:
+      213: 9015955376761778667
+    second: forward-lunges_24
+  - first:
+      213: -7079577945520009398
+    second: forward-lunges_25
+  - first:
+      213: 7928926241499680495
+    second: forward-lunges_26
+  - first:
+      213: 5808161576937285802
+    second: forward-lunges_27
+  - first:
+      213: -8539404031524416875
+    second: forward-lunges_28
+  - first:
+      213: 2089188967518196486
+    second: forward-lunges_29
+  - first:
+      213: -5046594538193618928
+    second: forward-lunges_30
+  - first:
+      213: -6434086179768192531
+    second: forward-lunges_31
+  - first:
+      213: -7472171474873045702
+    second: forward-lunges_32
+  - first:
+      213: -4801153964121915119
+    second: forward-lunges_33
+  - first:
+      213: 2885400976255051400
+    second: forward-lunges_34
+  - first:
+      213: 5367744750165613919
+    second: forward-lunges_35
+  - first:
+      213: 1375596268566903856
+    second: forward-lunges_36
+  - first:
+      213: 2437131830087726257
+    second: forward-lunges_37
+  - first:
+      213: -7995526913315639939
+    second: forward-lunges_38
+  - first:
+      213: 7699885402300042077
+    second: forward-lunges_39
+  - first:
+      213: -6144487931131875116
+    second: forward-lunges_40
+  - first:
+      213: -4129863583155374135
+    second: forward-lunges_41
+  - first:
+      213: 6792301019715002529
+    second: forward-lunges_42
+  - first:
+      213: 7969713600522338294
+    second: forward-lunges_43
+  - first:
+      213: -9170808396372012947
+    second: forward-lunges_44
+  - first:
+      213: 9034342029301472929
+    second: forward-lunges_45
+  - first:
+      213: -8295917526006162856
+    second: forward-lunges_46
+  - first:
+      213: 7590888977786402587
+    second: forward-lunges_47
+  - first:
+      213: 1760291268929730157
+    second: forward-lunges_48
+  - first:
+      213: 5733427889114564392
+    second: forward-lunges_49
+  - first:
+      213: 3150612949866458072
+    second: forward-lunges_50
+  - first:
+      213: -813042769461871269
+    second: forward-lunges_51
+  - first:
+      213: 2404307342559124932
+    second: forward-lunges_52
+  - first:
+      213: -3965473079052803387
+    second: forward-lunges_53
+  - first:
+      213: -8334053648998047934
+    second: forward-lunges_54
+  - first:
+      213: 3646430219304383182
+    second: forward-lunges_55
+  - first:
+      213: 3712788954372404575
+    second: forward-lunges_56
+  - first:
+      213: -8123568754358000481
+    second: forward-lunges_57
+  - first:
+      213: -8024309962426653091
+    second: forward-lunges_58
+  - first:
+      213: 8011529639405974203
+    second: forward-lunges_59
+  - first:
+      213: 3895580713913171222
+    second: forward-lunges_60
+  - first:
+      213: 2923808926480457897
+    second: forward-lunges_61
+  - first:
+      213: 3486181762877719692
+    second: forward-lunges_62
+  - first:
+      213: -3693859171822689389
+    second: forward-lunges_63
+  - first:
+      213: 5041052070910085222
+    second: forward-lunges_64
+  - first:
+      213: -4963769482486461892
+    second: forward-lunges_65
+  - first:
+      213: 3653941066329940308
+    second: forward-lunges_66
+  - first:
+      213: -6595249179657865226
+    second: forward-lunges_67
+  - first:
+      213: -7646174294005166973
+    second: forward-lunges_68
+  - first:
+      213: 7021270027873667724
+    second: forward-lunges_69
+  - first:
+      213: 6176077402100454089
+    second: forward-lunges_70
+  - first:
+      213: 3029368727283035410
+    second: forward-lunges_71
+  - first:
+      213: 2984098156725120311
+    second: forward-lunges_72
+  - first:
+      213: 7378239044271444293
+    second: forward-lunges_73
+  - first:
+      213: -4951147864975982424
+    second: forward-lunges_74
+  - first:
+      213: -7867260419890957255
+    second: forward-lunges_75
+  - first:
+      213: 7953910369504316300
+    second: forward-lunges_76
+  - first:
+      213: -8869407793892572662
+    second: forward-lunges_77
+  - first:
+      213: 1724129939116758360
+    second: forward-lunges_78
+  - first:
+      213: 1837957870965838199
+    second: forward-lunges_79
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +280,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +311,1533 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: forward-lunges_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b0dd3d1057bd60800000000000000
+      internalID: 7905875757393557765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cce170c70f8d980800000000000000
+      internalID: -8513790680057852862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56029868fe08fb290800000000000000
+      internalID: -7872431857377664923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_3
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a1a69231b3b900800000000000000
+      internalID: 699097198006216626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5906ae215273ce10800000000000000
+      internalID: 2216741134596966747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_5
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a3e2fe9568e160800000000000000
+      internalID: 7055000549630126275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bfd82c8911ede50800000000000000
+      internalID: 6835920632191777629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_7
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db2ee5f5e3db5b0800000000000000
+      internalID: -5351052202911548007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_8
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797870d5da2f74f20800000000000000
+      internalID: 3406958469533108119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_9
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e262b011ebff0f50800000000000000
+      internalID: 6849970502320153318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_10
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f76078dc290ca0800000000000000
+      internalID: -6050255316285132211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_11
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5d4516a8ee2280800000000000000
+      internalID: -9066053199830622387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_12
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3250ce4d203380800000000000000
+      internalID: -8993638639601566490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_13
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9214bae96e2633df0800000000000000
+      internalID: -201708815657516759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_14
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3833dd66c2c663c0800000000000000
+      internalID: -4366588631187244996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_15
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747ad627dbdf8dd0800000000000000
+      internalID: -2481523152541551499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_16
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0de706e151dd680800000000000000
+      internalID: -8728797282562027298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_17
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac967d9700127b0800000000000000
+      internalID: -5250915167232210246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_18
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322d2636497c53b20800000000000000
+      internalID: 3113614157533073955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_19
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 810
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da27abd7cb0fea0800000000000000
+      internalID: -5840961468514521763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c104bce811604120800000000000000
+      internalID: 2396021761439433161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc582c2899d94410800000000000000
+      internalID: 1461938801657535734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145201eee84f7f80800000000000000
+      internalID: -8106680613429160934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_23
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8354a6e1117a6e0800000000000000
+      internalID: -1826472301545834257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b8a685ab1f1d70800000000000000
+      internalID: 9015955376761778667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f07952e5940cd90800000000000000
+      internalID: -7079577945520009398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_26
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8cda4864390e60800000000000000
+      internalID: 7928926241499680495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_27
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86b676e2cba9050800000000000000
+      internalID: 5808161576937285802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_28
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d27be641fd7980800000000000000
+      internalID: -8539404031524416875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_29
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60356950c4a4efc10800000000000000
+      internalID: 2089188967518196486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_30
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018fa896105e6f9b0800000000000000
+      internalID: -5046594538193618928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_31
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1baa075b885b6a0800000000000000
+      internalID: -6434086179768192531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_32
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da26302a38d4890800000000000000
+      internalID: -7472171474873045702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_33
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110e8048efde5db0800000000000000
+      internalID: -4801153964121915119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_34
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866f3086e00b0820800000000000000
+      internalID: 2885400976255051400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_35
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd696296f0e7a40800000000000000
+      internalID: 5367744750165613919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_36
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c784e9489171310800000000000000
+      internalID: 1375596268566903856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_37
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b43d2bac7e62d120800000000000000
+      internalID: 2437131830087726257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_38
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7deebb62ae2a0190800000000000000
+      internalID: -7995526913315639939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_39
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 540
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4f474afc7bda60800000000000000
+      internalID: 7699885402300042077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b53218c46abaa0800000000000000
+      internalID: -6144487931131875116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7b33bb3f6cfa6c0800000000000000
+      internalID: -4129863583155374135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0e2af4ac9134e50800000000000000
+      internalID: 6792301019715002529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffbbb85b4c1a9e60800000000000000
+      internalID: 7969713600522338294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_44
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60931f3a5ebab080800000000000000
+      internalID: -9170808396372012947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_45
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae55eba53e606d70800000000000000
+      internalID: 9034342029301472929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_46
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a1778b6fafedc80800000000000000
+      internalID: -8295917526006162856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_47
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f26a9e41485960800000000000000
+      internalID: 7590888977786402587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_48
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6637c9259fcd6810800000000000000
+      internalID: 1760291268929730157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_49
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cdf3c94a319f40800000000000000
+      internalID: 5733427889114564392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_50
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db298509c939bb20800000000000000
+      internalID: 3150612949866458072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_51
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d760ba8ed77b4f0800000000000000
+      internalID: -813042769461871269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_52
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd991c1ac0dd5120800000000000000
+      internalID: 2404307342559124932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_53
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2eeac9e3fc7f8c0800000000000000
+      internalID: -3965473079052803387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_54
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5c68ac5e775c80800000000000000
+      internalID: -8334053648998047934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_55
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec233eff6f8ba9230800000000000000
+      internalID: 3646430219304383182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_56
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f557c5ff1e9768330800000000000000
+      internalID: 3712788954372404575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_57
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9467082249434f80800000000000000
+      internalID: -8123568754358000481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_58
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d566ee19a9ce3a090800000000000000
+      internalID: -8024309962426653091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_59
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 270
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27e4892cbae2f60800000000000000
+      internalID: 8011529639405974203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d38a60502ef0630800000000000000
+      internalID: 3895580713913171222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ebf54ab4739820800000000000000
+      internalID: 2923808926480457897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_62
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8485ceb7d7616030800000000000000
+      internalID: 3486181762877719692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_63
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a03577a6ccbcc0800000000000000
+      internalID: -3693859171822689389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_64
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c7dc562a65f540800000000000000
+      internalID: 5041052070910085222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_65
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a487174f52d1bb0800000000000000
+      internalID: -4963769482486461892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_66
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451eec85a0865b230800000000000000
+      internalID: 3653941066329940308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_67
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77e4170d7f874a0800000000000000
+      internalID: -6595249179657865226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_68
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4913adf453e590800000000000000
+      internalID: -7646174294005166973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_69
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac18bd3ef807160800000000000000
+      internalID: 7021270027873667724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_70
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d389cca5d5b550800000000000000
+      internalID: 6176077402100454089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward-lunges_71
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 0
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21de163aeca7a0a20800000000000000
+      internalID: 3029368727283035410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

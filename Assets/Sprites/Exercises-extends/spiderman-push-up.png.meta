@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 5e4a58501687aed4fb498701169a907c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -448184268656800502
+    second: spiderman-push-up_0
+  - first:
+      213: 6808252116555175662
+    second: spiderman-push-up_1
+  - first:
+      213: -3712121002784525122
+    second: spiderman-push-up_2
+  - first:
+      213: -3202202343410559453
+    second: spiderman-push-up_3
+  - first:
+      213: 2170767533750483642
+    second: spiderman-push-up_4
+  - first:
+      213: 3743561324395923901
+    second: spiderman-push-up_5
+  - first:
+      213: -1277331185294425283
+    second: spiderman-push-up_6
+  - first:
+      213: -8974479972447328555
+    second: spiderman-push-up_7
+  - first:
+      213: -3532590850823364588
+    second: spiderman-push-up_8
+  - first:
+      213: -361641516671983301
+    second: spiderman-push-up_9
+  - first:
+      213: 3295716281039120084
+    second: spiderman-push-up_10
+  - first:
+      213: 5047964367935391150
+    second: spiderman-push-up_11
+  - first:
+      213: -8938545257669177304
+    second: spiderman-push-up_12
+  - first:
+      213: 7687928908230381916
+    second: spiderman-push-up_13
+  - first:
+      213: 5528004429294177765
+    second: spiderman-push-up_14
+  - first:
+      213: 7162559378444284433
+    second: spiderman-push-up_15
+  - first:
+      213: 987196659339301372
+    second: spiderman-push-up_16
+  - first:
+      213: -8485939317802558922
+    second: spiderman-push-up_17
+  - first:
+      213: -3505227396174641322
+    second: spiderman-push-up_18
+  - first:
+      213: -5556327971324156909
+    second: spiderman-push-up_19
+  - first:
+      213: -2642567628746960533
+    second: spiderman-push-up_20
+  - first:
+      213: -7926700623186074374
+    second: spiderman-push-up_21
+  - first:
+      213: -832808344326243603
+    second: spiderman-push-up_22
+  - first:
+      213: -3399345530731851581
+    second: spiderman-push-up_23
+  - first:
+      213: -7502616402063583272
+    second: spiderman-push-up_24
+  - first:
+      213: 6843031642568549242
+    second: spiderman-push-up_25
+  - first:
+      213: -1317685878340143586
+    second: spiderman-push-up_26
+  - first:
+      213: -759195399006740628
+    second: spiderman-push-up_27
+  - first:
+      213: 6881718836428960436
+    second: spiderman-push-up_28
+  - first:
+      213: 3333512325854048289
+    second: spiderman-push-up_29
+  - first:
+      213: -4189739715347023494
+    second: spiderman-push-up_30
+  - first:
+      213: -7309187253327246234
+    second: spiderman-push-up_31
+  - first:
+      213: 1655118254223242008
+    second: spiderman-push-up_32
+  - first:
+      213: -752770928797267453
+    second: spiderman-push-up_33
+  - first:
+      213: 8217948000108559507
+    second: spiderman-push-up_34
+  - first:
+      213: 1595044987598557144
+    second: spiderman-push-up_35
+  - first:
+      213: -8614869278142287073
+    second: spiderman-push-up_36
+  - first:
+      213: 3118505318754318340
+    second: spiderman-push-up_37
+  - first:
+      213: 8399505281461678630
+    second: spiderman-push-up_38
+  - first:
+      213: -5433633858710727576
+    second: spiderman-push-up_39
+  - first:
+      213: -8918407911396578553
+    second: spiderman-push-up_40
+  - first:
+      213: -3813391103265479464
+    second: spiderman-push-up_41
+  - first:
+      213: -965393703636283891
+    second: spiderman-push-up_42
+  - first:
+      213: -8274913025521360828
+    second: spiderman-push-up_43
+  - first:
+      213: -38107508560671910
+    second: spiderman-push-up_44
+  - first:
+      213: 1502868622981880182
+    second: spiderman-push-up_45
+  - first:
+      213: 5336022871659679893
+    second: spiderman-push-up_46
+  - first:
+      213: 544040137106292214
+    second: spiderman-push-up_47
+  - first:
+      213: 6484383807149093261
+    second: spiderman-push-up_48
+  - first:
+      213: 5523703402340134428
+    second: spiderman-push-up_49
+  - first:
+      213: -4184670491011316371
+    second: spiderman-push-up_50
+  - first:
+      213: -812570058504485114
+    second: spiderman-push-up_51
+  - first:
+      213: 4599917722463741130
+    second: spiderman-push-up_52
+  - first:
+      213: -57767813063905365
+    second: spiderman-push-up_53
+  - first:
+      213: 5298650225928764009
+    second: spiderman-push-up_54
+  - first:
+      213: 8571837804596993097
+    second: spiderman-push-up_55
+  - first:
+      213: 7061165237845560375
+    second: spiderman-push-up_56
+  - first:
+      213: -5768457065183400236
+    second: spiderman-push-up_57
+  - first:
+      213: -6794063607725412504
+    second: spiderman-push-up_58
+  - first:
+      213: -3385386182685341737
+    second: spiderman-push-up_59
+  - first:
+      213: 6367248363974819279
+    second: spiderman-push-up_60
+  - first:
+      213: -341642869660863089
+    second: spiderman-push-up_61
+  - first:
+      213: 4751340163068553344
+    second: spiderman-push-up_62
+  - first:
+      213: 5118622846269281578
+    second: spiderman-push-up_63
+  - first:
+      213: 6199222602112652409
+    second: spiderman-push-up_64
+  - first:
+      213: -1110994421806295399
+    second: spiderman-push-up_65
+  - first:
+      213: 4125893920708981100
+    second: spiderman-push-up_66
+  - first:
+      213: -761612530580382431
+    second: spiderman-push-up_67
+  - first:
+      213: -5833491448037360863
+    second: spiderman-push-up_68
+  - first:
+      213: 439399816305307414
+    second: spiderman-push-up_69
+  - first:
+      213: 6193114315668838960
+    second: spiderman-push-up_70
+  - first:
+      213: -8374399472882069284
+    second: spiderman-push-up_71
+  - first:
+      213: -1566021416228489428
+    second: spiderman-push-up_72
+  - first:
+      213: -5108100351234456363
+    second: spiderman-push-up_73
+  - first:
+      213: 7693849023599586012
+    second: spiderman-push-up_74
+  - first:
+      213: 1805110311677946609
+    second: spiderman-push-up_75
+  - first:
+      213: 9174024594688074975
+    second: spiderman-push-up_76
+  - first:
+      213: -2086096177176757104
+    second: spiderman-push-up_77
+  - first:
+      213: 8044090230306167316
+    second: spiderman-push-up_78
+  - first:
+      213: 6564345738741794311
+    second: spiderman-push-up_79
+  - first:
+      213: 7551685004251914023
+    second: spiderman-push-up_80
+  - first:
+      213: 2331450683303657030
+    second: spiderman-push-up_81
+  - first:
+      213: 6578395674310488028
+    second: spiderman-push-up_82
+  - first:
+      213: 8062752423405655194
+    second: spiderman-push-up_83
+  - first:
+      213: -872223970753605410
+    second: spiderman-push-up_84
+  - first:
+      213: 862032506166791918
+    second: spiderman-push-up_85
+  - first:
+      213: -3960520006024352455
+    second: spiderman-push-up_86
+  - first:
+      213: -1020193695296589647
+    second: spiderman-push-up_87
+  - first:
+      213: 750333727462175682
+    second: spiderman-push-up_88
+  - first:
+      213: -572827200961669557
+    second: spiderman-push-up_89
+  - first:
+      213: 3490394307821011492
+    second: spiderman-push-up_90
+  - first:
+      213: 8652380632991598492
+    second: spiderman-push-up_91
+  - first:
+      213: -8713776286956296785
+    second: spiderman-push-up_92
+  - first:
+      213: -8647252793226318024
+    second: spiderman-push-up_93
+  - first:
+      213: 646457573082056018
+    second: spiderman-push-up_94
+  - first:
+      213: 778997933605765946
+    second: spiderman-push-up_95
+  - first:
+      213: 2666467392387036645
+    second: spiderman-push-up_96
+  - first:
+      213: 291832633095727254
+    second: spiderman-push-up_97
+  - first:
+      213: -2730134333230417028
+    second: spiderman-push-up_98
+  - first:
+      213: -3308621126258444929
+    second: spiderman-push-up_99
+  - first:
+      213: 258945318795880941
+    second: spiderman-push-up_100
+  - first:
+      213: -1523687668598125655
+    second: spiderman-push-up_101
+  - first:
+      213: 2779056135369820571
+    second: spiderman-push-up_102
+  - first:
+      213: -947461234316893097
+    second: spiderman-push-up_103
+  - first:
+      213: -5936492437853861155
+    second: spiderman-push-up_104
+  - first:
+      213: 5527382175039932115
+    second: spiderman-push-up_105
+  - first:
+      213: 7755247743122064865
+    second: spiderman-push-up_106
+  - first:
+      213: -4603998551083185879
+    second: spiderman-push-up_107
+  - first:
+      213: 3531842634326357194
+    second: spiderman-push-up_108
+  - first:
+      213: 4274427143210128024
+    second: spiderman-push-up_109
+  - first:
+      213: 5184497365399280142
+    second: spiderman-push-up_110
+  - first:
+      213: 3299952636590290549
+    second: spiderman-push-up_111
+  - first:
+      213: 4727851913682870389
+    second: spiderman-push-up_112
+  - first:
+      213: -7108716750318467495
+    second: spiderman-push-up_113
+  - first:
+      213: 2909695304832035478
+    second: spiderman-push-up_114
+  - first:
+      213: 3757205275413493657
+    second: spiderman-push-up_115
+  - first:
+      213: -6012588847871959024
+    second: spiderman-push-up_116
+  - first:
+      213: 5422092125565163933
+    second: spiderman-push-up_117
+  - first:
+      213: -5048397112632820094
+    second: spiderman-push-up_118
+  - first:
+      213: -5683726101946595381
+    second: spiderman-push-up_119
+  - first:
+      213: -4100206094844496312
+    second: spiderman-push-up_120
+  - first:
+      213: -7766921106432064113
+    second: spiderman-push-up_121
+  - first:
+      213: -7920977490340409290
+    second: spiderman-push-up_122
+  - first:
+      213: 2654826369841771704
+    second: spiderman-push-up_123
+  - first:
+      213: 1978084329207904938
+    second: spiderman-push-up_124
+  - first:
+      213: -2697506545211100431
+    second: spiderman-push-up_125
+  - first:
+      213: -7703459571039159247
+    second: spiderman-push-up_126
+  - first:
+      213: -2505709418340328371
+    second: spiderman-push-up_127
+  - first:
+      213: -6738652303564469784
+    second: spiderman-push-up_128
+  - first:
+      213: 5318937354669808944
+    second: spiderman-push-up_129
+  - first:
+      213: -3276138970873521563
+    second: spiderman-push-up_130
+  - first:
+      213: 2578832548742916321
+    second: spiderman-push-up_131
+  - first:
+      213: 2669019542369599772
+    second: spiderman-push-up_132
+  - first:
+      213: -6259690071295142705
+    second: spiderman-push-up_133
+  - first:
+      213: -6677743211158746742
+    second: spiderman-push-up_134
+  - first:
+      213: -3408752894142162014
+    second: spiderman-push-up_135
+  - first:
+      213: -7740090019074651429
+    second: spiderman-push-up_136
+  - first:
+      213: 8828910837377807795
+    second: spiderman-push-up_137
+  - first:
+      213: -5343859197933554201
+    second: spiderman-push-up_138
+  - first:
+      213: 663687914582475635
+    second: spiderman-push-up_139
+  - first:
+      213: 8745709674022591398
+    second: spiderman-push-up_140
+  - first:
+      213: -946743808003854574
+    second: spiderman-push-up_141
+  - first:
+      213: -8132616897850419594
+    second: spiderman-push-up_142
+  - first:
+      213: -6337388569927428413
+    second: spiderman-push-up_143
+  - first:
+      213: 5950679268525013190
+    second: spiderman-push-up_144
+  - first:
+      213: 4938717610305668576
+    second: spiderman-push-up_145
+  - first:
+      213: -2972804231380880462
+    second: spiderman-push-up_146
+  - first:
+      213: 3117296940468376869
+    second: spiderman-push-up_147
+  - first:
+      213: -113660449559754958
+    second: spiderman-push-up_148
+  - first:
+      213: 574691125035449463
+    second: spiderman-push-up_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiderman-push-up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d0bc048cab7c9f0800000000000000
+      internalID: -448184268656800502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee692947a35cb7e50800000000000000
+      internalID: 6808252116555175662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f2c99d95eb7cc0800000000000000
+      internalID: -3712121002784525122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32617164fed7f83d0800000000000000
+      internalID: -3202202343410559453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf52b129d102e10800000000000000
+      internalID: 2170767533750483642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98287b03dc3f330800000000000000
+      internalID: 3743561324395923901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334ff7fd02064ee0800000000000000
+      internalID: -1277331185294425283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66b6e830e347380800000000000000
+      internalID: -8974479972447328555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e0ef6657b9fec0800000000000000
+      internalID: -3532590850823364588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31abb6e4f03bfaf0800000000000000
+      internalID: -361641516671983301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6eec30f7cbcbd20800000000000000
+      internalID: 3295716281039120084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54e9de8d8fd0640800000000000000
+      internalID: 5047964367935391150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82050e35278e3f380800000000000000
+      internalID: -8938545257669177304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5157811c9201ba60800000000000000
+      internalID: 7687928908230381916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8dd46dba67bc40800000000000000
+      internalID: 5528004429294177765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11270da4ec5866360800000000000000
+      internalID: 7162559378444284433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf11f5b912a33bd00800000000000000
+      internalID: 987196659339301372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9bd0a623eb3a80800000000000000
+      internalID: -8485939317802558922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570b02314eea5fc0800000000000000
+      internalID: -3505227396174641322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31428a51625f3e2b0800000000000000
+      internalID: -5556327971324156909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6157991eb6b35bd0800000000000000
+      internalID: -2642567628746960533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4602ad7c3bef190800000000000000
+      internalID: -7926700623186074374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf37629354174f0800000000000000
+      internalID: -832808344326243603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c09ae3104913d0d0800000000000000
+      internalID: -3399345530731851581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71bf4022a51e790800000000000000
+      internalID: -7502616402063583272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a736e02e50557fe50800000000000000
+      internalID: 6843031642568549242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16bcffcca3a6bde0800000000000000
+      internalID: -1317685878340143586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f97179ecbc675f0800000000000000
+      internalID: -759195399006740628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2767122d6c08f50800000000000000
+      internalID: 6881718836428960436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120bae47cc3034e20800000000000000
+      internalID: 3333512325854048289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f4655ded0bd5c0800000000000000
+      internalID: -4189739715347023494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ccd983bec809a90800000000000000
+      internalID: -7309187253327246234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813bd34784928f610800000000000000
+      internalID: 1655118254223242008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a4ccf14de9d85f0800000000000000
+      internalID: -752770928797267453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c3a116a240c0270800000000000000
+      internalID: 8217948000108559507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df449e17fcb22610800000000000000
+      internalID: 1595044987598557144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1337e9f806d17880800000000000000
+      internalID: -8614869278142287073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408748a9018274b20800000000000000
+      internalID: 3118505318754318340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227a8e0d89019470800000000000000
+      internalID: 8399505281461678630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864130c4bcad794b0800000000000000
+      internalID: -5433633858710727576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6c2f91437b3480800000000000000
+      internalID: -8918407911396578553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e93ceefc141bc0800000000000000
+      internalID: -3813391103265479464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4c5a9a8b3a92f0800000000000000
+      internalID: -965393703636283891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440eb86127a992d80800000000000000
+      internalID: -8274913025521360828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b47f04c6d987ff0800000000000000
+      internalID: -38107508560671910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795ae0dc034bd410800000000000000
+      internalID: 1502868622981880182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59092a2c78c5d0a40800000000000000
+      internalID: 5336022871659679893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd76cb4f91dc8700800000000000000
+      internalID: 544040137106292214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81ba6487b82df950800000000000000
+      internalID: 6484383807149093261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea9158af228ac40800000000000000
+      internalID: 5523703402340134428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6506391c501de5c0800000000000000
+      internalID: -4184670491011316371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607c8b346db29b4f0800000000000000
+      internalID: -812570058504485114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a9731cc036df30800000000000000
+      internalID: 4599917722463741130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafefd6ea74c23ff0800000000000000
+      internalID: -57767813063905365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af6899e46988940800000000000000
+      internalID: 5298650225928764009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_55
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9447511945f670800000000000000
+      internalID: 8571837804596993097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0f164f5c4ef160800000000000000
+      internalID: 7061165237845560375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dea6af9cd252ffa0800000000000000
+      internalID: -5768457065183400236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2e103523a6b1a0800000000000000
+      internalID: -6794063607725412504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_59
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d746811431b401d0800000000000000
+      internalID: -3385386182685341737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdf763e6a20d5850800000000000000
+      internalID: 6367248363974819279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b1d1ce9d324bf0800000000000000
+      internalID: -341642869660863089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0886fb264b620f140800000000000000
+      internalID: 4751340163068553344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25541beb50090740800000000000000
+      internalID: 5118622846269281578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9745f7a9c10180650800000000000000
+      internalID: 6199222602112652409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969bcca574f490f0800000000000000
+      internalID: -1110994421806295399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617dc439ae124930800000000000000
+      internalID: 4125893920708981100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d154a40753e65f0800000000000000
+      internalID: -761612530580382431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b34776f664b0fa0800000000000000
+      internalID: -5833491448037360863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fef3d0ecf091600800000000000000
+      internalID: 439399816305307414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad3d658ac52f550800000000000000
+      internalID: 6193114315668838960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd055a38c0828cb80800000000000000
+      internalID: -8374399472882069284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27fb0fa1df544ae0800000000000000
+      internalID: -1566021416228489428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44f9f5bc16c19b0800000000000000
+      internalID: -5108100351234456363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaa3275cea06ca60800000000000000
+      internalID: 7693849023599586012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa65fbb34a0d0910800000000000000
+      internalID: 1805110311677946609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4641743cea05f70800000000000000
+      internalID: 9174024594688074975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c34185492bc03e0800000000000000
+      internalID: -2086096177176757104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad69ee17952af60800000000000000
+      internalID: 8044090230306167316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706cd848bad391b50800000000000000
+      internalID: 6564345738741794311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f54163089fcc860800000000000000
+      internalID: 7551685004251914023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef7ad3b0afa5020800000000000000
+      internalID: 2331450683303657030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2e3f03082b4b50800000000000000
+      internalID: 6578395674310488028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94930d5c96a4ef60800000000000000
+      internalID: 8062752423405655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed096aa7bec35e3f0800000000000000
+      internalID: -872223970753605410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee49e24ffd86fb00800000000000000
+      internalID: 862032506166791918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d271bc9086909c0800000000000000
+      internalID: -3960520006024352455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f0c54d3b87d1f0800000000000000
+      internalID: -1020193695296589647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b068bc88b96a00800000000000000
+      internalID: 750333727462175682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469ff812b8ec08f0800000000000000
+      internalID: -572827200961669557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42287bb412f507030800000000000000
+      internalID: 3490394307821011492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_91
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c970feae75e631870800000000000000
+      internalID: 8652380632991598492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56fb372a2721780800000000000000
+      internalID: -8713776286956296785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fadb05669cef780800000000000000
+      internalID: -8647252793226318024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cae5dcbda8f800800000000000000
+      internalID: 646457573082056018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_95
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c5594e7e8fca00800000000000000
+      internalID: 778997933605765946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5346047f1310520800000000000000
+      internalID: 2666467392387036645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a98dcb3ccc0400800000000000000
+      internalID: 291832633095727254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf3bee94d9c1ad0800000000000000
+      internalID: -2730134333230417028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7533019d9a6512d0800000000000000
+      internalID: -3308621126258444929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9241f3565f79300800000000000000
+      internalID: 258945318795880941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc0946326cadae0800000000000000
+      internalID: -1523687668598125655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99869fb4d0319620800000000000000
+      internalID: 2779056135369820571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a61af601f9d2f0800000000000000
+      internalID: -947461234316893097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8de5a4975d9da0800000000000000
+      internalID: -5936492437853861155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c4198dc435bc40800000000000000
+      internalID: 5527382175039932115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c0f9bbbc20ab60800000000000000
+      internalID: 7755247743122064865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290648f5bf4b10c0800000000000000
+      internalID: -4603998551083185879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43a95d920a30130800000000000000
+      internalID: 3531842634326357194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d35107d0d15b30800000000000000
+      internalID: 4274427143210128024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a929b92e803f740800000000000000
+      internalID: 5184497365399280142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_111
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f3976079cbcd20800000000000000
+      internalID: 3299952636590290549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e7b92444bc9140800000000000000
+      internalID: 4727851913682870389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_113
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956066877c3c85d90800000000000000
+      internalID: -7108716750318467495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aa229a670516820800000000000000
+      internalID: 2909695304832035478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_115
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997be3d9a46442430800000000000000
+      internalID: 3757205275413493657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010ed168c4efe8ca0800000000000000
+      internalID: -6012588847871959024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_117
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9911cb8f042f3b40800000000000000
+      internalID: 5422092125565163933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eb968d29d70f9b0800000000000000
+      internalID: -5048397112632820094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_119
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78bd459395f11b0800000000000000
+      internalID: -5683726101946595381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f6e2d7442917c0800000000000000
+      internalID: -4100206094844496312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8502a4976a563490800000000000000
+      internalID: -7766921106432064113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630156e80f8031290800000000000000
+      internalID: -7920977490340409290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b432ca7486d7d420800000000000000
+      internalID: 2654826369841771704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa34329731937b10800000000000000
+      internalID: 1978084329207904938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b661d618809ad0800000000000000
+      internalID: -2697506545211100431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cb0a6b550d71590800000000000000
+      internalID: -7703459571039159247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c59715f8ee93dd0800000000000000
+      internalID: -2505709418340328371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90c2dce6f7b72a0800000000000000
+      internalID: -6738652303564469784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d56a7d759a0d940800000000000000
+      internalID: 5318937354669808944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1546b6f0d882d0800000000000000
+      internalID: -3276138970873521563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e869033a8ad9c320800000000000000
+      internalID: 2578832548742916321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110489f1234a0520800000000000000
+      internalID: 2669019542369599772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_133
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d960ab0d1129a0800000000000000
+      internalID: -6259690071295142705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_134
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894b9dfde3e353a0800000000000000
+      internalID: -6677743211158746742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab52999d4da1b0d0800000000000000
+      internalID: -3408752894142162014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda428be22da59490800000000000000
+      internalID: -7740090019074651429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5308701a7968a70800000000000000
+      internalID: 8828910837377807795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e577795f5cc6d5b0800000000000000
+      internalID: -5343859197933554201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_139
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373886654a4e53900800000000000000
+      internalID: 663687914582475635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab50dc9c900f5970800000000000000
+      internalID: 8745709674022591398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f21aec58d7cd2f0800000000000000
+      internalID: -946743808003854574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67659451504232f80800000000000000
+      internalID: -8132616897850419594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6dadd2ca21d08a0800000000000000
+      internalID: -6337388569927428413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f6b4444f059250800000000000000
+      internalID: 5950679268525013190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e54c380089d98440800000000000000
+      internalID: 4938717610305668576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b3c95d4a7eb6d0800000000000000
+      internalID: -2972804231380880462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525970c1d0dd24b20800000000000000
+      internalID: 3117296940468376869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237cafe5c623c6ef0800000000000000
+      internalID: -113660449559754958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderman-push-up_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cbe4b8886b9f700800000000000000
+      internalID: 574691125035449463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

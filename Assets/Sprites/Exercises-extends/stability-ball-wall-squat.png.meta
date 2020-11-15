@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 255368c020e1fa94b88e674adc37b5a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8510964018628466717
+    second: stability-ball-wall-squat_0
+  - first:
+      213: 3113855432816896207
+    second: stability-ball-wall-squat_1
+  - first:
+      213: 8191709139766381199
+    second: stability-ball-wall-squat_2
+  - first:
+      213: 5796499226322862174
+    second: stability-ball-wall-squat_3
+  - first:
+      213: -1583956658010710982
+    second: stability-ball-wall-squat_4
+  - first:
+      213: -668416487788973211
+    second: stability-ball-wall-squat_5
+  - first:
+      213: 8450396528091953860
+    second: stability-ball-wall-squat_6
+  - first:
+      213: 7944125350595397783
+    second: stability-ball-wall-squat_7
+  - first:
+      213: 2193015445455339344
+    second: stability-ball-wall-squat_8
+  - first:
+      213: 7154834187556178669
+    second: stability-ball-wall-squat_9
+  - first:
+      213: -8544743404326882213
+    second: stability-ball-wall-squat_10
+  - first:
+      213: 3784473904118356549
+    second: stability-ball-wall-squat_11
+  - first:
+      213: 1070056598868884403
+    second: stability-ball-wall-squat_12
+  - first:
+      213: 7322924281975101203
+    second: stability-ball-wall-squat_13
+  - first:
+      213: -6705314968995328974
+    second: stability-ball-wall-squat_14
+  - first:
+      213: -2383417293227078929
+    second: stability-ball-wall-squat_15
+  - first:
+      213: -5631918643593895346
+    second: stability-ball-wall-squat_16
+  - first:
+      213: -3285260256884142548
+    second: stability-ball-wall-squat_17
+  - first:
+      213: 967752250519126036
+    second: stability-ball-wall-squat_18
+  - first:
+      213: 2896797225200703012
+    second: stability-ball-wall-squat_19
+  - first:
+      213: 8938612856537917559
+    second: stability-ball-wall-squat_20
+  - first:
+      213: 6508249380873345053
+    second: stability-ball-wall-squat_21
+  - first:
+      213: -6314453842027432621
+    second: stability-ball-wall-squat_22
+  - first:
+      213: 7992913727814330333
+    second: stability-ball-wall-squat_23
+  - first:
+      213: 9054625442996497436
+    second: stability-ball-wall-squat_24
+  - first:
+      213: -8003592248197304488
+    second: stability-ball-wall-squat_25
+  - first:
+      213: -1223222218053654158
+    second: stability-ball-wall-squat_26
+  - first:
+      213: -8826494680805698393
+    second: stability-ball-wall-squat_27
+  - first:
+      213: 4762865130621327537
+    second: stability-ball-wall-squat_28
+  - first:
+      213: 3458677645678979349
+    second: stability-ball-wall-squat_29
+  - first:
+      213: -5903053669113819369
+    second: stability-ball-wall-squat_30
+  - first:
+      213: -209087157196314730
+    second: stability-ball-wall-squat_31
+  - first:
+      213: -7790350064863616270
+    second: stability-ball-wall-squat_32
+  - first:
+      213: 5018617174346716458
+    second: stability-ball-wall-squat_33
+  - first:
+      213: 450029818602838991
+    second: stability-ball-wall-squat_34
+  - first:
+      213: 6820971966935668399
+    second: stability-ball-wall-squat_35
+  - first:
+      213: -5739114805747810507
+    second: stability-ball-wall-squat_36
+  - first:
+      213: 2981359201900921702
+    second: stability-ball-wall-squat_37
+  - first:
+      213: -330500841106776010
+    second: stability-ball-wall-squat_38
+  - first:
+      213: -7554816915546939683
+    second: stability-ball-wall-squat_39
+  - first:
+      213: 373934159159448634
+    second: stability-ball-wall-squat_40
+  - first:
+      213: -897766665379046190
+    second: stability-ball-wall-squat_41
+  - first:
+      213: 2941321239495393327
+    second: stability-ball-wall-squat_42
+  - first:
+      213: 119730921137532569
+    second: stability-ball-wall-squat_43
+  - first:
+      213: 4269575921226341158
+    second: stability-ball-wall-squat_44
+  - first:
+      213: 5954748386756042132
+    second: stability-ball-wall-squat_45
+  - first:
+      213: 2833123126966316393
+    second: stability-ball-wall-squat_46
+  - first:
+      213: -2511016473782804000
+    second: stability-ball-wall-squat_47
+  - first:
+      213: 7015475039689750496
+    second: stability-ball-wall-squat_48
+  - first:
+      213: -3093118619952640341
+    second: stability-ball-wall-squat_49
+  - first:
+      213: 320676916869507084
+    second: stability-ball-wall-squat_50
+  - first:
+      213: -13231777114428163
+    second: stability-ball-wall-squat_51
+  - first:
+      213: -925293611031388031
+    second: stability-ball-wall-squat_52
+  - first:
+      213: -1288875142976787134
+    second: stability-ball-wall-squat_53
+  - first:
+      213: 8924592599752815546
+    second: stability-ball-wall-squat_54
+  - first:
+      213: 3873905055303459744
+    second: stability-ball-wall-squat_55
+  - first:
+      213: 97316320822372186
+    second: stability-ball-wall-squat_56
+  - first:
+      213: 1025115428142172088
+    second: stability-ball-wall-squat_57
+  - first:
+      213: 7557029726024633405
+    second: stability-ball-wall-squat_58
+  - first:
+      213: 4428363854324308166
+    second: stability-ball-wall-squat_59
+  - first:
+      213: -453368471639728361
+    second: stability-ball-wall-squat_60
+  - first:
+      213: 2060765071322311998
+    second: stability-ball-wall-squat_61
+  - first:
+      213: -4310619416548176792
+    second: stability-ball-wall-squat_62
+  - first:
+      213: -1300372349284812038
+    second: stability-ball-wall-squat_63
+  - first:
+      213: 8100278513324103857
+    second: stability-ball-wall-squat_64
+  - first:
+      213: -7951387693257852713
+    second: stability-ball-wall-squat_65
+  - first:
+      213: -4876689422218851358
+    second: stability-ball-wall-squat_66
+  - first:
+      213: -4158028484516709344
+    second: stability-ball-wall-squat_67
+  - first:
+      213: -4338396480684312551
+    second: stability-ball-wall-squat_68
+  - first:
+      213: 4369410630173234656
+    second: stability-ball-wall-squat_69
+  - first:
+      213: -9071080117890742451
+    second: stability-ball-wall-squat_70
+  - first:
+      213: 6130393593942706058
+    second: stability-ball-wall-squat_71
+  - first:
+      213: -7697764158858123239
+    second: stability-ball-wall-squat_72
+  - first:
+      213: 3924877054907473767
+    second: stability-ball-wall-squat_73
+  - first:
+      213: -5369444149540617992
+    second: stability-ball-wall-squat_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181b729ea40d1670800000000000000
+      internalID: 8510964018628466717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a8faa403a63b20800000000000000
+      internalID: 3113855432816896207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8813af0ccea170800000000000000
+      internalID: 8191709139766381199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500dcdc55d417050800000000000000
+      internalID: 5796499226322862174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c18abcfc7a40ae0800000000000000
+      internalID: -1583956658010710982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563f25beebe49b6f0800000000000000
+      internalID: -668416487788973211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7d14ced6d54570800000000000000
+      internalID: 8450396528091953860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980a65aae33f3e60800000000000000
+      internalID: 7944125350595397783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7f45bde72f6e10800000000000000
+      internalID: 2193015445455339344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 532
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4b1029c31b4360800000000000000
+      internalID: 7154834187556178669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54fb305529fa6980800000000000000
+      internalID: -8544743404326882213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad5bcf6f6258430800000000000000
+      internalID: 3784473904118356549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7429aeca99de00800000000000000
+      internalID: 1070056598868884403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317553006d040a560800000000000000
+      internalID: 7322924281975101203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c8ceddf8fe1f2a0800000000000000
+      internalID: -6705314968995328974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4da589966ceed0800000000000000
+      internalID: -2383417293227078929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42afa435d767d1b0800000000000000
+      internalID: -5631918643593895346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e46b1d3396862d0800000000000000
+      internalID: -3285260256884142548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41007c26b852e6d00800000000000000
+      internalID: 967752250519126036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 456
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426dc6a7abd733820800000000000000
+      internalID: 2896797225200703012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778aea2c8055c0c70800000000000000
+      internalID: 8938612856537917559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189c986452f15a50800000000000000
+      internalID: 6508249380873345053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ba53afad8e58a0800000000000000
+      internalID: -6314453842027432621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd767baefa88cee60800000000000000
+      internalID: 7992913727814330333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2500fddd78ad70800000000000000
+      internalID: 9054625442996497436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f212f41478de090800000000000000
+      internalID: -8003592248197304488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279eb83afdd360fe0800000000000000
+      internalID: -1223222218053654158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a493b24addf18580800000000000000
+      internalID: -8826494680805698393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b857cff998191240800000000000000
+      internalID: 4762865130621327537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 380
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a74f6ef0bfff20800000000000000
+      internalID: 3458677645678979349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8762b6f3241ea0800000000000000
+      internalID: -5903053669113819369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a73c965c291df0800000000000000
+      internalID: -209087157196314730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ecdb14ed13e390800000000000000
+      internalID: -7790350064863616270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255c94fab5b5a540800000000000000
+      internalID: 5018617174346716458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd7245cb3de3600800000000000000
+      internalID: 450029818602838991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa619186dd5f8ae50800000000000000
+      internalID: 6820971966935668399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f7736cd719a50b0800000000000000
+      internalID: -5739114805747810507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6638521f56aef5920800000000000000
+      internalID: 2981359201900921702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ecdf6c33d96bf0800000000000000
+      internalID: -330500841106776010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 304
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde56bdda06e72790800000000000000
+      internalID: -7554816915546939683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345516f22b703500800000000000000
+      internalID: 373934159159448634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc15e279fd7a83f0800000000000000
+      internalID: -897766665379046190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f204f62651ca1d820800000000000000
+      internalID: 2941321239495393327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e680f63ae59a100800000000000000
+      internalID: 119730921137532569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd14edda4904b30800000000000000
+      internalID: 4269575921226341158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9c6fab1483a250800000000000000
+      internalID: 5954748386756042132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d65c33976415720800000000000000
+      internalID: 2833123126966316393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a50f22d3172dd0800000000000000
+      internalID: -2511016473782804000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7b3570169fb5160800000000000000
+      internalID: 7015475039689750496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 228
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae8391d0090315d0800000000000000
+      internalID: -3093118619952640341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08aca5f4f5437400800000000000000
+      internalID: 320676916869507084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce851d4cdf0dff0800000000000000
+      internalID: -13231777114428163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802989fc52b823f0800000000000000
+      internalID: -925293611031388031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da90fd2eefc1ee0800000000000000
+      internalID: -1288875142976787134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b8595fa58adb70800000000000000
+      internalID: 8924592599752815546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e3fa7f10e2c530800000000000000
+      internalID: 3873905055303459744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57277d9dacb95100800000000000000
+      internalID: 97316320822372186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7cf24fc01f93e00800000000000000
+      internalID: 1025115428142172088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c04c83f76ffd860800000000000000
+      internalID: 7557029726024633405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 152
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81e298675b47d30800000000000000
+      internalID: 4428363854324308166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5d8fe6cf45b9f0800000000000000
+      internalID: -453368471639728361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de2b9f9ee499c10800000000000000
+      internalID: 2060765071322311998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8eb2ba7a9d24c0800000000000000
+      internalID: -4310619416548176792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa732dec3624fde0800000000000000
+      internalID: -1300372349284812038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b899680468f96070800000000000000
+      internalID: 8100278513324103857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f3ff650ff6a190800000000000000
+      internalID: -7951387693257852713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb8dbceec4825cb0800000000000000
+      internalID: -4876689422218851358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cfc6e9f17bb46c0800000000000000
+      internalID: -4158028484516709344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918b10af26beac3c0800000000000000
+      internalID: -4338396480684312551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 76
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e59a4961d343ac30800000000000000
+      internalID: 4369410630173234656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47830481bc0d1280800000000000000
+      internalID: -9071080117890742451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8709445e78831550800000000000000
+      internalID: 6130393593942706058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182782384c0c2590800000000000000
+      internalID: -7697764158858123239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f57d4f2e6f77630800000000000000
+      internalID: 3924877054907473767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stability-ball-wall-squat_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f005599ef6eb75b0800000000000000
+      internalID: -5369444149540617992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

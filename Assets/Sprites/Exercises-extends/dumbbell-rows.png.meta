@@ -1,0 +1,3587 @@
+fileFormatVersion: 2
+guid: a8ee7c140ceb1cf43901fa73be6a761d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1424356509253725319
+    second: dumbbell-rows_0
+  - first:
+      213: -7575817176721370622
+    second: dumbbell-rows_1
+  - first:
+      213: -2273904206889561858
+    second: dumbbell-rows_2
+  - first:
+      213: 6996662672630371807
+    second: dumbbell-rows_3
+  - first:
+      213: 2986188608871258408
+    second: dumbbell-rows_4
+  - first:
+      213: 2678146803318272232
+    second: dumbbell-rows_5
+  - first:
+      213: 3941470585513731098
+    second: dumbbell-rows_6
+  - first:
+      213: 1264014949038925453
+    second: dumbbell-rows_7
+  - first:
+      213: 1029941860569563019
+    second: dumbbell-rows_8
+  - first:
+      213: 8890756153177833679
+    second: dumbbell-rows_9
+  - first:
+      213: -657794531025533083
+    second: dumbbell-rows_10
+  - first:
+      213: 9055872801489860630
+    second: dumbbell-rows_11
+  - first:
+      213: 8342665539333078861
+    second: dumbbell-rows_12
+  - first:
+      213: -4444693400996956088
+    second: dumbbell-rows_13
+  - first:
+      213: 8828742002737277668
+    second: dumbbell-rows_14
+  - first:
+      213: 3561462347676318214
+    second: dumbbell-rows_15
+  - first:
+      213: 2268852673909095546
+    second: dumbbell-rows_16
+  - first:
+      213: 4147706109940011198
+    second: dumbbell-rows_17
+  - first:
+      213: 7485750299431027505
+    second: dumbbell-rows_18
+  - first:
+      213: -4019040519581136533
+    second: dumbbell-rows_19
+  - first:
+      213: -6454876261632437369
+    second: dumbbell-rows_20
+  - first:
+      213: -5849723653709710127
+    second: dumbbell-rows_21
+  - first:
+      213: -2427102948798102865
+    second: dumbbell-rows_22
+  - first:
+      213: -8065770343288578870
+    second: dumbbell-rows_23
+  - first:
+      213: 7225273928777419691
+    second: dumbbell-rows_24
+  - first:
+      213: 1906328804407279381
+    second: dumbbell-rows_25
+  - first:
+      213: -7300243175109966242
+    second: dumbbell-rows_26
+  - first:
+      213: 8346713552176296855
+    second: dumbbell-rows_27
+  - first:
+      213: 9087982684608197688
+    second: dumbbell-rows_28
+  - first:
+      213: -9062451012851687979
+    second: dumbbell-rows_29
+  - first:
+      213: 7434109296739066841
+    second: dumbbell-rows_30
+  - first:
+      213: -8722138548970878909
+    second: dumbbell-rows_31
+  - first:
+      213: -8833165667736363903
+    second: dumbbell-rows_32
+  - first:
+      213: -4722554141837308664
+    second: dumbbell-rows_33
+  - first:
+      213: -5424211311426031368
+    second: dumbbell-rows_34
+  - first:
+      213: 3349328321138538906
+    second: dumbbell-rows_35
+  - first:
+      213: 885601148013596854
+    second: dumbbell-rows_36
+  - first:
+      213: -4328174257115077205
+    second: dumbbell-rows_37
+  - first:
+      213: -6708606407287624348
+    second: dumbbell-rows_38
+  - first:
+      213: -7484078892436002652
+    second: dumbbell-rows_39
+  - first:
+      213: 4159907371933483109
+    second: dumbbell-rows_40
+  - first:
+      213: 8057631972073490475
+    second: dumbbell-rows_41
+  - first:
+      213: -1341862350765391478
+    second: dumbbell-rows_42
+  - first:
+      213: -8674653395778854180
+    second: dumbbell-rows_43
+  - first:
+      213: 7296666111318550372
+    second: dumbbell-rows_44
+  - first:
+      213: 7370650568069419754
+    second: dumbbell-rows_45
+  - first:
+      213: 5789547023406800597
+    second: dumbbell-rows_46
+  - first:
+      213: -2992768724987078384
+    second: dumbbell-rows_47
+  - first:
+      213: -2104582705158965084
+    second: dumbbell-rows_48
+  - first:
+      213: -5269078535991645292
+    second: dumbbell-rows_49
+  - first:
+      213: -7530596573826115348
+    second: dumbbell-rows_50
+  - first:
+      213: 6981118688105479049
+    second: dumbbell-rows_51
+  - first:
+      213: -2475277945288097475
+    second: dumbbell-rows_52
+  - first:
+      213: 8518383472915538303
+    second: dumbbell-rows_53
+  - first:
+      213: 5639899837353854027
+    second: dumbbell-rows_54
+  - first:
+      213: -1042710704102467998
+    second: dumbbell-rows_55
+  - first:
+      213: -3015169721506604086
+    second: dumbbell-rows_56
+  - first:
+      213: 9000609157414456460
+    second: dumbbell-rows_57
+  - first:
+      213: -2144970712724464916
+    second: dumbbell-rows_58
+  - first:
+      213: 4119826578020610410
+    second: dumbbell-rows_59
+  - first:
+      213: -5506630176697404259
+    second: dumbbell-rows_60
+  - first:
+      213: 472381524039813613
+    second: dumbbell-rows_61
+  - first:
+      213: -5494030606016740979
+    second: dumbbell-rows_62
+  - first:
+      213: 9208091888738912191
+    second: dumbbell-rows_63
+  - first:
+      213: 4544943117746133839
+    second: dumbbell-rows_64
+  - first:
+      213: -1117580678535642291
+    second: dumbbell-rows_65
+  - first:
+      213: -7228616283568669100
+    second: dumbbell-rows_66
+  - first:
+      213: 6627592603589626790
+    second: dumbbell-rows_67
+  - first:
+      213: 2165627454160890106
+    second: dumbbell-rows_68
+  - first:
+      213: -3161470440431928978
+    second: dumbbell-rows_69
+  - first:
+      213: -1351008667051111952
+    second: dumbbell-rows_70
+  - first:
+      213: 6491615736747853752
+    second: dumbbell-rows_71
+  - first:
+      213: 790376088614529353
+    second: dumbbell-rows_72
+  - first:
+      213: -2766928084985218081
+    second: dumbbell-rows_73
+  - first:
+      213: -7832118313358837920
+    second: dumbbell-rows_74
+  - first:
+      213: -1236745583859065851
+    second: dumbbell-rows_75
+  - first:
+      213: -5849350481142682429
+    second: dumbbell-rows_76
+  - first:
+      213: -4701353339156513984
+    second: dumbbell-rows_77
+  - first:
+      213: -5446644250857720646
+    second: dumbbell-rows_78
+  - first:
+      213: -6787620884229448370
+    second: dumbbell-rows_79
+  - first:
+      213: 1256283323348184131
+    second: dumbbell-rows_80
+  - first:
+      213: -1964428513872476122
+    second: dumbbell-rows_81
+  - first:
+      213: 7286665751808202828
+    second: dumbbell-rows_82
+  - first:
+      213: -7878863530956550280
+    second: dumbbell-rows_83
+  - first:
+      213: 5225457831731823552
+    second: dumbbell-rows_84
+  - first:
+      213: 4249941032027679402
+    second: dumbbell-rows_85
+  - first:
+      213: 4847246218608736024
+    second: dumbbell-rows_86
+  - first:
+      213: -1709217362987572392
+    second: dumbbell-rows_87
+  - first:
+      213: 6867336715753486090
+    second: dumbbell-rows_88
+  - first:
+      213: -6210038895479742747
+    second: dumbbell-rows_89
+  - first:
+      213: -5900121775586122448
+    second: dumbbell-rows_90
+  - first:
+      213: -3263161260768837919
+    second: dumbbell-rows_91
+  - first:
+      213: -5995614927178481132
+    second: dumbbell-rows_92
+  - first:
+      213: -5251509666199443807
+    second: dumbbell-rows_93
+  - first:
+      213: 2007223396055006951
+    second: dumbbell-rows_94
+  - first:
+      213: 4529257916065030308
+    second: dumbbell-rows_95
+  - first:
+      213: -4229608705759300243
+    second: dumbbell-rows_96
+  - first:
+      213: -2370835677136790341
+    second: dumbbell-rows_97
+  - first:
+      213: 1475009005440292982
+    second: dumbbell-rows_98
+  - first:
+      213: 164045773334712782
+    second: dumbbell-rows_99
+  - first:
+      213: 794798332302971557
+    second: dumbbell-rows_100
+  - first:
+      213: -817626948780144155
+    second: dumbbell-rows_101
+  - first:
+      213: 3891706132961313535
+    second: dumbbell-rows_102
+  - first:
+      213: 348602720854294563
+    second: dumbbell-rows_103
+  - first:
+      213: 2231522489429966570
+    second: dumbbell-rows_104
+  - first:
+      213: -7440077435901528444
+    second: dumbbell-rows_105
+  - first:
+      213: 3344904606273840347
+    second: dumbbell-rows_106
+  - first:
+      213: 9207423972473728991
+    second: dumbbell-rows_107
+  - first:
+      213: 1941820359993596494
+    second: dumbbell-rows_108
+  - first:
+      213: -8673001165618410460
+    second: dumbbell-rows_109
+  - first:
+      213: -221565738281932092
+    second: dumbbell-rows_110
+  - first:
+      213: 2282047313569750712
+    second: dumbbell-rows_111
+  - first:
+      213: 3569818468875219268
+    second: dumbbell-rows_112
+  - first:
+      213: 899051516673853857
+    second: dumbbell-rows_113
+  - first:
+      213: -7789263079919792843
+    second: dumbbell-rows_114
+  - first:
+      213: -9149552317180638878
+    second: dumbbell-rows_115
+  - first:
+      213: -3008725301391880116
+    second: dumbbell-rows_116
+  - first:
+      213: 722510669190370303
+    second: dumbbell-rows_117
+  - first:
+      213: 6913258543744061481
+    second: dumbbell-rows_118
+  - first:
+      213: -320489208036471857
+    second: dumbbell-rows_119
+  - first:
+      213: -7859997377119138505
+    second: dumbbell-rows_120
+  - first:
+      213: 6770682793828564329
+    second: dumbbell-rows_121
+  - first:
+      213: 5239714958606783855
+    second: dumbbell-rows_122
+  - first:
+      213: 7773199799557316267
+    second: dumbbell-rows_123
+  - first:
+      213: 5079996352447074059
+    second: dumbbell-rows_124
+  - first:
+      213: -1621316129030015348
+    second: dumbbell-rows_125
+  - first:
+      213: 4338204397633748498
+    second: dumbbell-rows_126
+  - first:
+      213: 2792749935211467629
+    second: dumbbell-rows_127
+  - first:
+      213: -6594476024100164037
+    second: dumbbell-rows_128
+  - first:
+      213: -6979644931406905395
+    second: dumbbell-rows_129
+  - first:
+      213: -3778939928927776586
+    second: dumbbell-rows_130
+  - first:
+      213: 4456955708558913814
+    second: dumbbell-rows_131
+  - first:
+      213: -3307456033229255896
+    second: dumbbell-rows_132
+  - first:
+      213: -1566390242492286716
+    second: dumbbell-rows_133
+  - first:
+      213: -1513837718042959479
+    second: dumbbell-rows_134
+  - first:
+      213: 2129502424870422098
+    second: dumbbell-rows_135
+  - first:
+      213: 8428101328873464263
+    second: dumbbell-rows_136
+  - first:
+      213: -4959727276345387255
+    second: dumbbell-rows_137
+  - first:
+      213: -924336103197225300
+    second: dumbbell-rows_138
+  - first:
+      213: 2668316021248830116
+    second: dumbbell-rows_139
+  - first:
+      213: -3377751835620091652
+    second: dumbbell-rows_140
+  - first:
+      213: -7746340987946501317
+    second: dumbbell-rows_141
+  - first:
+      213: -3214925769160134340
+    second: dumbbell-rows_142
+  - first:
+      213: 662989735773636289
+    second: dumbbell-rows_143
+  - first:
+      213: -2684067834475885282
+    second: dumbbell-rows_144
+  - first:
+      213: -6793833240494952363
+    second: dumbbell-rows_145
+  - first:
+      213: 190761234256275578
+    second: dumbbell-rows_146
+  - first:
+      213: 7404088072086602633
+    second: dumbbell-rows_147
+  - first:
+      213: -7295357545609768011
+    second: dumbbell-rows_148
+  - first:
+      213: 7026213910069058433
+    second: dumbbell-rows_149
+  - first:
+      213: -4121445427658723123
+    second: dumbbell-rows_150
+  - first:
+      213: 5846099302368335821
+    second: dumbbell-rows_151
+  - first:
+      213: -2461488539298829659
+    second: dumbbell-rows_152
+  - first:
+      213: -542092412112776447
+    second: dumbbell-rows_153
+  - first:
+      213: -5523081680020757996
+    second: dumbbell-rows_154
+  - first:
+      213: -7554846468584483040
+    second: dumbbell-rows_155
+  - first:
+      213: -7704050788419946429
+    second: dumbbell-rows_156
+  - first:
+      213: 151208458358774288
+    second: dumbbell-rows_157
+  - first:
+      213: 2324361473868837545
+    second: dumbbell-rows_158
+  - first:
+      213: -1138892995501639469
+    second: dumbbell-rows_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dumbbell-rows_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6597d2b454c310800000000000000
+      internalID: 1424356509253725319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202583a8a6a4dd690800000000000000
+      internalID: -7575817176721370622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d417eb287170e0800000000000000
+      internalID: -2273904206889561858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd55e5f71a3291160800000000000000
+      internalID: 6996662672630371807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d610e7b2117920800000000000000
+      internalID: 2986188608871258408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e032240450ba2520800000000000000
+      internalID: 2678146803318272232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14623e5d9ae2b630800000000000000
+      internalID: 3941470585513731098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86af3c26eeaa8110800000000000000
+      internalID: 1264014949038925453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbd825aa61b4e00800000000000000
+      internalID: 1029941860569563019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc088c6bd9f426b70800000000000000
+      internalID: 8890756153177833679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674703fb5b0fd6f0800000000000000
+      internalID: -657794531025533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618bce7355cecad70800000000000000
+      internalID: 9055872801489860630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f37df4b1a17c370800000000000000
+      internalID: 8342665539333078861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848bd0a96e64152c0800000000000000
+      internalID: -4444693400996956088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae9b6231ef58a70800000000000000
+      internalID: 8828742002737277668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afc22c22bdc6130800000000000000
+      internalID: 3561462347676318214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cfb0c6c759c7f10800000000000000
+      internalID: 2268852673909095546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb011b34bbc9f8930800000000000000
+      internalID: 4147706109940011198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334cd27c3ab2e760800000000000000
+      internalID: 7485750299431027505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 691.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690774f0ff7938c0800000000000000
+      internalID: -4019040519581136533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7831c4c4d3cab66a0800000000000000
+      internalID: -6454876261632437369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcbe62845b91dea0800000000000000
+      internalID: -5849723653709710127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa206973ab2315ed0800000000000000
+      internalID: -2427102948798102865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc57686b90a01090800000000000000
+      internalID: -8065770343288578870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab4ba96b54554460800000000000000
+      internalID: 7225273928777419691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7acb82f3a47a10800000000000000
+      internalID: 1906328804407279381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c995b28350ba90800000000000000
+      internalID: -7300243175109966242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793386fb0cb75d370800000000000000
+      internalID: 8346713552176296855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f8f8f9100f1e70800000000000000
+      internalID: 9087982684608197688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd989891d4bb3280800000000000000
+      internalID: -9062451012851687979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3af8d84034b2760800000000000000
+      internalID: 7434109296739066841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34889da933db4f680800000000000000
+      internalID: -8722138548970878909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd56410aa4a6580800000000000000
+      internalID: -8833165667736363903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcc37770e167eb0800000000000000
+      internalID: -4722554141837308664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0bbcb0d8459b4b0800000000000000
+      internalID: -5424211311426031368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993e91dc543b7e20800000000000000
+      internalID: 3349328321138538906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b057005d894a4c00800000000000000
+      internalID: 885601148013596854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba56aaed17c3fe3c0800000000000000
+      internalID: -4328174257115077205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d26bb240e36e2a0800000000000000
+      internalID: -6708606407287624348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 593.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a86a5156e5332890800000000000000
+      internalID: -7484078892436002652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560cf92f6b5fab930800000000000000
+      internalID: 4159907371933483109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b284542669572df60800000000000000
+      internalID: 8057631972073490475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81882d2d4fb06de0800000000000000
+      internalID: -1341862350765391478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd227f262b07d9780800000000000000
+      internalID: -8674653395778854180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e5c93b27f24560800000000000000
+      internalID: 7296666111318550372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae21f49e3afc94660800000000000000
+      internalID: 7370650568069419754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de159ce75a985050800000000000000
+      internalID: 5789547023406800597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191f3473bc8776d0800000000000000
+      internalID: -2992768724987078384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b1922e250bc2e0800000000000000
+      internalID: -2104582705158965084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b25900df870e6b0800000000000000
+      internalID: -5269078535991645292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8125e9052fd7790800000000000000
+      internalID: -7530596573826115348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3e53957ae1e060800000000000000
+      internalID: 6981118688105479049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d318eb6c2db06add0800000000000000
+      internalID: -2475277945288097475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7160b3e2a0673670800000000000000
+      internalID: 8518383472915538303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4482464503f44e40800000000000000
+      internalID: 5639899837353854027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_55
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266997e932c8781f0800000000000000
+      internalID: -1042710704102467998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd5140d17f726d0800000000000000
+      internalID: -3015169721506604086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c01d5675698ec70800000000000000
+      internalID: 9000609157414456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea117650888b32e0800000000000000
+      internalID: -2144970712724464916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_59
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 495.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b127e1709c2930800000000000000
+      internalID: 4119826578020610410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94318897058493b0800000000000000
+      internalID: -5506630176697404259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c9da4e7c3e8600800000000000000
+      internalID: 472381524039813613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818f3fb54841c3b0800000000000000
+      internalID: -5494030606016740979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7407749c6b9cf70800000000000000
+      internalID: 9208091888738912191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5d997fa1e21f30800000000000000
+      internalID: 4544943117746133839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430b084b4e8d70f0800000000000000
+      internalID: -1117580678535642291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef848f9cbceab90800000000000000
+      internalID: -7228616283568669100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab47f4cb50f9fb50800000000000000
+      internalID: 6627592603589626790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e71112badd0e10800000000000000
+      internalID: 2165627454160890106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69382672633024d0800000000000000
+      internalID: -3161470440431928978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9c1f776c0404de0800000000000000
+      internalID: -1351008667051111952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b701375e1ad61a50800000000000000
+      internalID: 6491615736747853752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e4d07ddaf7fa00800000000000000
+      internalID: 790376088614529353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb77670195e999d0800000000000000
+      internalID: -2766928084985218081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0673a6de3e9be4390800000000000000
+      internalID: -7832118313358837920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1c8ca17236dee0800000000000000
+      internalID: -1236745583859065851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cceab48abee2dea0800000000000000
+      internalID: -5849350481142682429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bbafffb0071ceb0800000000000000
+      internalID: -4701353339156513984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b3b159e1a964b0800000000000000
+      internalID: -5446644250857720646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 397.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d1b75a4c68dc1a0800000000000000
+      internalID: -6787620884229448370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6a69c6073f6110800000000000000
+      internalID: 1256283323348184131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6288bf3bca2fcb4e0800000000000000
+      internalID: -1964428513872476122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48588515ef6f1560800000000000000
+      internalID: 7286665751808202828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0e83dc57a8a290800000000000000
+      internalID: -7878863530956550280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38829563e848840800000000000000
+      internalID: 5225457831731823552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaed5af9d2dafa30800000000000000
+      internalID: 4249941032027679402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817770701c0e44340800000000000000
+      internalID: 4847246218608736024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853223b3dd3a748e0800000000000000
+      internalID: -1709217362987572392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07fb77bb5ead4f50800000000000000
+      internalID: 6867336715753486090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee1299d68281d9a0800000000000000
+      internalID: -6210038895479742747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03564aa518e8e1ea0800000000000000
+      internalID: -5900121775586122448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_91
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eebe0f4f1ce6b2d0800000000000000
+      internalID: -3263161260768837919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124f776dfb4bcca0800000000000000
+      internalID: -5995614927178481132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e6a348c3ee17b0800000000000000
+      internalID: -5251509666199443807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee36b24b071bdb10800000000000000
+      internalID: 2007223396055006951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_95
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ae2fd3182bde30800000000000000
+      internalID: 4529257916065030308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653152aa496d45c0800000000000000
+      internalID: -4229608705759300243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc507b4389191fd0800000000000000
+      internalID: -2370835677136790341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67855c120e8487410800000000000000
+      internalID: 1475009005440292982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 299.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1158ef2cec64200800000000000000
+      internalID: 164045773334712782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ddf84fd0b70b00800000000000000
+      internalID: 794798332302971557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94c2f3f9437a4f0800000000000000
+      internalID: -817626948780144155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24e59db1e120630800000000000000
+      internalID: 3891706132961313535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204140e35c76d400800000000000000
+      internalID: 348602720854294563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb4ca81e5f7fe10800000000000000
+      internalID: 2231522489429966570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b0b3cdf88fb890800000000000000
+      internalID: -7440077435901528444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42580740d7b6e20800000000000000
+      internalID: 3344904606273840347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf66b7e15757cf70800000000000000
+      internalID: 9207423972473728991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1a07445bb2fa10800000000000000
+      internalID: 1941820359993596494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c04c2346f43a780800000000000000
+      internalID: -8673001165618410460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caee4b8227dcecf0800000000000000
+      internalID: -221565738281932092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_111
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be95fdd0f57baf10800000000000000
+      internalID: 2282047313569750712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441bfe5dbfa8a8130800000000000000
+      internalID: 3569818468875219268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_113
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a90f1e47921a7c00800000000000000
+      internalID: 899051516673853857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc0538f7af6e390800000000000000
+      internalID: -7789263079919792843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_115
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698898d4a2460180800000000000000
+      internalID: -9149552317180638878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409ecf774cde36d0800000000000000
+      internalID: -3008725301391880116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_117
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3958720afd60a00800000000000000
+      internalID: 722510669190370303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209c4c7404d0ff50800000000000000
+      internalID: 6913258543744061481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_119
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 201.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc3a863c46d8bf0800000000000000
+      internalID: -320489208036471857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dcf41970eabe290800000000000000
+      internalID: -7859997377119138505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d300dd02c46fd50800000000000000
+      internalID: 6770682793828564329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65de006ef437b840800000000000000
+      internalID: 5239714958606783855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae50c49804ffdb60800000000000000
+      internalID: 7773199799557316267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f43ef74c5cf7640800000000000000
+      internalID: 5079996352447074059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86fd8c129def79e0800000000000000
+      internalID: -1621316129030015348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3ff33ae5643c30800000000000000
+      internalID: 4338204397633748498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6356caf447d1c620800000000000000
+      internalID: 2792749935211467629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eedafbef6bb74a0800000000000000
+      internalID: -6594476024100164037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb2252ae1532f90800000000000000
+      internalID: -6979644931406905395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b058b408228e8bc0800000000000000
+      internalID: -3778939928927776586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611bd4c5a994add30800000000000000
+      internalID: 4456955708558913814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc52de24e8912d0800000000000000
+      internalID: -3307456033229255896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_133
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409fb90af50134ae0800000000000000
+      internalID: -1566390242492286716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_134
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812678bd94cdfae0800000000000000
+      internalID: -1513837718042959479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2560cbe3c238d8d10800000000000000
+      internalID: 2129502424870422098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1208e2181a6f470800000000000000
+      internalID: 8428101328873464263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071e96e1528b2bb0800000000000000
+      internalID: -4959727276345387255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4cd326391c23f0800000000000000
+      internalID: -924336103197225300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_139
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 103.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa2503b843c70520800000000000000
+      internalID: 2668316021248830116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d0720a90df11d0800000000000000
+      internalID: -3377751835620091652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7660d9e77f7490800000000000000
+      internalID: -7746340987946501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-rows_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5.25
+        width: 100
+        height: 98.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f5fddb0a4263d0800000000000000
+      internalID: -3214925769160134340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

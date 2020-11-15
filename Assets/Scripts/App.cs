@@ -40,7 +40,6 @@ public class App : MonoBehaviour {
 
     public void LoadProfile () {
         string profileJson = PlayerPrefs.GetString ("profile");
-        Debug.Log (profileJson);
         this.profile = JsonUtility.FromJson<Profile> (profileJson);
     }
 

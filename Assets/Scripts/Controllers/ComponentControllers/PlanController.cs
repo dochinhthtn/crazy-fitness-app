@@ -16,7 +16,7 @@ namespace Controller.ComponentControllers {
         }
 
         public override void Render () {
-            planName.text = EllipsisText.Make(data.name, 28);
+            planName.text = StringUtils.Ellipsis(data.name, 28);
             planDates.text = data.dates.Count + " days";
             planRates.text = "4.3";
         }

@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: ea47cb3ee6baa6944a7494df4acfec1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -597431457147483772
+    second: elbow-to-knee_0
+  - first:
+      213: 7634107573884016303
+    second: elbow-to-knee_1
+  - first:
+      213: 2020965653604104822
+    second: elbow-to-knee_2
+  - first:
+      213: -4743477735480745301
+    second: elbow-to-knee_3
+  - first:
+      213: -1511645511871306523
+    second: elbow-to-knee_4
+  - first:
+      213: -2683817997405433883
+    second: elbow-to-knee_5
+  - first:
+      213: -3084197228029678278
+    second: elbow-to-knee_6
+  - first:
+      213: 4144448208015051135
+    second: elbow-to-knee_7
+  - first:
+      213: 3261333595764644806
+    second: elbow-to-knee_8
+  - first:
+      213: 2246662580612275768
+    second: elbow-to-knee_9
+  - first:
+      213: -1239591590980300640
+    second: elbow-to-knee_10
+  - first:
+      213: -3276364679257921310
+    second: elbow-to-knee_11
+  - first:
+      213: 126923966488218336
+    second: elbow-to-knee_12
+  - first:
+      213: 4733402267062261161
+    second: elbow-to-knee_13
+  - first:
+      213: 5474298738030776940
+    second: elbow-to-knee_14
+  - first:
+      213: -4710604827059816480
+    second: elbow-to-knee_15
+  - first:
+      213: -6571959953462890846
+    second: elbow-to-knee_16
+  - first:
+      213: 8736872008503043838
+    second: elbow-to-knee_17
+  - first:
+      213: -9191337965368853759
+    second: elbow-to-knee_18
+  - first:
+      213: 5024699427040268861
+    second: elbow-to-knee_19
+  - first:
+      213: -6911003252467751396
+    second: elbow-to-knee_20
+  - first:
+      213: -8910078052791884813
+    second: elbow-to-knee_21
+  - first:
+      213: -2110822777031638264
+    second: elbow-to-knee_22
+  - first:
+      213: 4798947648440617507
+    second: elbow-to-knee_23
+  - first:
+      213: 7788986942881236073
+    second: elbow-to-knee_24
+  - first:
+      213: -5923876095144103613
+    second: elbow-to-knee_25
+  - first:
+      213: 6054854792620002026
+    second: elbow-to-knee_26
+  - first:
+      213: 8121114034609632196
+    second: elbow-to-knee_27
+  - first:
+      213: 6501506550379127172
+    second: elbow-to-knee_28
+  - first:
+      213: 4351180863946067358
+    second: elbow-to-knee_29
+  - first:
+      213: 6401812650373913956
+    second: elbow-to-knee_30
+  - first:
+      213: 5572851636358165431
+    second: elbow-to-knee_31
+  - first:
+      213: 4608269893871854970
+    second: elbow-to-knee_32
+  - first:
+      213: 1136519579233645811
+    second: elbow-to-knee_33
+  - first:
+      213: -1238073990936983035
+    second: elbow-to-knee_34
+  - first:
+      213: -7184813856772305309
+    second: elbow-to-knee_35
+  - first:
+      213: 9114734231407366970
+    second: elbow-to-knee_36
+  - first:
+      213: -420801931398524093
+    second: elbow-to-knee_37
+  - first:
+      213: -1674943691683256053
+    second: elbow-to-knee_38
+  - first:
+      213: -9089469236715488985
+    second: elbow-to-knee_39
+  - first:
+      213: 1255010318244144185
+    second: elbow-to-knee_40
+  - first:
+      213: -3444335122221263135
+    second: elbow-to-knee_41
+  - first:
+      213: -6962743097791074380
+    second: elbow-to-knee_42
+  - first:
+      213: 4278381853776132650
+    second: elbow-to-knee_43
+  - first:
+      213: 8841924072879904193
+    second: elbow-to-knee_44
+  - first:
+      213: -3974725802307478355
+    second: elbow-to-knee_45
+  - first:
+      213: -1277867107550558305
+    second: elbow-to-knee_46
+  - first:
+      213: -2432800282419863147
+    second: elbow-to-knee_47
+  - first:
+      213: -6036617635816010766
+    second: elbow-to-knee_48
+  - first:
+      213: -7848752661143900472
+    second: elbow-to-knee_49
+  - first:
+      213: 2043310431948766467
+    second: elbow-to-knee_50
+  - first:
+      213: 7423963570802824806
+    second: elbow-to-knee_51
+  - first:
+      213: -9099500030930352359
+    second: elbow-to-knee_52
+  - first:
+      213: 5761467086951255287
+    second: elbow-to-knee_53
+  - first:
+      213: -4778676482187566548
+    second: elbow-to-knee_54
+  - first:
+      213: 7697629027549781650
+    second: elbow-to-knee_55
+  - first:
+      213: 6778162846204884757
+    second: elbow-to-knee_56
+  - first:
+      213: 858058242562119517
+    second: elbow-to-knee_57
+  - first:
+      213: 5718264384781243022
+    second: elbow-to-knee_58
+  - first:
+      213: 7524240252299848957
+    second: elbow-to-knee_59
+  - first:
+      213: 2679206774820709246
+    second: elbow-to-knee_60
+  - first:
+      213: -127980496130454678
+    second: elbow-to-knee_61
+  - first:
+      213: -1128869014788462593
+    second: elbow-to-knee_62
+  - first:
+      213: 3153509219793831418
+    second: elbow-to-knee_63
+  - first:
+      213: -502664841955243870
+    second: elbow-to-knee_64
+  - first:
+      213: 225446681106821173
+    second: elbow-to-knee_65
+  - first:
+      213: 7324341706797145584
+    second: elbow-to-knee_66
+  - first:
+      213: 3071352263411953942
+    second: elbow-to-knee_67
+  - first:
+      213: 4692213954746985318
+    second: elbow-to-knee_68
+  - first:
+      213: -8760912498558091726
+    second: elbow-to-knee_69
+  - first:
+      213: 6533721868372631643
+    second: elbow-to-knee_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elbow-to-knee_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489841b414f75b7f0800000000000000
+      internalID: -597431457147483772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d976246cc1f960800000000000000
+      internalID: 7634107573884016303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a765eed89eb0c10800000000000000
+      internalID: 2020965653604104822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba222b0b128cb2eb0800000000000000
+      internalID: -4743477735480745301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e89e7a6e850be0800000000000000
+      internalID: -1511645511871306523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef49d630c921cad0800000000000000
+      internalID: -2683817997405433883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3deb0e36fab235d0800000000000000
+      internalID: -3084197228029678278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79cdbcdfa9048930800000000000000
+      internalID: 4144448208015051135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb599540a5924d20800000000000000
+      internalID: 3261333595764644806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 651
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9e87b6bfbd2f10800000000000000
+      internalID: 2246662580612275768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0de0104061ccee0800000000000000
+      internalID: -1239591590980300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e132eea30882d0800000000000000
+      internalID: -3276364679257921310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea8300dcace2c100800000000000000
+      internalID: 126923966488218336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a55643884c60b140800000000000000
+      internalID: 4733402267062261161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6291bab2bd98fb40800000000000000
+      internalID: 5474298738030776940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7fbdd1ed190aeb0800000000000000
+      internalID: -4710604827059816480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae60c7fd35bbc4a0800000000000000
+      internalID: -6571959953462890846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a0e24dca9f3970800000000000000
+      internalID: 8736872008503043838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb0ab71dec17080800000000000000
+      internalID: -9191337965368853759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 558
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3218d3c1815bb540800000000000000
+      internalID: 5024699427040268861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16271f682f2710a0800000000000000
+      internalID: -6911003252467751396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e556f73b095480800000000000000
+      internalID: -8910078052791884813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c93f2ed9d4b2e0800000000000000
+      internalID: -2110822777031638264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32acff8d579499240800000000000000
+      internalID: 4798947648440617507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96487925b5a081c60800000000000000
+      internalID: 7788986942881236073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f187d31a2acda0800000000000000
+      internalID: -5923876095144103613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacfa89a5a270450800000000000000
+      internalID: 6054854792620002026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b85ddf2ef3b070800000000000000
+      internalID: 8121114034609632196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812938d2cdf93a50800000000000000
+      internalID: 6501506550379127172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 465
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8bf431ff726c30800000000000000
+      internalID: 4351180863946067358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d9320ffaec7d850800000000000000
+      internalID: 6401812650373913956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3351b790fb65d40800000000000000
+      internalID: 5572851636358165431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75eb558d0dd3ff30800000000000000
+      internalID: 4608269893871854970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47f78298ab5cf00800000000000000
+      internalID: 1136519579233645811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a0d8cc34a71dee0800000000000000
+      internalID: -1238073990936983035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e48c13dd96a4c90800000000000000
+      internalID: -7184813856772305309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331125dd7a0e7e70800000000000000
+      internalID: 9114734231407366970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34351367fd2092af0800000000000000
+      internalID: -420801931398524093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09207e269761c8e0800000000000000
+      internalID: -1674943691683256053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297bb423e7bbd180800000000000000
+      internalID: -9089469236715488985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93464603c31ba6110800000000000000
+      internalID: 1255010318244144185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6999884734330d0800000000000000
+      internalID: -3444335122221263135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf2cd1fa0e5f5f90800000000000000
+      internalID: -6962743097791074380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2abdcfc0addf5b30800000000000000
+      internalID: 4278381853776132650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55bf60913d4ba70800000000000000
+      internalID: 8841924072879904193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac12e911ffe6d8c0800000000000000
+      internalID: -3974725802307478355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970b48d2aa144ee0800000000000000
+      internalID: -1277867107550558305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e4ec5805fc3ed0800000000000000
+      internalID: -2432800282419863147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb045c5e30a93ca0800000000000000
+      internalID: -6036617635816010766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 279
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cead960a01a31390800000000000000
+      internalID: -7848752661143900472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df72e030c4b5c10800000000000000
+      internalID: 2043310431948766467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669427a887370760800000000000000
+      internalID: 7423963570802824806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178dbedee418b180800000000000000
+      internalID: -9099500030930352359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc85de3ac7d4ff40800000000000000
+      internalID: 5761467086951255287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2262b6de0bbeadb0800000000000000
+      internalID: -4778676482187566548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e17d711d873da60800000000000000
+      internalID: 7697629027549781650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fac5423fd01e50800000000000000
+      internalID: 6778162846204884757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d288ec6f68eb00800000000000000
+      internalID: 858058242562119517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8257aa492b5b5f40800000000000000
+      internalID: 5718264384781243022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 186
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc2703f4a87b6860800000000000000
+      internalID: 7524240252299848957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73220ddd547e2520800000000000000
+      internalID: 2679206774820709246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b47f5ba62593ef0800000000000000
+      internalID: -127980496130454678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7a69fac937550f0800000000000000
+      internalID: -1128869014788462593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50bb96de383cb20800000000000000
+      internalID: 3153509219793831418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80e2e4dfc2609f0800000000000000
+      internalID: -502664841955243870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b92fdf82f02300800000000000000
+      internalID: 225446681106821173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd83fe9f945a560800000000000000
+      internalID: 7324341706797145584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f2c06c92af9a20800000000000000
+      internalID: 3071352263411953942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b23de3bb71e1140800000000000000
+      internalID: 4692213954746985318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 93
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3a27ff7cfa6680800000000000000
+      internalID: -8760912498558091726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elbow-to-knee_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506d811c617caa50800000000000000
+      internalID: 6533721868372631643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

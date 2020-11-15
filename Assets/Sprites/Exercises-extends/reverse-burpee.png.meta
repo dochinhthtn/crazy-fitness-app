@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 01a39ba52d3230b489a1458ffdaa6958
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1508529697340204166
+    second: reverse-burpee_0
+  - first:
+      213: 2256263250404067934
+    second: reverse-burpee_1
+  - first:
+      213: -6440403886474933459
+    second: reverse-burpee_2
+  - first:
+      213: 8567477312764634669
+    second: reverse-burpee_3
+  - first:
+      213: 3018809923308305879
+    second: reverse-burpee_4
+  - first:
+      213: -1074213303846352062
+    second: reverse-burpee_5
+  - first:
+      213: -5090378073775867879
+    second: reverse-burpee_6
+  - first:
+      213: 8743859179836239335
+    second: reverse-burpee_7
+  - first:
+      213: 8251630822089641968
+    second: reverse-burpee_8
+  - first:
+      213: 1091407057533545726
+    second: reverse-burpee_9
+  - first:
+      213: 8456644722624207073
+    second: reverse-burpee_10
+  - first:
+      213: -4210226599935103494
+    second: reverse-burpee_11
+  - first:
+      213: 6021869662542266237
+    second: reverse-burpee_12
+  - first:
+      213: 3079926490436464683
+    second: reverse-burpee_13
+  - first:
+      213: 98779952887508986
+    second: reverse-burpee_14
+  - first:
+      213: 2048994590671680360
+    second: reverse-burpee_15
+  - first:
+      213: 2717585004379390153
+    second: reverse-burpee_16
+  - first:
+      213: -7080288474216112020
+    second: reverse-burpee_17
+  - first:
+      213: 2416758093727552230
+    second: reverse-burpee_18
+  - first:
+      213: 7337475391992170437
+    second: reverse-burpee_19
+  - first:
+      213: -1482081694751030220
+    second: reverse-burpee_20
+  - first:
+      213: 4595845528469434373
+    second: reverse-burpee_21
+  - first:
+      213: 6807123604820735118
+    second: reverse-burpee_22
+  - first:
+      213: 2401712463831686511
+    second: reverse-burpee_23
+  - first:
+      213: -6825568521179397054
+    second: reverse-burpee_24
+  - first:
+      213: 8382056526096184039
+    second: reverse-burpee_25
+  - first:
+      213: -9173384464044985028
+    second: reverse-burpee_26
+  - first:
+      213: 75207568584014432
+    second: reverse-burpee_27
+  - first:
+      213: 7712524942961765932
+    second: reverse-burpee_28
+  - first:
+      213: 2995050895196892614
+    second: reverse-burpee_29
+  - first:
+      213: -5443456587562803352
+    second: reverse-burpee_30
+  - first:
+      213: -4274417234583177708
+    second: reverse-burpee_31
+  - first:
+      213: 4469405866042584643
+    second: reverse-burpee_32
+  - first:
+      213: -4603995179112684784
+    second: reverse-burpee_33
+  - first:
+      213: 430363725279681278
+    second: reverse-burpee_34
+  - first:
+      213: -4759485605021983480
+    second: reverse-burpee_35
+  - first:
+      213: -7092577606594450133
+    second: reverse-burpee_36
+  - first:
+      213: -2854514742040647682
+    second: reverse-burpee_37
+  - first:
+      213: 3831402340376226905
+    second: reverse-burpee_38
+  - first:
+      213: 3695165233617046128
+    second: reverse-burpee_39
+  - first:
+      213: 4215693171079681357
+    second: reverse-burpee_40
+  - first:
+      213: -3557242515869586054
+    second: reverse-burpee_41
+  - first:
+      213: 4198394514071730000
+    second: reverse-burpee_42
+  - first:
+      213: -3514275706894673587
+    second: reverse-burpee_43
+  - first:
+      213: 8555219382619957890
+    second: reverse-burpee_44
+  - first:
+      213: -2770122541991067069
+    second: reverse-burpee_45
+  - first:
+      213: -2833481570885852800
+    second: reverse-burpee_46
+  - first:
+      213: 7338718903194956382
+    second: reverse-burpee_47
+  - first:
+      213: 4265817492733873132
+    second: reverse-burpee_48
+  - first:
+      213: -499894390461056267
+    second: reverse-burpee_49
+  - first:
+      213: 8475602135550178566
+    second: reverse-burpee_50
+  - first:
+      213: 1705518111176047239
+    second: reverse-burpee_51
+  - first:
+      213: -5919066815046296830
+    second: reverse-burpee_52
+  - first:
+      213: -850756348651308146
+    second: reverse-burpee_53
+  - first:
+      213: -4674773252175424278
+    second: reverse-burpee_54
+  - first:
+      213: -704720084589131067
+    second: reverse-burpee_55
+  - first:
+      213: 4573901555902965714
+    second: reverse-burpee_56
+  - first:
+      213: 203983952478618121
+    second: reverse-burpee_57
+  - first:
+      213: 1275015675606581026
+    second: reverse-burpee_58
+  - first:
+      213: -2912602683180276360
+    second: reverse-burpee_59
+  - first:
+      213: 5978656062041294622
+    second: reverse-burpee_60
+  - first:
+      213: -7439469589324913114
+    second: reverse-burpee_61
+  - first:
+      213: -3939890538086374495
+    second: reverse-burpee_62
+  - first:
+      213: -2884754788991761026
+    second: reverse-burpee_63
+  - first:
+      213: 6936495679120082853
+    second: reverse-burpee_64
+  - first:
+      213: 7535750599872369504
+    second: reverse-burpee_65
+  - first:
+      213: 6404219938039729041
+    second: reverse-burpee_66
+  - first:
+      213: -5430289708545924700
+    second: reverse-burpee_67
+  - first:
+      213: -922591142296590551
+    second: reverse-burpee_68
+  - first:
+      213: 5664834153930421234
+    second: reverse-burpee_69
+  - first:
+      213: 735959056060047560
+    second: reverse-burpee_70
+  - first:
+      213: -5875085475571623413
+    second: reverse-burpee_71
+  - first:
+      213: 6548708167423312054
+    second: reverse-burpee_72
+  - first:
+      213: 1099134407269539803
+    second: reverse-burpee_73
+  - first:
+      213: -5791777669929289803
+    second: reverse-burpee_74
+  - first:
+      213: -4592460154802795038
+    second: reverse-burpee_75
+  - first:
+      213: 6766705924564900735
+    second: reverse-burpee_76
+  - first:
+      213: 553275837327425082
+    second: reverse-burpee_77
+  - first:
+      213: -7085990132779267891
+    second: reverse-burpee_78
+  - first:
+      213: -474892262929225344
+    second: reverse-burpee_79
+  - first:
+      213: -1076623605586846257
+    second: reverse-burpee_80
+  - first:
+      213: 3545609623061258964
+    second: reverse-burpee_81
+  - first:
+      213: 4948278524638836040
+    second: reverse-burpee_82
+  - first:
+      213: -3821925466153765287
+    second: reverse-burpee_83
+  - first:
+      213: 5480336234527812804
+    second: reverse-burpee_84
+  - first:
+      213: 621166677052968967
+    second: reverse-burpee_85
+  - first:
+      213: 1932793462235249304
+    second: reverse-burpee_86
+  - first:
+      213: -8748296678747200143
+    second: reverse-burpee_87
+  - first:
+      213: 6395077898616933707
+    second: reverse-burpee_88
+  - first:
+      213: -9076406148798632017
+    second: reverse-burpee_89
+  - first:
+      213: 6493977438254972844
+    second: reverse-burpee_90
+  - first:
+      213: -7460065655188849970
+    second: reverse-burpee_91
+  - first:
+      213: 7937896273833748311
+    second: reverse-burpee_92
+  - first:
+      213: 6239118300554381340
+    second: reverse-burpee_93
+  - first:
+      213: -7749175934499796668
+    second: reverse-burpee_94
+  - first:
+      213: -4385425335877631933
+    second: reverse-burpee_95
+  - first:
+      213: -6949406165726651159
+    second: reverse-burpee_96
+  - first:
+      213: 5017859770133556010
+    second: reverse-burpee_97
+  - first:
+      213: -3563156780134987673
+    second: reverse-burpee_98
+  - first:
+      213: 6079477992673036611
+    second: reverse-burpee_99
+  - first:
+      213: 3630680329595451199
+    second: reverse-burpee_100
+  - first:
+      213: 6887030010101013428
+    second: reverse-burpee_101
+  - first:
+      213: 6684104904749184226
+    second: reverse-burpee_102
+  - first:
+      213: -2599173681505022424
+    second: reverse-burpee_103
+  - first:
+      213: -1623982210855656527
+    second: reverse-burpee_104
+  - first:
+      213: 4614048494058639211
+    second: reverse-burpee_105
+  - first:
+      213: -3722794221458620743
+    second: reverse-burpee_106
+  - first:
+      213: 2949298932656449509
+    second: reverse-burpee_107
+  - first:
+      213: -435089589639112201
+    second: reverse-burpee_108
+  - first:
+      213: -3744369933908917567
+    second: reverse-burpee_109
+  - first:
+      213: -132055277214660239
+    second: reverse-burpee_110
+  - first:
+      213: -3397591213485731835
+    second: reverse-burpee_111
+  - first:
+      213: 4003244162328151442
+    second: reverse-burpee_112
+  - first:
+      213: 147437774895101501
+    second: reverse-burpee_113
+  - first:
+      213: -9120949387063949891
+    second: reverse-burpee_114
+  - first:
+      213: 10181025590954703
+    second: reverse-burpee_115
+  - first:
+      213: 3977860636232617299
+    second: reverse-burpee_116
+  - first:
+      213: 469500404320155431
+    second: reverse-burpee_117
+  - first:
+      213: 2778053823205589755
+    second: reverse-burpee_118
+  - first:
+      213: 6201697327026480401
+    second: reverse-burpee_119
+  - first:
+      213: -2940120908486309127
+    second: reverse-burpee_120
+  - first:
+      213: 4010497214846032245
+    second: reverse-burpee_121
+  - first:
+      213: -6899137552076836477
+    second: reverse-burpee_122
+  - first:
+      213: -7805421799212681520
+    second: reverse-burpee_123
+  - first:
+      213: 1316019493084043264
+    second: reverse-burpee_124
+  - first:
+      213: -8724450288087260567
+    second: reverse-burpee_125
+  - first:
+      213: 6401189293951227652
+    second: reverse-burpee_126
+  - first:
+      213: -8902063268394342756
+    second: reverse-burpee_127
+  - first:
+      213: 5145809193641270197
+    second: reverse-burpee_128
+  - first:
+      213: 6453000289302990118
+    second: reverse-burpee_129
+  - first:
+      213: 5687115479948132151
+    second: reverse-burpee_130
+  - first:
+      213: 800957936955833822
+    second: reverse-burpee_131
+  - first:
+      213: -117567298022560019
+    second: reverse-burpee_132
+  - first:
+      213: -1463850523540986659
+    second: reverse-burpee_133
+  - first:
+      213: -2959738605763773685
+    second: reverse-burpee_134
+  - first:
+      213: 1976905311470719044
+    second: reverse-burpee_135
+  - first:
+      213: -4325725632475917683
+    second: reverse-burpee_136
+  - first:
+      213: -8008442018855341237
+    second: reverse-burpee_137
+  - first:
+      213: -1723196940758957952
+    second: reverse-burpee_138
+  - first:
+      213: -4201289399357122658
+    second: reverse-burpee_139
+  - first:
+      213: -7197206978472830193
+    second: reverse-burpee_140
+  - first:
+      213: 8211549112701714026
+    second: reverse-burpee_141
+  - first:
+      213: 7972572041784963398
+    second: reverse-burpee_142
+  - first:
+      213: 688399858227742255
+    second: reverse-burpee_143
+  - first:
+      213: -751680295699930352
+    second: reverse-burpee_144
+  - first:
+      213: -4279670344232737183
+    second: reverse-burpee_145
+  - first:
+      213: -7358227613650677177
+    second: reverse-burpee_146
+  - first:
+      213: -8182326272773287915
+    second: reverse-burpee_147
+  - first:
+      213: -6308836516486978001
+    second: reverse-burpee_148
+  - first:
+      213: -3520384457082093284
+    second: reverse-burpee_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reverse-burpee_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684271764cf5fe410800000000000000
+      internalID: 1508529697340204166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a4a18d87bdf4f10800000000000000
+      internalID: 2256263250404067934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bcd98b9c61f96a0800000000000000
+      internalID: -6440403886474933459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ed88393bc5e670800000000000000
+      internalID: 8567477312764634669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd373381a7f4e920800000000000000
+      internalID: 3018809923308305879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b4d3b01b0a711f0800000000000000
+      internalID: -1074213303846352062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f624ac185b59b0800000000000000
+      internalID: -5090378073775867879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed6d2cd89d685970800000000000000
+      internalID: 8743859179836239335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff4150838ea38270800000000000000
+      internalID: 8251630822089641968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 882
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc24a1bfe4752f00800000000000000
+      internalID: 1091407057533545726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e892bbe1990c5570800000000000000
+      internalID: 8456644722624207073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afda7fec6354295c0800000000000000
+      internalID: -4210226599935103494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f78878d8af19350800000000000000
+      internalID: 6021869662542266237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f7cc23d81eba20800000000000000
+      internalID: 3079926490436464683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2ac208dfee5100800000000000000
+      internalID: 98779952887508986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863bea369bd7f6c10800000000000000
+      internalID: 2048994590671680360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c046f0c92dc6b520800000000000000
+      internalID: 2717585004379390153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c606e0b4523cdbd90800000000000000
+      internalID: -7080288474216112020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e25ea48eac0a8120800000000000000
+      internalID: 2416758093727552230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 819
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c70ddf4ef2f3d560800000000000000
+      internalID: 7337475391992170437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43481401d869e6be0800000000000000
+      internalID: -1482081694751030220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500fcf68829b7cf30800000000000000
+      internalID: 4595845528469434373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8434875ad2c77e50800000000000000
+      internalID: 6807123604820735118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd053d2c8945120800000000000000
+      internalID: 2401712463831686511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2448309e795b641a0800000000000000
+      internalID: -6825568521179397054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2353d100c035470800000000000000
+      internalID: 8382056526096184039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35f280ce6791b080800000000000000
+      internalID: -9173384464044985028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06afed992e03b0100800000000000000
+      internalID: 75207568584014432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e639aa294680b60800000000000000
+      internalID: 7712524942961765932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 756
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2d64bbee809920800000000000000
+      internalID: 2995050895196892614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1f040315f474b0800000000000000
+      internalID: -5443456587562803352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416bcd60c283ea4c0800000000000000
+      internalID: -4274417234583177708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ee38a84f4860e30800000000000000
+      internalID: 4469405866042584643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a06117c25b10c0800000000000000
+      internalID: -4603995179112684784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa52892785f8f500800000000000000
+      internalID: 430363725279681278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d541f1f09e2fdb0800000000000000
+      internalID: -4759485605021983480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2c01be3a129d90800000000000000
+      internalID: -7092577606594450133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72d8a47f9b268d0800000000000000
+      internalID: -2854514742040647682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca9b10120eb2530800000000000000
+      internalID: 3831402340376226905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 693
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0e10c33dd74330800000000000000
+      internalID: 3695165233617046128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459e387a96218a30800000000000000
+      internalID: 4215693171079681357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2da567c222aec0800000000000000
+      internalID: -3557242515869586054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057b1360191b34a30800000000000000
+      internalID: 4198394514071730000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4912cf2dd8ca3fc0800000000000000
+      internalID: -3514275706894673587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a699473be3ab670800000000000000
+      internalID: 8555219382619957890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342025c893c8e89d0800000000000000
+      internalID: -2770122541991067069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081abb116837da8d0800000000000000
+      internalID: -2833481570885852800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523163d5fd58d560800000000000000
+      internalID: 7338718903194956382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebcc0b886a333b30800000000000000
+      internalID: 4265817492733873132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 630
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fabb5f43b40019f0800000000000000
+      internalID: -499894390461056267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605b2039c336f9570800000000000000
+      internalID: 8475602135550178566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ab4a69fa73ba710800000000000000
+      internalID: 1705518111176047239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bdc5f97104bdda0800000000000000
+      internalID: -5919066815046296830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bfa30cb918134f0800000000000000
+      internalID: -850756348651308146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae41692ce7edf1fb0800000000000000
+      internalID: -4674773252175424278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca4bfb11d45836f0800000000000000
+      internalID: -704720084589131067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7e3354b33c97f30800000000000000
+      internalID: 4573901555902965714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024e53f252b4d200800000000000000
+      internalID: 203983952478618121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb59b6004c1b110800000000000000
+      internalID: 1275015675606581026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 567
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a0319a4b5497d0800000000000000
+      internalID: -2912602683180276360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17053c130478f250800000000000000
+      internalID: 5978656062041294622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a7f213d1b1c890800000000000000
+      internalID: -7439469589324913114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a360771e62b259c0800000000000000
+      internalID: -3939890538086374495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750a02bdca47f7d0800000000000000
+      internalID: -2884754788991761026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a70cfba112634060800000000000000
+      internalID: 6936495679120082853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06354559e3d549860800000000000000
+      internalID: 7535750599872369504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b05564a1c50e850800000000000000
+      internalID: 6404219938039729041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a129aee74cb3a4b0800000000000000
+      internalID: -5430289708545924700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9276d728e3c4233f0800000000000000
+      internalID: -922591142296590551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 504
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f58046a88d9e40800000000000000
+      internalID: 5664834153930421234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e0b9bcd6a63a00800000000000000
+      internalID: 735959056060047560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1f7333e0877ea0800000000000000
+      internalID: -5875085475571623413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b047f8b16fa1ea50800000000000000
+      internalID: 6548708167423312054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd5b18be8e04f00800000000000000
+      internalID: 1099134407269539803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b733d535e87f9fa0800000000000000
+      internalID: -5791777669929289803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed08d332dd4440c0800000000000000
+      internalID: -4592460154802795038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd835df2b28ed50800000000000000
+      internalID: 6766705924564900735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e35b25171ada700800000000000000
+      internalID: 553275837327425082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c4c5748189ad90800000000000000
+      internalID: -7085990132779267891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 441
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a581c008d869f0800000000000000
+      internalID: -474892262929225344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd1230f8801f01f0800000000000000
+      internalID: -1076623605586846257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e5ceaa29843130800000000000000
+      internalID: 3545609623061258964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845baced911dba440800000000000000
+      internalID: 4948278524638836040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b2e7b90bc5fac0800000000000000
+      internalID: -3821925466153765287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6bbce4c01e0c40800000000000000
+      internalID: 5480336234527812804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005d0c3dc3de9800800000000000000
+      internalID: 621166677052968967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ababcd969a2da10800000000000000
+      internalID: 1932793462235249304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752b89658ec79680800000000000000
+      internalID: -8748296678747200143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d830a5771efb850800000000000000
+      internalID: 6395077898616933707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 378
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafafaf42b02a0280800000000000000
+      internalID: -9076406148798632017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb692d21e3f1a50800000000000000
+      internalID: 6493977438254972844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca706dcfc5887890800000000000000
+      internalID: -7460065655188849970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e1c1ba92192e60800000000000000
+      internalID: 7937896273833748311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ce20c90dc59650800000000000000
+      internalID: 6239118300554381340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44942226b85657490800000000000000
+      internalID: -7749175934499796668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340040a54e6d323c0800000000000000
+      internalID: -4385425335877631933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec14fb69efbe8f90800000000000000
+      internalID: -6949406165726651159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba88b00e403a540800000000000000
+      internalID: 5017859770133556010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768870179cf1d8ec0800000000000000
+      internalID: -3563156780134987673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 315
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c41d1605ae5450800000000000000
+      internalID: 6079477992673036611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f88a0684c26230800000000000000
+      internalID: 3630680329595451199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb968d1e45a39f50800000000000000
+      internalID: 6887030010101013428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e475093ff5b2cc50800000000000000
+      internalID: 6684104904749184226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e4954ce41edebd0800000000000000
+      internalID: -2599173681505022424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3256098c47679e0800000000000000
+      internalID: -1623982210855656527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f8ac8b8a4680040800000000000000
+      internalID: 4614048494058639211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef41a316af55cc0800000000000000
+      internalID: -3722794221458620743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72d61d0c30ee820800000000000000
+      internalID: 2949298932656449509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9171cc25046f9f0800000000000000
+      internalID: -435089589639112201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 252
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c4b53263590cc0800000000000000
+      internalID: -3744369933908917567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17987eecc68da2ef0800000000000000
+      internalID: -132055277214660239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d134eac459d0d0800000000000000
+      internalID: -3397591213485731835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c9b40b516e8730800000000000000
+      internalID: 4003244162328151442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36b81700edcb0200800000000000000
+      internalID: 147437774895101501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_114
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58cb97bd0eb6180800000000000000
+      internalID: -9120949387063949891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_115
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca4ccdb69b242000800000000000000
+      internalID: 10181025590954703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d87ac4c23343730800000000000000
+      internalID: 3977860636232617299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_117
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b7655120048600800000000000000
+      internalID: 469500404320155431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c513cb31ad8620800000000000000
+      internalID: 2778053823205589755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_119
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 189
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11527e56cdad01650800000000000000
+      internalID: 6201697327026480401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa89f47c979237d0800000000000000
+      internalID: -2940120908486309127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795797e7f528a730800000000000000
+      internalID: 4010497214846032245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f6e713f65140a0800000000000000
+      internalID: -6899137552076836477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d676df7a329da390800000000000000
+      internalID: -7805421799212681520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00893c2a1c0734210800000000000000
+      internalID: 1316019493084043264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9622106efa68ce680800000000000000
+      internalID: -8724450288087260567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4071ff57fb795d850800000000000000
+      internalID: 6401189293951227652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966d4f5f94857480800000000000000
+      internalID: -8902063268394342756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb5deca236996740800000000000000
+      internalID: 5145809193641270197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 126
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc56bd299ad8950800000000000000
+      internalID: 6453000289302990118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ffeeab561bcee40800000000000000
+      internalID: 5687115479948132151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd384000039d1b00800000000000000
+      internalID: 800957936955833822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea9245a215e5ef0800000000000000
+      internalID: -117567298022560019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4e11464bb5fabe0800000000000000
+      internalID: -1463850523540986659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bb07f5b65ece6d0800000000000000
+      internalID: -2959738605763773685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_135
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4409bcc18e06f6b10800000000000000
+      internalID: 1976905311470719044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829878b47fe7f3c0800000000000000
+      internalID: -4325725632475917683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_137
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b0d51a6c4cd090800000000000000
+      internalID: -8008442018855341237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_138
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c5042389f518e0800000000000000
+      internalID: -1723196940758957952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_139
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 63
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9754b8fc8502b5c0800000000000000
+      internalID: -4201289399357122658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1a21b2626e1c90800000000000000
+      internalID: -7197206978472830193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e724e496845f170800000000000000
+      internalID: 8211549112701714026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bdc0180444ae60800000000000000
+      internalID: 7972572041784963398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2608151600bd8900800000000000000
+      internalID: 688399858227742255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013252ee0ce7195f0800000000000000
+      internalID: -751680295699930352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166eb302f7e8b94c0800000000000000
+      internalID: -4279670344232737183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74291ef88f252e990800000000000000
+      internalID: -7358227613650677177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51090035b99827e80800000000000000
+      internalID: -8182326272773287915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e7c82d928278a0800000000000000
+      internalID: -6308836516486978001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reverse-burpee_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11c0d2fcf4152fc0800000000000000
+      internalID: -3520384457082093284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: d4a5bfadf32e511438f02ae43c158e22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4102854357601010420
+    second: hip-lift_0
+  - first:
+      213: -246833014112762100
+    second: hip-lift_1
+  - first:
+      213: 5748443710011485595
+    second: hip-lift_2
+  - first:
+      213: 2753689714029276573
+    second: hip-lift_3
+  - first:
+      213: 4790941913443262692
+    second: hip-lift_4
+  - first:
+      213: 7225216206897113148
+    second: hip-lift_5
+  - first:
+      213: -3342559982568648296
+    second: hip-lift_6
+  - first:
+      213: -182297107400305822
+    second: hip-lift_7
+  - first:
+      213: -7451419483746538757
+    second: hip-lift_8
+  - first:
+      213: -7016486771481668795
+    second: hip-lift_9
+  - first:
+      213: 3075774284377438757
+    second: hip-lift_10
+  - first:
+      213: -561949142313912856
+    second: hip-lift_11
+  - first:
+      213: 5212109501822304066
+    second: hip-lift_12
+  - first:
+      213: -5345059110093868113
+    second: hip-lift_13
+  - first:
+      213: -3353759234946935443
+    second: hip-lift_14
+  - first:
+      213: 5294679735061519759
+    second: hip-lift_15
+  - first:
+      213: -7550672224078361085
+    second: hip-lift_16
+  - first:
+      213: 7456487423765077289
+    second: hip-lift_17
+  - first:
+      213: 4837760012241375634
+    second: hip-lift_18
+  - first:
+      213: -8986307150376733519
+    second: hip-lift_19
+  - first:
+      213: 2993249844915604722
+    second: hip-lift_20
+  - first:
+      213: -6311127054925345270
+    second: hip-lift_21
+  - first:
+      213: 4025919394658856760
+    second: hip-lift_22
+  - first:
+      213: 7325211344712796369
+    second: hip-lift_23
+  - first:
+      213: -9107772706672547490
+    second: hip-lift_24
+  - first:
+      213: 7388045687268370947
+    second: hip-lift_25
+  - first:
+      213: 5669229156044826823
+    second: hip-lift_26
+  - first:
+      213: 996333789326512412
+    second: hip-lift_27
+  - first:
+      213: 8128237017202324023
+    second: hip-lift_28
+  - first:
+      213: -582199193851270727
+    second: hip-lift_29
+  - first:
+      213: 1639344210203379167
+    second: hip-lift_30
+  - first:
+      213: 7787512784672842263
+    second: hip-lift_31
+  - first:
+      213: -1235824735372975979
+    second: hip-lift_32
+  - first:
+      213: -2747908156413501814
+    second: hip-lift_33
+  - first:
+      213: 6789229205917764508
+    second: hip-lift_34
+  - first:
+      213: 2824765712391171005
+    second: hip-lift_35
+  - first:
+      213: 1536782250133023941
+    second: hip-lift_36
+  - first:
+      213: -4410012513574152785
+    second: hip-lift_37
+  - first:
+      213: -4745531019571937890
+    second: hip-lift_38
+  - first:
+      213: 3605714090259697872
+    second: hip-lift_39
+  - first:
+      213: -2933329643513934919
+    second: hip-lift_40
+  - first:
+      213: -7139180893138024035
+    second: hip-lift_41
+  - first:
+      213: -6815626217005925406
+    second: hip-lift_42
+  - first:
+      213: -1026214168480998237
+    second: hip-lift_43
+  - first:
+      213: -6096992408706733214
+    second: hip-lift_44
+  - first:
+      213: -8072440139185703064
+    second: hip-lift_45
+  - first:
+      213: 9032059824501527904
+    second: hip-lift_46
+  - first:
+      213: 5110677341093650335
+    second: hip-lift_47
+  - first:
+      213: 7292799887901398788
+    second: hip-lift_48
+  - first:
+      213: 7361767709685136881
+    second: hip-lift_49
+  - first:
+      213: 1950550634981762746
+    second: hip-lift_50
+  - first:
+      213: -5245917425947094366
+    second: hip-lift_51
+  - first:
+      213: 265916607319051517
+    second: hip-lift_52
+  - first:
+      213: 4673102689909606917
+    second: hip-lift_53
+  - first:
+      213: -5728475656234020633
+    second: hip-lift_54
+  - first:
+      213: -3717793685950675864
+    second: hip-lift_55
+  - first:
+      213: -4972047007808419223
+    second: hip-lift_56
+  - first:
+      213: 8089362117130587982
+    second: hip-lift_57
+  - first:
+      213: 100984906946266414
+    second: hip-lift_58
+  - first:
+      213: -1017390459897051047
+    second: hip-lift_59
+  - first:
+      213: 4452501881182514869
+    second: hip-lift_60
+  - first:
+      213: 8537957100145015701
+    second: hip-lift_61
+  - first:
+      213: -2544510073877459753
+    second: hip-lift_62
+  - first:
+      213: 6003780692358496925
+    second: hip-lift_63
+  - first:
+      213: -4099083525187632022
+    second: hip-lift_64
+  - first:
+      213: 8922356491478412218
+    second: hip-lift_65
+  - first:
+      213: -3851211551415224709
+    second: hip-lift_66
+  - first:
+      213: -6772401794579828087
+    second: hip-lift_67
+  - first:
+      213: 5265723302371927467
+    second: hip-lift_68
+  - first:
+      213: -6527179394183276968
+    second: hip-lift_69
+  - first:
+      213: 2042457961218467240
+    second: hip-lift_70
+  - first:
+      213: 7179824890856406152
+    second: hip-lift_71
+  - first:
+      213: 340374375629141434
+    second: hip-lift_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hip-lift_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d370a13bbbf07c0800000000000000
+      internalID: -4102854357601010420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0748f27ea2139cf0800000000000000
+      internalID: -246833014112762100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d2092091396cf40800000000000000
+      internalID: 5748443710011485595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dac5a8432173620800000000000000
+      internalID: 2753689714029276573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e05a6948dc7240800000000000000
+      internalID: 4790941913443262692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386f7dfbdf154460800000000000000
+      internalID: 7225216206897113148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915f8ec767dc91d0800000000000000
+      internalID: -3342559982568648296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d2d52fb9587df0800000000000000
+      internalID: -182297107400305822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaecd6757d379890800000000000000
+      internalID: -7451419483746538757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439b9ec47e60ae90800000000000000
+      internalID: -7016486771481668795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a399d5a685faa20800000000000000
+      internalID: 3075774284377438757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e53b8e7b3e8338f0800000000000000
+      internalID: -561949142313912856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f7e8a1af1255840800000000000000
+      internalID: 5212109501822304066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b3670f0982d5b0800000000000000
+      internalID: -5345059110093868113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655dcaaebd0571d0800000000000000
+      internalID: -3353759234946935443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1dc7aa2b7a7940800000000000000
+      internalID: 5294679735061519759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e866c0e9f963790800000000000000
+      internalID: -7550672224078361085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5fa54ec3ca7760800000000000000
+      internalID: 7456487423765077289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919c3e791d232340800000000000000
+      internalID: 4837760012241375634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4fd3b12493a4380800000000000000
+      internalID: -8986307150376733519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc003200e82a8920800000000000000
+      internalID: 2993249844915604722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e41de916f5a68a0800000000000000
+      internalID: -6311127054925345270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2ff4fb50fed730800000000000000
+      internalID: 4025919394658856760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8844a48e068a560800000000000000
+      internalID: 7325211344712796369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e8c37af0ba9180800000000000000
+      internalID: -9107772706672547490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aecf5b86c978660800000000000000
+      internalID: 7388045687268370947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e65c61e52dae40800000000000000
+      internalID: 5669229156044826823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1196867d40b3dd00800000000000000
+      internalID: 996333789326512412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732768c708c4dc070800000000000000
+      internalID: 8128237017202324023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e9f5faec9be7f0800000000000000
+      internalID: -582199193851270727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd504c1afde10c610800000000000000
+      internalID: 1639344210203379167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ec3e1e9dc21c60800000000000000
+      internalID: 7787512784672842263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590e37b63f779dee0800000000000000
+      internalID: -1235824735372975979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e139d37187dd9d0800000000000000
+      internalID: -2747908156413501814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8f6dedff283e50800000000000000
+      internalID: 6789229205917764508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb67ccf275933720800000000000000
+      internalID: 2824765712391171005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cced44705fb35510800000000000000
+      internalID: 1536782250133023941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59261fbfc7cc2c0800000000000000
+      internalID: -4410012513574152785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d31db3eac742eb0800000000000000
+      internalID: -4745531019571937890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0dc877cd11a0230800000000000000
+      internalID: 3605714090259697872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8a3d0b38ba47d0800000000000000
+      internalID: -2933329643513934919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99804d7dc88cec90800000000000000
+      internalID: -7139180893138024035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb58df0180a61a0800000000000000
+      internalID: -6815626217005925406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9730a6a722c1f0800000000000000
+      internalID: -1026214168480998237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b28c025b1236ba0800000000000000
+      internalID: -6096992408706733214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673b39867ee8ff80800000000000000
+      internalID: -8072440139185703064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659d757e82585d70800000000000000
+      internalID: 9032059824501527904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f5685d6f5cce640800000000000000
+      internalID: 5110677341093650335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4071f50fbda353560800000000000000
+      internalID: 7292799887901398788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd39b64ab04a2660800000000000000
+      internalID: 7361767709685136881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab62082d77fb11b10800000000000000
+      internalID: 1950550634981762746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2546925e1c237b0800000000000000
+      internalID: -5245917425947094366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc0127deb9b0b300800000000000000
+      internalID: 265916607319051517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a0cf623223ad040800000000000000
+      internalID: 4673102689909606917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d2bdcdbd5080b0800000000000000
+      internalID: -5728475656234020633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86448b0275eb76cc0800000000000000
+      internalID: -3717793685950675864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0905e69dbffab0800000000000000
+      internalID: -4972047007808419223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f021b7cff234070800000000000000
+      internalID: 8089362117130587982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254532ec35c66100800000000000000
+      internalID: 100984906946266414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95807ff54c081e1f0800000000000000
+      internalID: -1017390459897051047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be64added67acd30800000000000000
+      internalID: 4452501881182514869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfaad1fbaec7670800000000000000
+      internalID: 8537957100145015701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8127b19510bcd0800000000000000
+      internalID: -2544510073877459753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d928065fab6b15350800000000000000
+      internalID: 6003780692358496925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64098070412d17c0800000000000000
+      internalID: -4099083525187632022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba8f1d4f392db70800000000000000
+      internalID: 8922356491478412218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b303af7fbd8ac0800000000000000
+      internalID: -3851211551415224709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f9d513789302a0800000000000000
+      internalID: -6772401794579828087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5206bc17b931940800000000000000
+      internalID: 5265723302371927467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d4786cecca65a0800000000000000
+      internalID: -6527179394183276968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5681fb1b4485c10800000000000000
+      internalID: 2042457961218467240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf009a2bcd3a360800000000000000
+      internalID: 7179824890856406152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip-lift_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab53506f0b049b400800000000000000
+      internalID: 340374375629141434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

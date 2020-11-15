@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 6392be28f9f34a74fa1f14aed668ec5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4842144567338349675
+    second: incline-push-up_0
+  - first:
+      213: 2698390504785485988
+    second: incline-push-up_1
+  - first:
+      213: -8379119504565202841
+    second: incline-push-up_2
+  - first:
+      213: -637466987710263480
+    second: incline-push-up_3
+  - first:
+      213: -4278865262789688075
+    second: incline-push-up_4
+  - first:
+      213: 6083419012227761224
+    second: incline-push-up_5
+  - first:
+      213: -4588547687710997334
+    second: incline-push-up_6
+  - first:
+      213: -2348808886863020485
+    second: incline-push-up_7
+  - first:
+      213: 4950508874896670866
+    second: incline-push-up_8
+  - first:
+      213: 5154597264070954304
+    second: incline-push-up_9
+  - first:
+      213: 1801771482415415860
+    second: incline-push-up_10
+  - first:
+      213: -2782774051949495957
+    second: incline-push-up_11
+  - first:
+      213: 2104020876098765195
+    second: incline-push-up_12
+  - first:
+      213: -4076156993844925848
+    second: incline-push-up_13
+  - first:
+      213: -7023782159850088306
+    second: incline-push-up_14
+  - first:
+      213: 3732671716416286595
+    second: incline-push-up_15
+  - first:
+      213: 1544275127372390211
+    second: incline-push-up_16
+  - first:
+      213: -8592220017732783238
+    second: incline-push-up_17
+  - first:
+      213: 7631065558256462403
+    second: incline-push-up_18
+  - first:
+      213: -405926768170419945
+    second: incline-push-up_19
+  - first:
+      213: 3312003708796578380
+    second: incline-push-up_20
+  - first:
+      213: 183496986488296212
+    second: incline-push-up_21
+  - first:
+      213: 8416074232218730231
+    second: incline-push-up_22
+  - first:
+      213: -5794814923231318068
+    second: incline-push-up_23
+  - first:
+      213: -1115312394127771285
+    second: incline-push-up_24
+  - first:
+      213: 9192435496765771073
+    second: incline-push-up_25
+  - first:
+      213: -5654898964184525284
+    second: incline-push-up_26
+  - first:
+      213: -3922163610152143245
+    second: incline-push-up_27
+  - first:
+      213: 1685440987650111892
+    second: incline-push-up_28
+  - first:
+      213: -7357896372842237360
+    second: incline-push-up_29
+  - first:
+      213: -7296980142372300130
+    second: incline-push-up_30
+  - first:
+      213: 7767344550727993346
+    second: incline-push-up_31
+  - first:
+      213: 5370572956705221166
+    second: incline-push-up_32
+  - first:
+      213: 5000076947223099859
+    second: incline-push-up_33
+  - first:
+      213: 5299220833044686942
+    second: incline-push-up_34
+  - first:
+      213: 1983837685721888688
+    second: incline-push-up_35
+  - first:
+      213: -4305443154310666770
+    second: incline-push-up_36
+  - first:
+      213: -8085437160538228830
+    second: incline-push-up_37
+  - first:
+      213: 8337432984056287593
+    second: incline-push-up_38
+  - first:
+      213: -113224492563820882
+    second: incline-push-up_39
+  - first:
+      213: -711805834530991632
+    second: incline-push-up_40
+  - first:
+      213: -6166326922888503711
+    second: incline-push-up_41
+  - first:
+      213: -2881980231257558923
+    second: incline-push-up_42
+  - first:
+      213: -4266902324729759590
+    second: incline-push-up_43
+  - first:
+      213: -7945770585397224274
+    second: incline-push-up_44
+  - first:
+      213: 4769451045765580929
+    second: incline-push-up_45
+  - first:
+      213: 7073957502514926883
+    second: incline-push-up_46
+  - first:
+      213: 5458171669237076381
+    second: incline-push-up_47
+  - first:
+      213: 8694792497257170189
+    second: incline-push-up_48
+  - first:
+      213: -4486563451873060530
+    second: incline-push-up_49
+  - first:
+      213: -440207955613634441
+    second: incline-push-up_50
+  - first:
+      213: 7063076823662656056
+    second: incline-push-up_51
+  - first:
+      213: 5503336499317121953
+    second: incline-push-up_52
+  - first:
+      213: -2391296744216469783
+    second: incline-push-up_53
+  - first:
+      213: 5411671164348192146
+    second: incline-push-up_54
+  - first:
+      213: 2457916904435660870
+    second: incline-push-up_55
+  - first:
+      213: 3238500895755171821
+    second: incline-push-up_56
+  - first:
+      213: -7654261547099295262
+    second: incline-push-up_57
+  - first:
+      213: 5673939147080250275
+    second: incline-push-up_58
+  - first:
+      213: 8529591447681933555
+    second: incline-push-up_59
+  - first:
+      213: -7839593667008276559
+    second: incline-push-up_60
+  - first:
+      213: -5829941159502923455
+    second: incline-push-up_61
+  - first:
+      213: -2222018827760171667
+    second: incline-push-up_62
+  - first:
+      213: -3527357808811239715
+    second: incline-push-up_63
+  - first:
+      213: 4334239825030181429
+    second: incline-push-up_64
+  - first:
+      213: -4100336069942396090
+    second: incline-push-up_65
+  - first:
+      213: -1093133353008132062
+    second: incline-push-up_66
+  - first:
+      213: 855071351380854644
+    second: incline-push-up_67
+  - first:
+      213: 1662628125061482513
+    second: incline-push-up_68
+  - first:
+      213: 6106579572836534315
+    second: incline-push-up_69
+  - first:
+      213: 3163789759391081244
+    second: incline-push-up_70
+  - first:
+      213: 1108311041552304013
+    second: incline-push-up_71
+  - first:
+      213: -4057147040014761678
+    second: incline-push-up_72
+  - first:
+      213: -2659012764312416676
+    second: incline-push-up_73
+  - first:
+      213: 8142373386977522553
+    second: incline-push-up_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: incline-push-up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643a4744d0c23340800000000000000
+      internalID: 4842144567338349675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a60f0edb927520800000000000000
+      internalID: 2698390504785485988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76018df743367bb80800000000000000
+      internalID: -8379119504565202841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fcd71f6234727f0800000000000000
+      internalID: -637466987710263480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f489a1c6ba6e94c0800000000000000
+      internalID: -4278865262789688075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84481bb3c55ac6450800000000000000
+      internalID: 6083419012227761224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4cb0f60343250c0800000000000000
+      internalID: -4588547687710997334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ebf3d03ca576fd0800000000000000
+      internalID: -2348808886863020485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29082a1c79db3b440800000000000000
+      internalID: 4950508874896670866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 637
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4625c6eec88740800000000000000
+      internalID: 5154597264070954304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432ccc7fd9d210910800000000000000
+      internalID: 1801771482415415860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6930675eb99169d0800000000000000
+      internalID: -2782774051949495957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818fd7d6dbf23d10800000000000000
+      internalID: 2104020876098765195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a262d7fc49e67c0800000000000000
+      internalID: -4076156993844925848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d866d653868e90800000000000000
+      internalID: -7023782159850088306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fe328462d1dc330800000000000000
+      internalID: 3732671716416286595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f9082eb0e5e6510800000000000000
+      internalID: 1544275127372390211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73790bda6d42c880800000000000000
+      internalID: -8592220017732783238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2891b1bdf6e960800000000000000
+      internalID: 7631065558256462403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 546
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719316a41cbdd5af0800000000000000
+      internalID: -405926768170419945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa89d43d996fd20800000000000000
+      internalID: 3312003708796578380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135df87989eb8200800000000000000
+      internalID: 183496986488296212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe37b68ce6ebc470800000000000000
+      internalID: 8416074232218730231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2aa1978ea49fa0800000000000000
+      internalID: -5794814923231318068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b697c66694d9580f0800000000000000
+      internalID: -1115312394127771285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4a657167129f70800000000000000
+      internalID: 9192435496765771073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c169e0f5a53c581b0800000000000000
+      internalID: -5654898964184525284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376fae12afca199c0800000000000000
+      internalID: -3922163610152143245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b4cef5a3e36710800000000000000
+      internalID: 1685440987650111892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 455
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527a929b3083e990800000000000000
+      internalID: -7357896372842237360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad1d8b83bebba90800000000000000
+      internalID: -7296980142372300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208453a37b62bcb60800000000000000
+      internalID: 7767344550727993346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aebbc46ab188a40800000000000000
+      internalID: 5370572956705221166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93ad0fd77d36540800000000000000
+      internalID: 5000076947223099859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586afb654d9a8940800000000000000
+      internalID: 5299220833044686942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77c754dd1088b10800000000000000
+      internalID: 1983837685721888688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ecaa234eff34c0800000000000000
+      internalID: -4305443154310666770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a73060bdb1cacf80800000000000000
+      internalID: -8085437160538228830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961dc49102384b370800000000000000
+      internalID: 8337432984056287593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 364
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0cd48ceebd6ef0800000000000000
+      internalID: -113224492563820882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1dab36d582f16f0800000000000000
+      internalID: -711805834530991632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e9d40955ecc6aa0800000000000000
+      internalID: -6166326922888503711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f132cf362108d0800000000000000
+      internalID: -2881980231257558923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b13351fae8c4c0800000000000000
+      internalID: -4266902324729759590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac96a640c3fab190800000000000000
+      internalID: -7945770585397224274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188097cd47e703240800000000000000
+      internalID: 4769451045765580929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259c9d7edebb2260800000000000000
+      internalID: 7073957502514926883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d911afbe6325fbb40800000000000000
+      internalID: 5458171669237076381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ceb295bb1aa870800000000000000
+      internalID: 8694792497257170189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 273
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491bd4bf468cb1c0800000000000000
+      internalID: -4486563451873060530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770395a523114e9f0800000000000000
+      internalID: -440207955613634441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af4b703f6150260800000000000000
+      internalID: 7063076823662656056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32d316367cf5c40800000000000000
+      internalID: 5503336499317121953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eedd60e74860ded0800000000000000
+      internalID: -2391296744216469783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d230704e1a1b40800000000000000
+      internalID: 5411671164348192146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b058e6664c1220800000000000000
+      internalID: 2457916904435660870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77548086771fc20800000000000000
+      internalID: 3238500895755171821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f63b4da996c590800000000000000
+      internalID: -7654261547099295262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b6eaa791edbe40800000000000000
+      internalID: 5673939147080250275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 182
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0aa4eda323f5670800000000000000
+      internalID: 8529591447681933555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d196881b243390800000000000000
+      internalID: -7839593667008276559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149366e5763e71fa0800000000000000
+      internalID: -5829941159502923455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65002f16adc921e0800000000000000
+      internalID: -2222018827760171667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd61b1af2ce4c0fc0800000000000000
+      internalID: -3527357808811239715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53276463820562c30800000000000000
+      internalID: 4334239825030181429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bbc53a11ea817c0800000000000000
+      internalID: -4100336069942396090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22091d1d10964d0f0800000000000000
+      internalID: -1093133353008132062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4774bac1dd2dddb00800000000000000
+      internalID: 855071351380854644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180dd38877d21710800000000000000
+      internalID: 1662628125061482513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 91
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28049774cdeeb450800000000000000
+      internalID: 6106579572836534315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c132680160a08eb20800000000000000
+      internalID: 3163789759391081244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d874e5c2503816f00800000000000000
+      internalID: 1108311041552304013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318466434e12b7c0800000000000000
+      internalID: -4057147040014761678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ecde99af9491bd0800000000000000
+      internalID: -2659012764312416676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incline-push-up_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b36f84758ff070800000000000000
+      internalID: 8142373386977522553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

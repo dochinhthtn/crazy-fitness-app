@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: f4cdfd8b6ba4c244a9624838190a9680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1021132104700125691
+    second: swiss-ball-arm-rotation_0
+  - first:
+      213: -3348078146200726987
+    second: swiss-ball-arm-rotation_1
+  - first:
+      213: 6425947554913902270
+    second: swiss-ball-arm-rotation_2
+  - first:
+      213: -5455872185860097525
+    second: swiss-ball-arm-rotation_3
+  - first:
+      213: 2622823749864698366
+    second: swiss-ball-arm-rotation_4
+  - first:
+      213: 7140987573754101528
+    second: swiss-ball-arm-rotation_5
+  - first:
+      213: -5174977902185197865
+    second: swiss-ball-arm-rotation_6
+  - first:
+      213: 7863892704454999211
+    second: swiss-ball-arm-rotation_7
+  - first:
+      213: 232754504999477537
+    second: swiss-ball-arm-rotation_8
+  - first:
+      213: 7670227255293500847
+    second: swiss-ball-arm-rotation_9
+  - first:
+      213: 6135535412756919048
+    second: swiss-ball-arm-rotation_10
+  - first:
+      213: 4851746620145212870
+    second: swiss-ball-arm-rotation_11
+  - first:
+      213: -349613553540813369
+    second: swiss-ball-arm-rotation_12
+  - first:
+      213: -4885816043913829373
+    second: swiss-ball-arm-rotation_13
+  - first:
+      213: 1982822838915506798
+    second: swiss-ball-arm-rotation_14
+  - first:
+      213: -9096420605509632738
+    second: swiss-ball-arm-rotation_15
+  - first:
+      213: 7494971955893844148
+    second: swiss-ball-arm-rotation_16
+  - first:
+      213: 2423966961550301155
+    second: swiss-ball-arm-rotation_17
+  - first:
+      213: 5887441563905612638
+    second: swiss-ball-arm-rotation_18
+  - first:
+      213: -4781625799910645876
+    second: swiss-ball-arm-rotation_19
+  - first:
+      213: -5745466770282865476
+    second: swiss-ball-arm-rotation_20
+  - first:
+      213: 410800503123527785
+    second: swiss-ball-arm-rotation_21
+  - first:
+      213: 8329815766219655218
+    second: swiss-ball-arm-rotation_22
+  - first:
+      213: -2239268674976995300
+    second: swiss-ball-arm-rotation_23
+  - first:
+      213: -6604123860395396180
+    second: swiss-ball-arm-rotation_24
+  - first:
+      213: -8619067148339842474
+    second: swiss-ball-arm-rotation_25
+  - first:
+      213: -2567752765246485576
+    second: swiss-ball-arm-rotation_26
+  - first:
+      213: 5621865913035562843
+    second: swiss-ball-arm-rotation_27
+  - first:
+      213: 1507192713594364289
+    second: swiss-ball-arm-rotation_28
+  - first:
+      213: 5923508341198093005
+    second: swiss-ball-arm-rotation_29
+  - first:
+      213: -4590266905727489627
+    second: swiss-ball-arm-rotation_30
+  - first:
+      213: 2002397801445661725
+    second: swiss-ball-arm-rotation_31
+  - first:
+      213: -342793524550406013
+    second: swiss-ball-arm-rotation_32
+  - first:
+      213: -2533120158825378268
+    second: swiss-ball-arm-rotation_33
+  - first:
+      213: -7582812231121617584
+    second: swiss-ball-arm-rotation_34
+  - first:
+      213: -2775988241463500909
+    second: swiss-ball-arm-rotation_35
+  - first:
+      213: 7852151493487120379
+    second: swiss-ball-arm-rotation_36
+  - first:
+      213: -3809045377667107057
+    second: swiss-ball-arm-rotation_37
+  - first:
+      213: 1922145466373969259
+    second: swiss-ball-arm-rotation_38
+  - first:
+      213: -8023491410771959902
+    second: swiss-ball-arm-rotation_39
+  - first:
+      213: 9210418617715933261
+    second: swiss-ball-arm-rotation_40
+  - first:
+      213: 6582949064095887299
+    second: swiss-ball-arm-rotation_41
+  - first:
+      213: -3603659618570008004
+    second: swiss-ball-arm-rotation_42
+  - first:
+      213: -5348151333588382390
+    second: swiss-ball-arm-rotation_43
+  - first:
+      213: 8990928217671720528
+    second: swiss-ball-arm-rotation_44
+  - first:
+      213: 7554822881931639603
+    second: swiss-ball-arm-rotation_45
+  - first:
+      213: -8127778712909880329
+    second: swiss-ball-arm-rotation_46
+  - first:
+      213: -6048106723723889874
+    second: swiss-ball-arm-rotation_47
+  - first:
+      213: 2894046337839989068
+    second: swiss-ball-arm-rotation_48
+  - first:
+      213: -3768214195973838751
+    second: swiss-ball-arm-rotation_49
+  - first:
+      213: 5742387515298222435
+    second: swiss-ball-arm-rotation_50
+  - first:
+      213: 3035488105146452457
+    second: swiss-ball-arm-rotation_51
+  - first:
+      213: -4246744251909586634
+    second: swiss-ball-arm-rotation_52
+  - first:
+      213: -8415339157215026058
+    second: swiss-ball-arm-rotation_53
+  - first:
+      213: -910049761988460904
+    second: swiss-ball-arm-rotation_54
+  - first:
+      213: -8661632511841738335
+    second: swiss-ball-arm-rotation_55
+  - first:
+      213: -4066576533481079586
+    second: swiss-ball-arm-rotation_56
+  - first:
+      213: -6249663111063757981
+    second: swiss-ball-arm-rotation_57
+  - first:
+      213: -3358179617548047944
+    second: swiss-ball-arm-rotation_58
+  - first:
+      213: -159764211788767637
+    second: swiss-ball-arm-rotation_59
+  - first:
+      213: 8918181659131718735
+    second: swiss-ball-arm-rotation_60
+  - first:
+      213: 1341102395390185460
+    second: swiss-ball-arm-rotation_61
+  - first:
+      213: -5848476110159707826
+    second: swiss-ball-arm-rotation_62
+  - first:
+      213: -4866214594080236510
+    second: swiss-ball-arm-rotation_63
+  - first:
+      213: 5785524419167532958
+    second: swiss-ball-arm-rotation_64
+  - first:
+      213: -1990833672012800221
+    second: swiss-ball-arm-rotation_65
+  - first:
+      213: -172385543226855097
+    second: swiss-ball-arm-rotation_66
+  - first:
+      213: 2628720783881673795
+    second: swiss-ball-arm-rotation_67
+  - first:
+      213: -2177702260609733814
+    second: swiss-ball-arm-rotation_68
+  - first:
+      213: 3191372165905932305
+    second: swiss-ball-arm-rotation_69
+  - first:
+      213: -3521738342192185107
+    second: swiss-ball-arm-rotation_70
+  - first:
+      213: -6259754839830188840
+    second: swiss-ball-arm-rotation_71
+  - first:
+      213: -3779481544137948970
+    second: swiss-ball-arm-rotation_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e5613d3acb2e00800000000000000
+      internalID: 1021132104700125691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53215773aac3981d0800000000000000
+      internalID: -3348078146200726987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebedeeb414d8d2950800000000000000
+      internalID: 6425947554913902270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0affd54729d844b0800000000000000
+      internalID: -5455872185860097525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1b42fdd44266420800000000000000
+      internalID: 2622823749864698366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f771f1d52e91360800000000000000
+      internalID: 7140987573754101528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de41c32409ce28b0800000000000000
+      internalID: -5174977902185197865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac73d000c8222d60800000000000000
+      internalID: 7863892704454999211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ad563df8ea3300800000000000000
+      internalID: 232754504999477537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd942dc0f127a60800000000000000
+      internalID: 7670227255293500847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b43053fcc52550800000000000000
+      internalID: 6135535412756919048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd15f968ddd45340800000000000000
+      internalID: 4851746620145212870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda98c435ce52bf0800000000000000
+      internalID: -349613553540813369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ac98b138123cb0800000000000000
+      internalID: -4885816043913829373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622716ddd6648b10800000000000000
+      internalID: 1982822838915506798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfd0977a503c180800000000000000
+      internalID: -9096420605509632738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83198a84d730860800000000000000
+      internalID: 7494971955893844148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71d7adb19a3a120800000000000000
+      internalID: 2423966961550301155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd67cc8e464b150800000000000000
+      internalID: 5887441563905612638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9b7b4ba044adb0800000000000000
+      internalID: -4781625799910645876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc9a78c9600440b0800000000000000
+      internalID: -5745466770282865476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968ca3e81e473b500800000000000000
+      internalID: 410800503123527785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23888fd5e43799370800000000000000
+      internalID: 8329815766219655218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18265711058ce0e0800000000000000
+      internalID: -2239268674976995300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca37370d6507954a0800000000000000
+      internalID: -6604123860395396180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f6f7281ce26880800000000000000
+      internalID: -8619067148339842474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc47ce6728d5cd0800000000000000
+      internalID: -2567752765246485576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9c511341e40e40800000000000000
+      internalID: 5621865913035562843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18169dd99cf9ae410800000000000000
+      internalID: 1507192713594364289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcafc25c377843250800000000000000
+      internalID: 5923508341198093005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a1ebc1981c40c0800000000000000
+      internalID: -4590266905727489627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1136f032f9cb10800000000000000
+      internalID: 2002397801445661725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807ed90b172e3bf0800000000000000
+      internalID: -342793524550406013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e05d7f2ac88dcd0800000000000000
+      internalID: -2533120158825378268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3285837074c690800000000000000
+      internalID: -7582812231121617584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f18e6f665b979d0800000000000000
+      internalID: -2775988241463500909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4adb4e2278fc60800000000000000
+      internalID: 7852151493487120379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07fec2096d832bc0800000000000000
+      internalID: -3809045377667107057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6519d12e15dcaa10800000000000000
+      internalID: 1922145466373969259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1a8a7215d6a090800000000000000
+      internalID: -8023491410771959902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d404a951feaf1df70800000000000000
+      internalID: 9210418617715933261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfecebbb455b5b50800000000000000
+      internalID: 6582949064095887299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a07bf7baa3dfdc0800000000000000
+      internalID: -3603659618570008004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dce64a2bc87c5b0800000000000000
+      internalID: -5348151333588382390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05edb57f39136cc70800000000000000
+      internalID: 8990928217671720528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b378a426f18d860800000000000000
+      internalID: 7554822881931639603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3660cc254543f80800000000000000
+      internalID: -8127778712909880329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2339c0aafec01ca0800000000000000
+      internalID: -6048106723723889874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41097a9fc7b92820800000000000000
+      internalID: 2894046337839989068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1682563572d94bbc0800000000000000
+      internalID: -3768214195973838751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3611dfb450f01bf40800000000000000
+      internalID: 5742387515298222435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98d235958302a20800000000000000
+      internalID: 3035488105146452457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6314ff46a988015c0800000000000000
+      internalID: -4246744251909586634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67463c57f95b63b80800000000000000
+      internalID: -8415339157215026058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebfb8209ade53f0800000000000000
+      internalID: -910049761988460904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e2bc2f13bbc780800000000000000
+      internalID: -8661632511841738335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcbbed303e9097c0800000000000000
+      internalID: -4066576533481079586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9e2b338cb449a0800000000000000
+      internalID: -6249663111063757981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b967142e695561d0800000000000000
+      internalID: -3358179617548047944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e928cbb4768cdf0800000000000000
+      internalID: -159764211788767637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c23fae7feb3cb70800000000000000
+      internalID: 8918181659131718735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff48ace58d8c9210800000000000000
+      internalID: 1341102395390185460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e418290e6f906dea0800000000000000
+      internalID: -5848476110159707826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c9607eb9bb77cb0800000000000000
+      internalID: -4866214594080236510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9734d36ecf4a4050800000000000000
+      internalID: 5785524419167532958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f5accb2532f54e0800000000000000
+      internalID: -1990833672012800221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741fc8303409b9df0800000000000000
+      internalID: -172385543226855097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c14f810a71b7420800000000000000
+      internalID: 2628720783881673795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4baac9f45f37c1e0800000000000000
+      internalID: -2177702260609733814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11064e683180a4c20800000000000000
+      internalID: 3191372165905932305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de003c103a5402fc0800000000000000
+      internalID: -3521738342192185107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dca3e68322e029a0800000000000000
+      internalID: -6259754839830188840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swiss-ball-arm-rotation_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d043866f859c8bc0800000000000000
+      internalID: -3779481544137948970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

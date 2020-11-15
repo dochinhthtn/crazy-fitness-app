@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 6d3104b107846d741b569db2cc297370
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8858432319480671002
+    second: lateral-squat_0
+  - first:
+      213: 5915676673685179053
+    second: lateral-squat_1
+  - first:
+      213: -3501329179995643935
+    second: lateral-squat_2
+  - first:
+      213: -6792605117815990335
+    second: lateral-squat_3
+  - first:
+      213: 2163399316865483425
+    second: lateral-squat_4
+  - first:
+      213: 3720502973545519729
+    second: lateral-squat_5
+  - first:
+      213: -6878600009435926074
+    second: lateral-squat_6
+  - first:
+      213: -2554659658180115108
+    second: lateral-squat_7
+  - first:
+      213: 2721709324078031206
+    second: lateral-squat_8
+  - first:
+      213: -1131718306242048852
+    second: lateral-squat_9
+  - first:
+      213: -5259327876046521581
+    second: lateral-squat_10
+  - first:
+      213: 8220614299358174690
+    second: lateral-squat_11
+  - first:
+      213: -6290844099052840701
+    second: lateral-squat_12
+  - first:
+      213: -1074636185550779949
+    second: lateral-squat_13
+  - first:
+      213: 1500951954490917967
+    second: lateral-squat_14
+  - first:
+      213: 1727996478423513676
+    second: lateral-squat_15
+  - first:
+      213: 6873854393211457114
+    second: lateral-squat_16
+  - first:
+      213: 9082212605056002483
+    second: lateral-squat_17
+  - first:
+      213: 5914759122602922358
+    second: lateral-squat_18
+  - first:
+      213: 1245484076591605448
+    second: lateral-squat_19
+  - first:
+      213: -4304509695772921661
+    second: lateral-squat_20
+  - first:
+      213: 3386953964560573196
+    second: lateral-squat_21
+  - first:
+      213: 5390574865751304580
+    second: lateral-squat_22
+  - first:
+      213: -794347105462639667
+    second: lateral-squat_23
+  - first:
+      213: -245352875510941222
+    second: lateral-squat_24
+  - first:
+      213: -1336113338156830348
+    second: lateral-squat_25
+  - first:
+      213: 4912549993998847679
+    second: lateral-squat_26
+  - first:
+      213: -1814521077859613201
+    second: lateral-squat_27
+  - first:
+      213: -7526585386853544658
+    second: lateral-squat_28
+  - first:
+      213: -6530940718373342172
+    second: lateral-squat_29
+  - first:
+      213: 9192296359017644747
+    second: lateral-squat_30
+  - first:
+      213: 3194246445842114204
+    second: lateral-squat_31
+  - first:
+      213: 3309577944595074397
+    second: lateral-squat_32
+  - first:
+      213: 6622581444550503154
+    second: lateral-squat_33
+  - first:
+      213: -1636197518776228062
+    second: lateral-squat_34
+  - first:
+      213: 2033928206529572167
+    second: lateral-squat_35
+  - first:
+      213: -2495264130722051921
+    second: lateral-squat_36
+  - first:
+      213: 1390121557763971658
+    second: lateral-squat_37
+  - first:
+      213: 476358887123908729
+    second: lateral-squat_38
+  - first:
+      213: 8057230066222671508
+    second: lateral-squat_39
+  - first:
+      213: 2068156769017775617
+    second: lateral-squat_40
+  - first:
+      213: -6335772490220386764
+    second: lateral-squat_41
+  - first:
+      213: -608998592435645542
+    second: lateral-squat_42
+  - first:
+      213: 3513057177042567888
+    second: lateral-squat_43
+  - first:
+      213: 8245362831855987819
+    second: lateral-squat_44
+  - first:
+      213: -5795081303583589097
+    second: lateral-squat_45
+  - first:
+      213: 5890242066852190758
+    second: lateral-squat_46
+  - first:
+      213: 1518658287573362411
+    second: lateral-squat_47
+  - first:
+      213: 2767778317915657045
+    second: lateral-squat_48
+  - first:
+      213: -8024194310374636782
+    second: lateral-squat_49
+  - first:
+      213: -7530405381767132764
+    second: lateral-squat_50
+  - first:
+      213: 3995093478647074228
+    second: lateral-squat_51
+  - first:
+      213: 534268819066459812
+    second: lateral-squat_52
+  - first:
+      213: -5199452462288312365
+    second: lateral-squat_53
+  - first:
+      213: 389576763731983472
+    second: lateral-squat_54
+  - first:
+      213: -3108809867298028737
+    second: lateral-squat_55
+  - first:
+      213: 5080191207689026926
+    second: lateral-squat_56
+  - first:
+      213: -7583690545455956367
+    second: lateral-squat_57
+  - first:
+      213: -3528479298480774954
+    second: lateral-squat_58
+  - first:
+      213: -2839977347144578258
+    second: lateral-squat_59
+  - first:
+      213: 3753835536485329618
+    second: lateral-squat_60
+  - first:
+      213: 5525162400357499175
+    second: lateral-squat_61
+  - first:
+      213: 1179097068654937539
+    second: lateral-squat_62
+  - first:
+      213: 1177169213579863107
+    second: lateral-squat_63
+  - first:
+      213: 3427605657287284653
+    second: lateral-squat_64
+  - first:
+      213: 6619375512154481406
+    second: lateral-squat_65
+  - first:
+      213: -8457400233852226305
+    second: lateral-squat_66
+  - first:
+      213: -4286670941732424328
+    second: lateral-squat_67
+  - first:
+      213: -4851798003779392360
+    second: lateral-squat_68
+  - first:
+      213: -2080418599453412240
+    second: lateral-squat_69
+  - first:
+      213: 1183838237058482127
+    second: lateral-squat_70
+  - first:
+      213: -2643817112605781580
+    second: lateral-squat_71
+  - first:
+      213: 3621944655593110763
+    second: lateral-squat_72
+  - first:
+      213: -4617777994493356248
+    second: lateral-squat_73
+  - first:
+      213: -2226486393703478927
+    second: lateral-squat_74
+  - first:
+      213: -7465477976041952795
+    second: lateral-squat_75
+  - first:
+      213: 4381979667849448049
+    second: lateral-squat_76
+  - first:
+      213: 8332947505842013151
+    second: lateral-squat_77
+  - first:
+      213: 1251793436210689226
+    second: lateral-squat_78
+  - first:
+      213: -448934657579521472
+    second: lateral-squat_79
+  - first:
+      213: 7893867285483372886
+    second: lateral-squat_80
+  - first:
+      213: -7120776696391882554
+    second: lateral-squat_81
+  - first:
+      213: -1993878456530183779
+    second: lateral-squat_82
+  - first:
+      213: -774476678896304608
+    second: lateral-squat_83
+  - first:
+      213: 3901401966942007446
+    second: lateral-squat_84
+  - first:
+      213: 5377681758911249779
+    second: lateral-squat_85
+  - first:
+      213: -5207893095068991871
+    second: lateral-squat_86
+  - first:
+      213: -781366654512316695
+    second: lateral-squat_87
+  - first:
+      213: 2691200554277614736
+    second: lateral-squat_88
+  - first:
+      213: -1862060580384640107
+    second: lateral-squat_89
+  - first:
+      213: -3404782846877787668
+    second: lateral-squat_90
+  - first:
+      213: 6779671823024305385
+    second: lateral-squat_91
+  - first:
+      213: -6276042088242133312
+    second: lateral-squat_92
+  - first:
+      213: -722353137256530116
+    second: lateral-squat_93
+  - first:
+      213: 3322339543540308905
+    second: lateral-squat_94
+  - first:
+      213: 243496461474999174
+    second: lateral-squat_95
+  - first:
+      213: 1703159017488133298
+    second: lateral-squat_96
+  - first:
+      213: 7594938652461183736
+    second: lateral-squat_97
+  - first:
+      213: 9104640837389342186
+    second: lateral-squat_98
+  - first:
+      213: -8548241031020155753
+    second: lateral-squat_99
+  - first:
+      213: 810155174592425932
+    second: lateral-squat_100
+  - first:
+      213: 357794213366387516
+    second: lateral-squat_101
+  - first:
+      213: -7687935979867286664
+    second: lateral-squat_102
+  - first:
+      213: -8681334352470029791
+    second: lateral-squat_103
+  - first:
+      213: -7712890645290829402
+    second: lateral-squat_104
+  - first:
+      213: -5583689628575334236
+    second: lateral-squat_105
+  - first:
+      213: 6084572288754514282
+    second: lateral-squat_106
+  - first:
+      213: -6939306107555396388
+    second: lateral-squat_107
+  - first:
+      213: 3803138518205130316
+    second: lateral-squat_108
+  - first:
+      213: 4304841139730239018
+    second: lateral-squat_109
+  - first:
+      213: -4285381461176373983
+    second: lateral-squat_110
+  - first:
+      213: -8465168964380378330
+    second: lateral-squat_111
+  - first:
+      213: 4687090228099801925
+    second: lateral-squat_112
+  - first:
+      213: 2062679287903517680
+    second: lateral-squat_113
+  - first:
+      213: -1422423695194760415
+    second: lateral-squat_114
+  - first:
+      213: -7342188503402445776
+    second: lateral-squat_115
+  - first:
+      213: -7264789365916518670
+    second: lateral-squat_116
+  - first:
+      213: 1712156245454603510
+    second: lateral-squat_117
+  - first:
+      213: 2175347069011794727
+    second: lateral-squat_118
+  - first:
+      213: 6398666055842712360
+    second: lateral-squat_119
+  - first:
+      213: -5802870309049590068
+    second: lateral-squat_120
+  - first:
+      213: 4068934974125728331
+    second: lateral-squat_121
+  - first:
+      213: 7028707875799563707
+    second: lateral-squat_122
+  - first:
+      213: 2702058655796082609
+    second: lateral-squat_123
+  - first:
+      213: -1448375376095405685
+    second: lateral-squat_124
+  - first:
+      213: 7444454587467757533
+    second: lateral-squat_125
+  - first:
+      213: 5356162232094884772
+    second: lateral-squat_126
+  - first:
+      213: -2800263771808168671
+    second: lateral-squat_127
+  - first:
+      213: 4485513865426806605
+    second: lateral-squat_128
+  - first:
+      213: -5402631181828854248
+    second: lateral-squat_129
+  - first:
+      213: -5589465686608108961
+    second: lateral-squat_130
+  - first:
+      213: -181671203550469848
+    second: lateral-squat_131
+  - first:
+      213: -8050131200262498322
+    second: lateral-squat_132
+  - first:
+      213: 6662170455456998287
+    second: lateral-squat_133
+  - first:
+      213: -8065859504363134162
+    second: lateral-squat_134
+  - first:
+      213: -8119451778265967786
+    second: lateral-squat_135
+  - first:
+      213: -3274272039339361873
+    second: lateral-squat_136
+  - first:
+      213: 4109818997876182521
+    second: lateral-squat_137
+  - first:
+      213: 5185624502706350993
+    second: lateral-squat_138
+  - first:
+      213: -7885611747690375682
+    second: lateral-squat_139
+  - first:
+      213: -8276151361394903811
+    second: lateral-squat_140
+  - first:
+      213: -6026895230913588949
+    second: lateral-squat_141
+  - first:
+      213: -8442614533458070265
+    second: lateral-squat_142
+  - first:
+      213: 7832341731990646284
+    second: lateral-squat_143
+  - first:
+      213: -3389600130239961752
+    second: lateral-squat_144
+  - first:
+      213: -5583772401528643557
+    second: lateral-squat_145
+  - first:
+      213: 6728284636718075146
+    second: lateral-squat_146
+  - first:
+      213: 2274025334073197111
+    second: lateral-squat_147
+  - first:
+      213: -4187256907383349326
+    second: lateral-squat_148
+  - first:
+      213: 654436123956788655
+    second: lateral-squat_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lateral-squat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b2c75b2497fea70800000000000000
+      internalID: 8858432319480671002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac1159794b81250800000000000000
+      internalID: 5915676673685179053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef56a069a7c86fc0800000000000000
+      internalID: -3501329179995643935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d31552a1dbb1a0800000000000000
+      internalID: -6792605117815990335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2071d6730f50e10800000000000000
+      internalID: 2163399316865483425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a17fb0eb1e1a330800000000000000
+      internalID: 3720502973545519729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1b29d5cbd4a80a0800000000000000
+      internalID: -6878600009435926074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55472873960c8cd0800000000000000
+      internalID: -2554659658180115108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612a83c53475c520800000000000000
+      internalID: 2721709324078031206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc2a252345b40f0800000000000000
+      internalID: -1131718306242048852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bffee692d1307b0800000000000000
+      internalID: -5259327876046521581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9dbc862d751270800000000000000
+      internalID: 8220614299358174690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d79a4f9e62b8a0800000000000000
+      internalID: -6290844099052840701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9077935102611f0800000000000000
+      internalID: -1074636185550779949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f440c58a9d374d410800000000000000
+      internalID: 1500951954490917967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3f8d44a31bf710800000000000000
+      internalID: 1727996478423513676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8021c626d46f50800000000000000
+      internalID: 6873854393211457114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b920f2ae308a0e70800000000000000
+      internalID: 9082212605056002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6719fb29512751250800000000000000
+      internalID: 5914759122602922358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 693
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e5a63b29d84110800000000000000
+      internalID: 1245484076591605448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fa3bec3f4344c0800000000000000
+      internalID: -4304509695772921661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03eb389fa0e00f20800000000000000
+      internalID: 3386953964560573196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4896148a74b2fca40800000000000000
+      internalID: 5390574865751304580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32a862489e9f4f0800000000000000
+      internalID: -794347105462639667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9bc821cd4589cf0800000000000000
+      internalID: -245352875510941222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471308b7ffb257de0800000000000000
+      internalID: -1336113338156830348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe06a51132ec2440800000000000000
+      internalID: 4912549993998847679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe508b481b681d6e0800000000000000
+      internalID: -1814521077859613201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc2fcd7723c8790800000000000000
+      internalID: -7526585386853544658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f830e4007d55a0800000000000000
+      internalID: -6530940718373342172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20d5de5d8919f70800000000000000
+      internalID: 9192296359017644747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962979f73e345c20800000000000000
+      internalID: 3194246445842114204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8e001b9bfded20800000000000000
+      internalID: 3309577944595074397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa6826cb228eb50800000000000000
+      internalID: 6622581444550503154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227a7fe860f0b49e0800000000000000
+      internalID: -1636197518776228062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da7d87de6f93c10800000000000000
+      internalID: 2033928206529572167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8c98b5e7a0f5dd0800000000000000
+      internalID: -2495264130722051921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a522d0134ba4310800000000000000
+      internalID: 1390121557763971658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978fe9c42ed5c9600800000000000000
+      internalID: 476358887123908729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 594
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496acc26e0801df60800000000000000
+      internalID: 8057230066222671508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106cf15bf9193bc10800000000000000
+      internalID: 2068156769017775617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436c8be0d70d218a0800000000000000
+      internalID: -6335772490220386764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93192db1076c87f0800000000000000
+      internalID: -608998592435645542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24249b3e2e0c030800000000000000
+      internalID: 3513057177042567888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2cfc4fc96d6270800000000000000
+      internalID: 8245362831855987819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d746f024cb39fa0800000000000000
+      internalID: -5795081303583589097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a99c3b3f75eb150800000000000000
+      internalID: 5890242066852190758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be663069aab531510800000000000000
+      internalID: 1518658287573362411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553146047bf196620800000000000000
+      internalID: 2767778317915657045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c869e9c554a090800000000000000
+      internalID: -8024194310374636782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9841df330ae7790800000000000000
+      internalID: -7530405381767132764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd0d371a5c617730800000000000000
+      internalID: 3995093478647074228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6160709aa1a6700800000000000000
+      internalID: 534268819066459812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d766ce8885d7d7b0800000000000000
+      internalID: -5199452462288312365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cbdf6a00e086500800000000000000
+      internalID: 389576763731983472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_55
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c87995e94bd4d0800000000000000
+      internalID: -3108809867298028737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dfd55ccf6708640800000000000000
+      internalID: 5080191207689026926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17efb9701a151c690800000000000000
+      internalID: -7583690545455956367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ebb0d5c2580fc0800000000000000
+      internalID: -3528479298480774954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_59
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 495
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8a4d46af5698d0800000000000000
+      internalID: -2839977347144578258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da2271288d481430800000000000000
+      internalID: 3753835536485329618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72147a7fde15dac40800000000000000
+      internalID: 5525162400357499175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c1ec698efc5010800000000000000
+      internalID: 1179097068654937539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34424ffa925265010800000000000000
+      internalID: 1177169213579863107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75ab06f2d419f20800000000000000
+      internalID: 3427605657287284653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef223e415febcdb50800000000000000
+      internalID: 6619375512154481406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4bee9eb4741aa80800000000000000
+      internalID: -8457400233852226305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bc018d7fa284c0800000000000000
+      internalID: -4286670941732424328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca7c6eb63faacb0800000000000000
+      internalID: -4851798003779392360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b67b6e4ed023e0800000000000000
+      internalID: -2080418599453412240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf3567ba96dd6010800000000000000
+      internalID: 1183838237058482127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b19808f7564f4bd0800000000000000
+      internalID: -2643817112605781580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec70c0797bb34230800000000000000
+      internalID: 3621944655593110763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279b9a416b5aefb0800000000000000
+      internalID: -4617777994493356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179401edb6ee911e0800000000000000
+      internalID: -2226486393703478927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96487a55b456890800000000000000
+      internalID: -7465477976041952795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a862b8a4befcc30800000000000000
+      internalID: 4381979667849448049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3c0b15b9394a370800000000000000
+      internalID: 8332947505842013151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f0897f734f5110800000000000000
+      internalID: 1251793436210689226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 396
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6c97be4015c9f0800000000000000
+      internalID: -448934657579521472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651405ff876ac8d60800000000000000
+      internalID: 7893867285483372886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8aea6725bed2d90800000000000000
+      internalID: -7120776696391882554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d6399b125454e0800000000000000
+      internalID: -1993878456530183779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ebf8b50918045f0800000000000000
+      internalID: -774476678896304608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b69d1b60942630800000000000000
+      internalID: 3901401966942007446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37db00b411d51aa40800000000000000
+      internalID: 5377681758911249779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_86
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef33892d8d9b7b0800000000000000
+      internalID: -5207893095068991871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3576ea270825f0800000000000000
+      internalID: -781366654512316695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943d0145a0195520800000000000000
+      internalID: 2691200554277614736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_89
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5937aeb84c1a826e0800000000000000
+      internalID: -1862060580384640107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce991824a08cfb0d0800000000000000
+      internalID: -3404782846877787668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_91
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b6115a9b361e50800000000000000
+      internalID: 6779671823024305385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64deef8f407e8a0800000000000000
+      internalID: -6276042088242133312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7f6b16afa9f5f0800000000000000
+      internalID: -722353137256530116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab14fb56325b1e20800000000000000
+      internalID: 3322339543540308905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_95
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b284addb2116300800000000000000
+      internalID: 243496461474999174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc22694a16d2a710800000000000000
+      internalID: 1703159017488133298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f235d6f674a66960800000000000000
+      internalID: 7594938652461183736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55b186a9e2a5e70800000000000000
+      internalID: 9104640837389342186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cef93a21c8e5980800000000000000
+      internalID: -8548241031020155753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa682c6df3e3b00800000000000000
+      internalID: 810155174592425932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d46ef0f327f400800000000000000
+      internalID: 357794213366387516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d01075f6fe4590800000000000000
+      internalID: -7687935979867286664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac0a0f664b58780800000000000000
+      internalID: -8681334352470029791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b100a2de46f490800000000000000
+      internalID: -7712890645290829402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a00cb0dddfb282b0800000000000000
+      internalID: -5583689628575334236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69f569524eb07450800000000000000
+      internalID: 6084572288754514282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd446777cd1a2bf90800000000000000
+      internalID: -6939306107555396388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e839155677c430800000000000000
+      internalID: 3803138518205130316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ecb14653eddbb30800000000000000
+      internalID: 4304841139730239018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da98714444784c0800000000000000
+      internalID: -4285381461176373983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_111
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b32726dada58a80800000000000000
+      internalID: -8465168964380378330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e71caab3eb0140800000000000000
+      internalID: 4687090228099801925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_113
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7b0142eb10ac10800000000000000
+      internalID: 2062679287903517680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b51df7f29824ce0800000000000000
+      internalID: -1422423695194760415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_115
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0348dbce47e4b1a90800000000000000
+      internalID: -7342188503402445776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b28cef884e2b90800000000000000
+      internalID: -7264789365916518670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_117
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c94aa80dc2c710800000000000000
+      internalID: 1712156245454603510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b92af32a2603e10800000000000000
+      internalID: 2175347069011794727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_119
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 198
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bcade40e0acc850800000000000000
+      internalID: 6398666055842712360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1077e230187fa0800000000000000
+      internalID: -5802870309049590068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426de20dc2c77830800000000000000
+      internalID: 4068934974125728331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf507c29cfa8160800000000000000
+      internalID: 7028707875799563707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7bef40804af7520800000000000000
+      internalID: 2702058655796082609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89196ee44656ebe0800000000000000
+      internalID: -1448375376095405685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7fa804104005760800000000000000
+      internalID: 7444454587467757533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a301630c29e45a40800000000000000
+      internalID: 5356162232094884772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258afb9fe67329d0800000000000000
+      internalID: -2800263771808168671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47aad7681fbf3e30800000000000000
+      internalID: 4485513865426806605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e64a2809ff505b0800000000000000
+      internalID: -5402631181828854248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522d71829a3e62b0800000000000000
+      internalID: -5589465686608108961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e47eb0039a7df0800000000000000
+      internalID: -181671203550469848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee790152350384090800000000000000
+      internalID: -8050131200262498322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_133
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ed964bb8c47c50800000000000000
+      internalID: 6662170455456998287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_134
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232a3af38f401090800000000000000
+      internalID: -8065859504363134162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6531b8950a9e15f80800000000000000
+      internalID: -8119451778265967786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9fe259de27f82d0800000000000000
+      internalID: -3274272039339361873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdcf839a92090930800000000000000
+      internalID: 4109818997876182521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19baf56b20a07f740800000000000000
+      internalID: 5185624502706350993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_139
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 99
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5944e25eda09290800000000000000
+      internalID: -7885611747690375682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f0bc8f24352d80800000000000000
+      internalID: -8276151361394903811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2156e628ba2c5ca0800000000000000
+      internalID: -6026895230913588949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7057ead00dec5da80800000000000000
+      internalID: -8442614533458070265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e25c6ce4112bc60800000000000000
+      internalID: 7832341731990646284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ed62f3a8b5f0d0800000000000000
+      internalID: -3389600130239961752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10614cb5947282b0800000000000000
+      internalID: -5583772401528643557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8c47aa3baf5d50800000000000000
+      internalID: 6728284636718075146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320ca73ef5fe8f10800000000000000
+      internalID: 2274025334073197111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5d1c1700e3e5c0800000000000000
+      internalID: -4187256907383349326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lateral-squat_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb0a8ff26051900800000000000000
+      internalID: 654436123956788655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

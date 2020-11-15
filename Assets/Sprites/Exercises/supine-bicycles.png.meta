@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: cc3f8aa1fd5892c48b44e9922709fb6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 189044148963093533
+    second: supine-bicycles_0
+  - first:
+      213: 1404315213107939591
+    second: supine-bicycles_1
+  - first:
+      213: -6683154383784001254
+    second: supine-bicycles_2
+  - first:
+      213: -3104499068611065232
+    second: supine-bicycles_3
+  - first:
+      213: -3640474888932854537
+    second: supine-bicycles_4
+  - first:
+      213: 1390977692603225875
+    second: supine-bicycles_5
+  - first:
+      213: 5496922249752778002
+    second: supine-bicycles_6
+  - first:
+      213: 346316303700477912
+    second: supine-bicycles_7
+  - first:
+      213: 2533071466313732901
+    second: supine-bicycles_8
+  - first:
+      213: 631437652918538107
+    second: supine-bicycles_9
+  - first:
+      213: 5111433487111778642
+    second: supine-bicycles_10
+  - first:
+      213: 4256731060131736821
+    second: supine-bicycles_11
+  - first:
+      213: -1410865571337972123
+    second: supine-bicycles_12
+  - first:
+      213: -6515867462215685818
+    second: supine-bicycles_13
+  - first:
+      213: -9107861463512678997
+    second: supine-bicycles_14
+  - first:
+      213: -6456264040082017393
+    second: supine-bicycles_15
+  - first:
+      213: -4603693121498784947
+    second: supine-bicycles_16
+  - first:
+      213: -1907126869122905694
+    second: supine-bicycles_17
+  - first:
+      213: 3280754353220472666
+    second: supine-bicycles_18
+  - first:
+      213: 1219785463781055823
+    second: supine-bicycles_19
+  - first:
+      213: -8051488083933761351
+    second: supine-bicycles_20
+  - first:
+      213: 1488456771805153206
+    second: supine-bicycles_21
+  - first:
+      213: 4585134325358087292
+    second: supine-bicycles_22
+  - first:
+      213: -1675905291370609338
+    second: supine-bicycles_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supine-bicycles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cafc1e6ae9f9200800000000000000
+      internalID: 189044148963093533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c9f5fe312d7310800000000000000
+      internalID: 1404315213107939591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c57f2f7aa043a0800000000000000
+      internalID: -6683154383784001254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a08e1ab8a9ae4d0800000000000000
+      internalID: -3104499068611065232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f47d67606f6a7dc0800000000000000
+      internalID: -3640474888932854537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179b1a77debd4310800000000000000
+      internalID: 1390977692603225875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_6
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 621
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215947689adf84c40800000000000000
+      internalID: 5496922249752778002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74ef5e7dc5ec400800000000000000
+      internalID: 346316303700477912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523de4ce317472320800000000000000
+      internalID: 2533071466313732901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0408233153c800800000000000000
+      internalID: 631437652918538107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251755ccca57fe640800000000000000
+      internalID: 5111433487111778642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_11
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc26879852f21b30800000000000000
+      internalID: 4256731060131736821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_12
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566529aec399b6ce0800000000000000
+      internalID: -1410865571337972123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 414
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ab1fc01df295a0800000000000000
+      internalID: -6515867462215685818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad7bd321406a9180800000000000000
+      internalID: -9107861463512678997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8378c2ff0eb666a0800000000000000
+      internalID: -6456264040082017393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd7265f756c10c0800000000000000
+      internalID: -4603693121498784947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9835887368885e0800000000000000
+      internalID: -1907126869122905694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_18
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc50bb3b4978d20800000000000000
+      internalID: 3280754353220472666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_19
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ddad6aa6c8de010800000000000000
+      internalID: 1219785463781055823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_20
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 207
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b076db0f3e534090800000000000000
+      internalID: -8051488083933761351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b788fa3c8f08a410800000000000000
+      internalID: 1488456771805153206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4b66306ba1af30800000000000000
+      internalID: 4585134325358087292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supine-bicycles_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 286
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64548ae440dfdb8e0800000000000000
+      internalID: -1675905291370609338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

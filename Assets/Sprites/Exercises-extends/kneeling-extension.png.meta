@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: fa2a24f65cf308b41bfd665c652d2226
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8215322800222042325
+    second: kneeling-extension_0
+  - first:
+      213: 3120470179923267419
+    second: kneeling-extension_1
+  - first:
+      213: 6841502604294729513
+    second: kneeling-extension_2
+  - first:
+      213: 424487490965276256
+    second: kneeling-extension_3
+  - first:
+      213: 2306195702819878826
+    second: kneeling-extension_4
+  - first:
+      213: -5040231964874853777
+    second: kneeling-extension_5
+  - first:
+      213: 455501026064003335
+    second: kneeling-extension_6
+  - first:
+      213: -8762785495442002157
+    second: kneeling-extension_7
+  - first:
+      213: -339011179409131254
+    second: kneeling-extension_8
+  - first:
+      213: 7812603932196743425
+    second: kneeling-extension_9
+  - first:
+      213: 514314307821001541
+    second: kneeling-extension_10
+  - first:
+      213: -3079302026962528028
+    second: kneeling-extension_11
+  - first:
+      213: -3639191213388990757
+    second: kneeling-extension_12
+  - first:
+      213: -4847884411112414814
+    second: kneeling-extension_13
+  - first:
+      213: 1791793651420496987
+    second: kneeling-extension_14
+  - first:
+      213: -2930010591710406497
+    second: kneeling-extension_15
+  - first:
+      213: -1333600766032161277
+    second: kneeling-extension_16
+  - first:
+      213: 7872210748700600215
+    second: kneeling-extension_17
+  - first:
+      213: 7815938637747791836
+    second: kneeling-extension_18
+  - first:
+      213: -8906053349539193426
+    second: kneeling-extension_19
+  - first:
+      213: 6106997133222621095
+    second: kneeling-extension_20
+  - first:
+      213: 7057934972940176272
+    second: kneeling-extension_21
+  - first:
+      213: -1762841413110223397
+    second: kneeling-extension_22
+  - first:
+      213: 8267754851051218046
+    second: kneeling-extension_23
+  - first:
+      213: 109429539137467595
+    second: kneeling-extension_24
+  - first:
+      213: 541517362556782754
+    second: kneeling-extension_25
+  - first:
+      213: -638960880217189660
+    second: kneeling-extension_26
+  - first:
+      213: 1794772785798508700
+    second: kneeling-extension_27
+  - first:
+      213: 7915500711391956857
+    second: kneeling-extension_28
+  - first:
+      213: -4514264289447305917
+    second: kneeling-extension_29
+  - first:
+      213: 1529424983550073414
+    second: kneeling-extension_30
+  - first:
+      213: -5132430292922292188
+    second: kneeling-extension_31
+  - first:
+      213: 8523762599107196240
+    second: kneeling-extension_32
+  - first:
+      213: -6006243946726608860
+    second: kneeling-extension_33
+  - first:
+      213: 5762054285329372337
+    second: kneeling-extension_34
+  - first:
+      213: -2617671813057059306
+    second: kneeling-extension_35
+  - first:
+      213: 1524265988587181890
+    second: kneeling-extension_36
+  - first:
+      213: -6715749104624142842
+    second: kneeling-extension_37
+  - first:
+      213: 7443546679591898388
+    second: kneeling-extension_38
+  - first:
+      213: -5202000998789732987
+    second: kneeling-extension_39
+  - first:
+      213: -6287460831739039619
+    second: kneeling-extension_40
+  - first:
+      213: -7263766387418995426
+    second: kneeling-extension_41
+  - first:
+      213: -4387735520872427731
+    second: kneeling-extension_42
+  - first:
+      213: 610394638824250292
+    second: kneeling-extension_43
+  - first:
+      213: -121746435200307707
+    second: kneeling-extension_44
+  - first:
+      213: -7089037744677669154
+    second: kneeling-extension_45
+  - first:
+      213: 6878072710460126104
+    second: kneeling-extension_46
+  - first:
+      213: 2704200772486686419
+    second: kneeling-extension_47
+  - first:
+      213: 7526554703719615673
+    second: kneeling-extension_48
+  - first:
+      213: 5678320076140941279
+    second: kneeling-extension_49
+  - first:
+      213: -8717736783782582031
+    second: kneeling-extension_50
+  - first:
+      213: -4475727758086398610
+    second: kneeling-extension_51
+  - first:
+      213: -7241420829149564524
+    second: kneeling-extension_52
+  - first:
+      213: -951905632399076050
+    second: kneeling-extension_53
+  - first:
+      213: -2138014369288235585
+    second: kneeling-extension_54
+  - first:
+      213: 8508989282288980988
+    second: kneeling-extension_55
+  - first:
+      213: -2156253110427621687
+    second: kneeling-extension_56
+  - first:
+      213: -5935661751956514262
+    second: kneeling-extension_57
+  - first:
+      213: -4856974929868022164
+    second: kneeling-extension_58
+  - first:
+      213: -3985099579259762824
+    second: kneeling-extension_59
+  - first:
+      213: -6281442251171551463
+    second: kneeling-extension_60
+  - first:
+      213: -8077685265250681531
+    second: kneeling-extension_61
+  - first:
+      213: 1179485451492837680
+    second: kneeling-extension_62
+  - first:
+      213: -5516609761749904011
+    second: kneeling-extension_63
+  - first:
+      213: -1491710928401483974
+    second: kneeling-extension_64
+  - first:
+      213: 1806925243402220856
+    second: kneeling-extension_65
+  - first:
+      213: -389707744944246131
+    second: kneeling-extension_66
+  - first:
+      213: -4111123287114849816
+    second: kneeling-extension_67
+  - first:
+      213: 5242273372274882922
+    second: kneeling-extension_68
+  - first:
+      213: 5054305269831347481
+    second: kneeling-extension_69
+  - first:
+      213: -4953172850238292245
+    second: kneeling-extension_70
+  - first:
+      213: 8873364994031142688
+    second: kneeling-extension_71
+  - first:
+      213: -4932491197758436946
+    second: kneeling-extension_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kneeling-extension_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270999907f4dfd80800000000000000
+      internalID: -8215322800222042325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f868e78132e4b20800000000000000
+      internalID: 3120470179923267419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fa5eaee56e1fe50800000000000000
+      internalID: 6841502604294729513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066059ebf1514e500800000000000000
+      internalID: 424487490965276256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77c11e5c0410020800000000000000
+      internalID: 2306195702819878826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b0147bbf7d0ab0800000000000000
+      internalID: -5040231964874853777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701fe5515c3425600800000000000000
+      internalID: 455501026064003335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31feb35e405546680800000000000000
+      internalID: -8762785495442002157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09be64e0279b4bf0800000000000000
+      internalID: -339011179409131254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 644
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109286522e1fb6c60800000000000000
+      internalID: 7812603932196743425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b52945326332700800000000000000
+      internalID: 514314307821001541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e812ce0f1f1445d0800000000000000
+      internalID: -3079302026962528028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f9386fdefe7dc0800000000000000
+      internalID: -3639191213388990757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ad7330dad8bcb0800000000000000
+      internalID: -4847884411112414814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5408b725dabdd810800000000000000
+      internalID: 1791793651420496987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9818f404e28657d0800000000000000
+      internalID: -2930010591710406497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d6744b291e7de0800000000000000
+      internalID: -1333600766032161277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797af4997f5bf3d60800000000000000
+      internalID: 7872210748700600215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72539c7cac77c60800000000000000
+      internalID: 7815938637747791836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 552
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd9063aa7576480800000000000000
+      internalID: -8906053349539193426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af2012598960c450800000000000000
+      internalID: 6106997133222621095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc7ed9672d2f160800000000000000
+      internalID: 7057934972940176272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdda73023112987e0800000000000000
+      internalID: -1762841413110223397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74abea8b37fcb270800000000000000
+      internalID: 8267754851051218046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc439380695c48100800000000000000
+      internalID: 109429539137467595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a847e21c2bd38700800000000000000
+      internalID: 541517362556782754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2984df674f127f0800000000000000
+      internalID: -638960880217189660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90fe0ee65058e810800000000000000
+      internalID: 1794772785798508700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f8ed975f189dd60800000000000000
+      internalID: 7915500711391956857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 460
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d134ddb8c1a51c0800000000000000
+      internalID: -4514264289447305917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1c175beb993510800000000000000
+      internalID: 1529424983550073414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a9e367d1f5c8b0800000000000000
+      internalID: -5132430292922292188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557b8d4cec7a4670800000000000000
+      internalID: 8523762599107196240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203501f3f885aca0800000000000000
+      internalID: -6006243946726608860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4139508dde6ff40800000000000000
+      internalID: 5762054285329372337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6166e24ea592cabd0800000000000000
+      internalID: -2617671813057059306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d2f837d7472510800000000000000
+      internalID: 1524265988587181890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606fa3a55cddcc2a0800000000000000
+      internalID: -6715749104624142842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0d1a744acc4760800000000000000
+      internalID: 7443546679591898388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 368
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58529e927a7cec7b0800000000000000
+      internalID: -5202000998789732987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7033099fa37eb8a0800000000000000
+      internalID: -6287460831739039619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e77aa4fae13b90800000000000000
+      internalID: -7263766387418995426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f090e7ac1ab13c0800000000000000
+      internalID: -4387735520872427731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1ce3a0be887800800000000000000
+      internalID: 610394638824250292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e273123487f4ef0800000000000000
+      internalID: -121746435200307707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b6250bbdae9d90800000000000000
+      internalID: -7089037744677669154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b84640b2d37f50800000000000000
+      internalID: 6878072710460126104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e76d6640478520800000000000000
+      internalID: 2704200772486686419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc0c920a1b37860800000000000000
+      internalID: 7526554703719615673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 276
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf895336027dce40800000000000000
+      internalID: 5678320076140941279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8684d6590640780800000000000000
+      internalID: -8717736783782582031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d97e3415503e1c0800000000000000
+      internalID: -4475727758086398610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fc616f1e418b90800000000000000
+      internalID: -7241420829149564524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d829eed62ac2f0800000000000000
+      internalID: -951905632399076050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d4e1424f3452e0800000000000000
+      internalID: -2138014369288235585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d0707ba0061670800000000000000
+      internalID: 8508989282288980988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6612b68337312e0800000000000000
+      internalID: -2156253110427621687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a52c7c51b40ada0800000000000000
+      internalID: -5935661751956514262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1d3ed80f889cb0800000000000000
+      internalID: -4856974929868022164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 184
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c9afeb0512b8c0800000000000000
+      internalID: -3985099579259762824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9172ac59d85d3d8a0800000000000000
+      internalID: -6281442251171551463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d73557c0c46ef80800000000000000
+      internalID: -8077685265250681531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c8f9d4cf5e5010800000000000000
+      internalID: 1179485451492837680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575d17266a01173b0800000000000000
+      internalID: -5516609761749904011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37bf0560d06c4be0800000000000000
+      internalID: -1491710928401483974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835fca47fec731910800000000000000
+      internalID: 1806925243402220856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823168eeda779af0800000000000000
+      internalID: -389707744944246131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1eeabe62b52f6c0800000000000000
+      internalID: -4111123287114849816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fee97bdb40c840800000000000000
+      internalID: 5242273372274882922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 92
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91daea23ddf742640800000000000000
+      internalID: 5054305269831347481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeff66298bc24bb0800000000000000
+      internalID: -4953172850238292245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027cc9fe276842b70800000000000000
+      internalID: 8873364994031142688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kneeling-extension_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea90edb93654c8bb0800000000000000
+      internalID: -4932491197758436946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

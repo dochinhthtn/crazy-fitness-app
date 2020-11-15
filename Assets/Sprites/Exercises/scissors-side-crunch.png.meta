@@ -1,0 +1,1886 @@
+fileFormatVersion: 2
+guid: 1f8129ce66c1aec40aff0b68ad09b553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2380363451307979532
+    second: scissors-side-crunch_0
+  - first:
+      213: -1258092531552626508
+    second: scissors-side-crunch_1
+  - first:
+      213: -5190445420567888039
+    second: scissors-side-crunch_2
+  - first:
+      213: 909893311270106027
+    second: scissors-side-crunch_3
+  - first:
+      213: 6230513293129929320
+    second: scissors-side-crunch_4
+  - first:
+      213: 7121174011747930715
+    second: scissors-side-crunch_5
+  - first:
+      213: 1190049734874584205
+    second: scissors-side-crunch_6
+  - first:
+      213: -6970406024592980976
+    second: scissors-side-crunch_7
+  - first:
+      213: -2664386498614594289
+    second: scissors-side-crunch_8
+  - first:
+      213: -1648486157132873682
+    second: scissors-side-crunch_9
+  - first:
+      213: -8886614927896715141
+    second: scissors-side-crunch_10
+  - first:
+      213: -6905030135548939805
+    second: scissors-side-crunch_11
+  - first:
+      213: 6339442655487133223
+    second: scissors-side-crunch_12
+  - first:
+      213: 1551554867950733892
+    second: scissors-side-crunch_13
+  - first:
+      213: -4194836805635706246
+    second: scissors-side-crunch_14
+  - first:
+      213: 1890980571121536948
+    second: scissors-side-crunch_15
+  - first:
+      213: 735659801268395034
+    second: scissors-side-crunch_16
+  - first:
+      213: 6980952218143308675
+    second: scissors-side-crunch_17
+  - first:
+      213: 5071305712309595621
+    second: scissors-side-crunch_18
+  - first:
+      213: 6294371314007863813
+    second: scissors-side-crunch_19
+  - first:
+      213: -5207417248048426248
+    second: scissors-side-crunch_20
+  - first:
+      213: 9150780679711906297
+    second: scissors-side-crunch_21
+  - first:
+      213: -1596763208655851361
+    second: scissors-side-crunch_22
+  - first:
+      213: -1308150684928131218
+    second: scissors-side-crunch_23
+  - first:
+      213: -2039695215391141934
+    second: scissors-side-crunch_24
+  - first:
+      213: 6588434219660552186
+    second: scissors-side-crunch_25
+  - first:
+      213: 3764876434048747455
+    second: scissors-side-crunch_26
+  - first:
+      213: -8432486523751766566
+    second: scissors-side-crunch_27
+  - first:
+      213: -4078773933067339543
+    second: scissors-side-crunch_28
+  - first:
+      213: -4667717883862031561
+    second: scissors-side-crunch_29
+  - first:
+      213: -7191962813624610025
+    second: scissors-side-crunch_30
+  - first:
+      213: 2869993266839742102
+    second: scissors-side-crunch_31
+  - first:
+      213: -5806134778048770303
+    second: scissors-side-crunch_32
+  - first:
+      213: 4108365557234554293
+    second: scissors-side-crunch_33
+  - first:
+      213: 8873190027696713645
+    second: scissors-side-crunch_34
+  - first:
+      213: 8814850837205886947
+    second: scissors-side-crunch_35
+  - first:
+      213: 491158556111718212
+    second: scissors-side-crunch_36
+  - first:
+      213: 8373248868802363816
+    second: scissors-side-crunch_37
+  - first:
+      213: -7605223536889148856
+    second: scissors-side-crunch_38
+  - first:
+      213: 6933100556363446011
+    second: scissors-side-crunch_39
+  - first:
+      213: -3475843566858188151
+    second: scissors-side-crunch_40
+  - first:
+      213: 8360414536190804290
+    second: scissors-side-crunch_41
+  - first:
+      213: -5619429840955777635
+    second: scissors-side-crunch_42
+  - first:
+      213: 3314272952485341902
+    second: scissors-side-crunch_43
+  - first:
+      213: -8922839550404355726
+    second: scissors-side-crunch_44
+  - first:
+      213: 1746671562191136545
+    second: scissors-side-crunch_45
+  - first:
+      213: 6187989771183800580
+    second: scissors-side-crunch_46
+  - first:
+      213: -6021472002099240646
+    second: scissors-side-crunch_47
+  - first:
+      213: 2738556860436545836
+    second: scissors-side-crunch_48
+  - first:
+      213: 2801528407876555742
+    second: scissors-side-crunch_49
+  - first:
+      213: -622767356033862998
+    second: scissors-side-crunch_50
+  - first:
+      213: 7813360121367745625
+    second: scissors-side-crunch_51
+  - first:
+      213: -7075166076730698951
+    second: scissors-side-crunch_52
+  - first:
+      213: 2844734857697994451
+    second: scissors-side-crunch_53
+  - first:
+      213: 5097508008663184628
+    second: scissors-side-crunch_54
+  - first:
+      213: -8008890312201231155
+    second: scissors-side-crunch_55
+  - first:
+      213: 2057974353456399357
+    second: scissors-side-crunch_56
+  - first:
+      213: -3055802270744963024
+    second: scissors-side-crunch_57
+  - first:
+      213: 5558344366919246908
+    second: scissors-side-crunch_58
+  - first:
+      213: 8537125053760378758
+    second: scissors-side-crunch_59
+  - first:
+      213: 7700054509707555685
+    second: scissors-side-crunch_60
+  - first:
+      213: -4604452141357898333
+    second: scissors-side-crunch_61
+  - first:
+      213: 1961366617557643649
+    second: scissors-side-crunch_62
+  - first:
+      213: 3380639543313854148
+    second: scissors-side-crunch_63
+  - first:
+      213: 8803294593567654139
+    second: scissors-side-crunch_64
+  - first:
+      213: -7414117163953738704
+    second: scissors-side-crunch_65
+  - first:
+      213: -7313444631344984342
+    second: scissors-side-crunch_66
+  - first:
+      213: 1490102082466343348
+    second: scissors-side-crunch_67
+  - first:
+      213: 7443447105393750991
+    second: scissors-side-crunch_68
+  - first:
+      213: -568957951777905456
+    second: scissors-side-crunch_69
+  - first:
+      213: 3272596759777661960
+    second: scissors-side-crunch_70
+  - first:
+      213: 4956680138703712954
+    second: scissors-side-crunch_71
+  - first:
+      213: 4752663366339604015
+    second: scissors-side-crunch_72
+  - first:
+      213: -3555042631513698015
+    second: scissors-side-crunch_73
+  - first:
+      213: -3656370685604318930
+    second: scissors-side-crunch_74
+  - first:
+      213: -2514927477739737583
+    second: scissors-side-crunch_75
+  - first:
+      213: -6686039011339009082
+    second: scissors-side-crunch_76
+  - first:
+      213: 2900706235676823310
+    second: scissors-side-crunch_77
+  - first:
+      213: 2670107495253716901
+    second: scissors-side-crunch_78
+  - first:
+      213: -5056915731093860433
+    second: scissors-side-crunch_79
+  - first:
+      213: 8487433177896459006
+    second: scissors-side-crunch_80
+  - first:
+      213: -1206061145762504328
+    second: scissors-side-crunch_81
+  - first:
+      213: 1831053759386774559
+    second: scissors-side-crunch_82
+  - first:
+      213: 6178952891589379248
+    second: scissors-side-crunch_83
+  - first:
+      213: -4206173710618140137
+    second: scissors-side-crunch_84
+  - first:
+      213: 6541260609709901071
+    second: scissors-side-crunch_85
+  - first:
+      213: -2691276220892290702
+    second: scissors-side-crunch_86
+  - first:
+      213: -2303425041660634373
+    second: scissors-side-crunch_87
+  - first:
+      213: 3237300663852429905
+    second: scissors-side-crunch_88
+  - first:
+      213: 7142296045634347729
+    second: scissors-side-crunch_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scissors-side-crunch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f88f72ffb80120800000000000000
+      internalID: 2380363451307979532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8db3a128b5a8ee0800000000000000
+      internalID: -1258092531552626508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7ff0e365d7f7b0800000000000000
+      internalID: -5190445420567888039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba332c1552790ac00800000000000000
+      internalID: 909893311270106027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862db5554da377650800000000000000
+      internalID: 6230513293129929320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529af9b80e73d260800000000000000
+      internalID: 7121174011747930715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_6
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845f30cde7e38010800000000000000
+      internalID: 1190049734874584205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_7
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01484e3c6a4244f90800000000000000
+      internalID: -6970406024592980976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_8
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05fab59892360bd0800000000000000
+      internalID: -2664386498614594289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_9
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2042faf2966f19e0800000000000000
+      internalID: -1648486157132873682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_10
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70680f6ec66ca480800000000000000
+      internalID: -8886614927896715141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_11
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1fc371da76c20a0800000000000000
+      internalID: -6905030135548939805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_12
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260542e1893af750800000000000000
+      internalID: 6339442655487133223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_13
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1200
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a4bb19eea388510800000000000000
+      internalID: 1551554867950733892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7279558622f8c5c0800000000000000
+      internalID: -4194836805635706246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf4dd28fcc1e3a10800000000000000
+      internalID: 1890980571121536948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c132a01b6953a00800000000000000
+      internalID: 735659801268395034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b38644e0351e060800000000000000
+      internalID: 6980952218143308675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_18
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed6f992da5e06640800000000000000
+      internalID: 5071305712309595621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_19
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f8df6c591a5750800000000000000
+      internalID: 6294371314007863813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_20
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d4dc5a998bb7b0800000000000000
+      internalID: -5207417248048426248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_21
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95cb79b8a1efe70800000000000000
+      internalID: 9150780679711906297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_22
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b7ad525827d9e0800000000000000
+      internalID: -1596763208655851361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_23
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fbc2802e388dde0800000000000000
+      internalID: -1308150684928131218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_24
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0c84220c81b3e0800000000000000
+      internalID: -2039695215391141934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_25
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af725e80402de6b50800000000000000
+      internalID: 6588434219660552186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_26
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb707ba6b278f3430800000000000000
+      internalID: 3764876434048747455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_27
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 960
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e1821f2ac9fa80800000000000000
+      internalID: -8432486523751766566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8f568d7b84567c0800000000000000
+      internalID: -4078773933067339543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336aa4b05fe83fb0800000000000000
+      internalID: -4667717883862031561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_30
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131618fce3013c90800000000000000
+      internalID: -7191962813624610025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_31
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696eeb99ba344d720800000000000000
+      internalID: 2869993266839742102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_32
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f8c5c7e277c6fa0800000000000000
+      internalID: -5806134778048770303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_33
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55a6e05b8d30930800000000000000
+      internalID: 4108365557234554293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_34
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa6696157e32b70800000000000000
+      internalID: 8873190027696713645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_35
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e726b32224a45a70800000000000000
+      internalID: 8814850837205886947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_36
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ce61ca12f0d600800000000000000
+      internalID: 491158556111718212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_37
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a108e89b71c33470800000000000000
+      internalID: 8373248868802363816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_38
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4846cc71d47690800000000000000
+      internalID: -7605223536889148856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_39
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63b1e0932573060800000000000000
+      internalID: 6933100556363446011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_40
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a479611b253cfc0800000000000000
+      internalID: -3475843566858188151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_41
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 720
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414aaca9b8260470800000000000000
+      internalID: 8360414536190804290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd9992556c302b0800000000000000
+      internalID: -5619429840955777635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae295c0b9aefd20800000000000000
+      internalID: 3314272952485341902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_44
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279975244b4bb2480800000000000000
+      internalID: -8922839550404355726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_45
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127eda3188c6d3810800000000000000
+      internalID: 1746671562191136545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_46
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401492959e720e550800000000000000
+      internalID: 6187989771183800580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_47
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a312ae10e1f6f6ca0800000000000000
+      internalID: -6021472002099240646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_48
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21878f74fe410620800000000000000
+      internalID: 2738556860436545836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_49
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d5ab6e3701e620800000000000000
+      internalID: 2801528407876555742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_50
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa274e5a36c7b57f0800000000000000
+      internalID: -622767356033862998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_51
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d35822a1ae6c60800000000000000
+      internalID: 7813360121367745625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_52
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933929560f5ffcd90800000000000000
+      internalID: -7075166076730698951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_53
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a241f7478a7720800000000000000
+      internalID: 2844734857697994451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_54
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4f310b68cfdb640800000000000000
+      internalID: 5097508008663184628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_55
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 480
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ad28a1b4bad090800000000000000
+      internalID: -8008890312201231155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df302a655c46f8c10800000000000000
+      internalID: 2057974353456399357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381a6c660c9795d0800000000000000
+      internalID: -3055802270744963024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_58
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e38990c4332d40800000000000000
+      internalID: 5558344366919246908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_59
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68799783106f97670800000000000000
+      internalID: 8537125053760378758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_60
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563734aa7c61cda60800000000000000
+      internalID: 7700054509707555685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_61
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a563114c23b910c0800000000000000
+      internalID: -4604452141357898333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_62
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18135d10c8c283b10800000000000000
+      internalID: 1961366617557643649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_63
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce6cd4d0c17aee20800000000000000
+      internalID: 3380639543313854148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_64
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf087be7ac59b2a70800000000000000
+      internalID: 8803294593567654139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_65
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c296798b3cb1990800000000000000
+      internalID: -7414117163953738704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_66
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec1382bdc618a90800000000000000
+      internalID: -7313444631344984342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_67
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e978f2f7eda410800000000000000
+      internalID: 1490102082466343348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_68
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3776d84bf6c4760800000000000000
+      internalID: 7443447105393750991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_69
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 240
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4e420e1c7aa18f0800000000000000
+      internalID: -568957951777905456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80454aff9699a6d20800000000000000
+      internalID: 3272596759777661960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissors-side-crunch_71
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23ba4135aa9c440800000000000000
+      internalID: 4956680138703712954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

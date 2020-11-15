@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/PlanProcessScreen.unity
     guid: 14ea1f8c213df9f48bf86d434993ae18
   - enabled: 1
-    path: Assets/Scenes/WorkoutScreen.unity
+    path: Assets/Scenes/DoWorkoutScreen.unity
     guid: deecc885493b38641b5c7b1765f59ab1
   - enabled: 1
     path: Assets/Scenes/ProcessDetailScreen.unity

@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: f62ee3b3fedc01242a231c4dcf94c5a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -484796305723313212
+    second: tricep-bench-dips_0
+  - first:
+      213: 5383312935632832117
+    second: tricep-bench-dips_1
+  - first:
+      213: -1279760934971550736
+    second: tricep-bench-dips_2
+  - first:
+      213: -8413518477129269475
+    second: tricep-bench-dips_3
+  - first:
+      213: -1406527721906181429
+    second: tricep-bench-dips_4
+  - first:
+      213: 8072777892387738975
+    second: tricep-bench-dips_5
+  - first:
+      213: 7878478040800251352
+    second: tricep-bench-dips_6
+  - first:
+      213: -7455716877672247990
+    second: tricep-bench-dips_7
+  - first:
+      213: 7979628915724420039
+    second: tricep-bench-dips_8
+  - first:
+      213: 152276274440860251
+    second: tricep-bench-dips_9
+  - first:
+      213: 3997219614206779726
+    second: tricep-bench-dips_10
+  - first:
+      213: 1706373493073850908
+    second: tricep-bench-dips_11
+  - first:
+      213: -7677204319711974877
+    second: tricep-bench-dips_12
+  - first:
+      213: 1056379698135415093
+    second: tricep-bench-dips_13
+  - first:
+      213: -5108364128700884226
+    second: tricep-bench-dips_14
+  - first:
+      213: -7224389099426533066
+    second: tricep-bench-dips_15
+  - first:
+      213: 20869029351302174
+    second: tricep-bench-dips_16
+  - first:
+      213: 4934317500968394333
+    second: tricep-bench-dips_17
+  - first:
+      213: -7375410886093698128
+    second: tricep-bench-dips_18
+  - first:
+      213: -9088158790426063401
+    second: tricep-bench-dips_19
+  - first:
+      213: 7199517514966080501
+    second: tricep-bench-dips_20
+  - first:
+      213: -53486746100190027
+    second: tricep-bench-dips_21
+  - first:
+      213: 199400661975741170
+    second: tricep-bench-dips_22
+  - first:
+      213: -1494064154632443704
+    second: tricep-bench-dips_23
+  - first:
+      213: 2474069845635133261
+    second: tricep-bench-dips_24
+  - first:
+      213: 6597386487095280054
+    second: tricep-bench-dips_25
+  - first:
+      213: -3377409395116837882
+    second: tricep-bench-dips_26
+  - first:
+      213: -7776545077176012242
+    second: tricep-bench-dips_27
+  - first:
+      213: -3649968343628234126
+    second: tricep-bench-dips_28
+  - first:
+      213: 5285164250385868376
+    second: tricep-bench-dips_29
+  - first:
+      213: 7834939695689405773
+    second: tricep-bench-dips_30
+  - first:
+      213: -1557872108026785583
+    second: tricep-bench-dips_31
+  - first:
+      213: 1189727407540677758
+    second: tricep-bench-dips_32
+  - first:
+      213: 1278024717411240688
+    second: tricep-bench-dips_33
+  - first:
+      213: -6712704707145842868
+    second: tricep-bench-dips_34
+  - first:
+      213: 560194426792810376
+    second: tricep-bench-dips_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tricep-bench-dips_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b0f81458a549f0800000000000000
+      internalID: -484796305723313212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576092bc79e55ba40800000000000000
+      internalID: 5383312935632832117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f35999c5306d3ee0800000000000000
+      internalID: -1279760934971550736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3683958d2d3b80800000000000000
+      internalID: -8413518477129269475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaea013d720b7ce0800000000000000
+      internalID: -1406527721906181429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_5
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d562c8b4480070800000000000000
+      internalID: 8072777892387738975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd4d90490af55d60800000000000000
+      internalID: 7878478040800251352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_7
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 972
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d06787009f78890800000000000000
+      internalID: -7455716877672247990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3803198365dbe60800000000000000
+      internalID: 7979628915724420039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5274cdf67efc1200800000000000000
+      internalID: 152276274440860251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e40a9f0af87730800000000000000
+      internalID: 3997219614206779726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123fc4b6a14ea710800000000000000
+      internalID: 1706373493073850908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a2977c857157590800000000000000
+      internalID: -7677204319711974877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_13
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539bb4f0db309ae00800000000000000
+      internalID: 1056379698135415093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_14
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9f65e3e17b19b0800000000000000
+      internalID: -5108364128700884226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_15
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 729
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313a79f360ddbb90800000000000000
+      internalID: -7224389099426533066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14aa4985442a4000800000000000000
+      internalID: 20869029351302174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed63ebf973a7440800000000000000
+      internalID: 4934317500968394333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb06dd20e645a990800000000000000
+      internalID: -7375410886093698128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_19
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd8f423bbf50e180800000000000000
+      internalID: -9088158790426063401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_20
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb91c10903d9e360800000000000000
+      internalID: 7199517514966080501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_21
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b18a761af14ff0800000000000000
+      internalID: -53486746100190027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_22
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ba0978d964c200800000000000000
+      internalID: 199400661975741170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_23
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 486
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82d773194044be0800000000000000
+      internalID: -1494064154632443704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f669a9a69a55220800000000000000
+      internalID: 2474069845635133261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c6493e00ae8b50800000000000000
+      internalID: 6597386487095280054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047ef6ac080121d0800000000000000
+      internalID: -3377409395116837882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_27
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227c174479241490800000000000000
+      internalID: -7776545077176012242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_28
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2724e9c3125b85dc0800000000000000
+      internalID: -3649968343628234126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_29
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e7db32eca85940800000000000000
+      internalID: 5285164250385868376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_30
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459c26542c4bbc60800000000000000
+      internalID: 7834939695689405773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_31
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 243
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0139b5293516ae0800000000000000
+      internalID: -1557872108026785583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c220216c2c28010800000000000000
+      internalID: 1189727407540677758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa477f85b47cb110800000000000000
+      internalID: 1278024717411240688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fba7062aea7d2a0800000000000000
+      internalID: -6712704707145842868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricep-bench-dips_35
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879326fcd536c700800000000000000
+      internalID: 560194426792810376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

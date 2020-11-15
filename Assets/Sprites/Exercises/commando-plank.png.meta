@@ -1,0 +1,1034 @@
+fileFormatVersion: 2
+guid: 6cbbc04544935394a9d140252a267d5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3025437008948298484
+    second: commando-plank_0
+  - first:
+      213: 8624609452517674708
+    second: commando-plank_1
+  - first:
+      213: -406739068806144243
+    second: commando-plank_2
+  - first:
+      213: -903286734517503523
+    second: commando-plank_3
+  - first:
+      213: -3153700063083528946
+    second: commando-plank_4
+  - first:
+      213: 8610655072093424229
+    second: commando-plank_5
+  - first:
+      213: -3892089742622930478
+    second: commando-plank_6
+  - first:
+      213: 8828544421910817679
+    second: commando-plank_7
+  - first:
+      213: 5635074354431277884
+    second: commando-plank_8
+  - first:
+      213: -5896272249915743783
+    second: commando-plank_9
+  - first:
+      213: -3528068856899008592
+    second: commando-plank_10
+  - first:
+      213: -8113109924141999438
+    second: commando-plank_11
+  - first:
+      213: 1586840709178278592
+    second: commando-plank_12
+  - first:
+      213: -111649686693881753
+    second: commando-plank_13
+  - first:
+      213: 3649154317261285855
+    second: commando-plank_14
+  - first:
+      213: -8555523582283108961
+    second: commando-plank_15
+  - first:
+      213: 4038584947340224802
+    second: commando-plank_16
+  - first:
+      213: -5211187660450838631
+    second: commando-plank_17
+  - first:
+      213: 974330528956268543
+    second: commando-plank_18
+  - first:
+      213: 8702927945358905430
+    second: commando-plank_19
+  - first:
+      213: 3189496252155832739
+    second: commando-plank_20
+  - first:
+      213: -2322974175503074541
+    second: commando-plank_21
+  - first:
+      213: 8286482289820342490
+    second: commando-plank_22
+  - first:
+      213: -4673540745827015150
+    second: commando-plank_23
+  - first:
+      213: 8172155404994296761
+    second: commando-plank_24
+  - first:
+      213: -3149536255688415370
+    second: commando-plank_25
+  - first:
+      213: 2159684064694974107
+    second: commando-plank_26
+  - first:
+      213: -7164037689025964366
+    second: commando-plank_27
+  - first:
+      213: -7180909794602061230
+    second: commando-plank_28
+  - first:
+      213: -6680116479694252769
+    second: commando-plank_29
+  - first:
+      213: 457321488897836182
+    second: commando-plank_30
+  - first:
+      213: 4803855975980748334
+    second: commando-plank_31
+  - first:
+      213: 996870314030898339
+    second: commando-plank_32
+  - first:
+      213: -1367133716751865967
+    second: commando-plank_33
+  - first:
+      213: -7262606276872727906
+    second: commando-plank_34
+  - first:
+      213: 3106854872332514228
+    second: commando-plank_35
+  - first:
+      213: -7313916202884022589
+    second: commando-plank_36
+  - first:
+      213: -6557571513345800170
+    second: commando-plank_37
+  - first:
+      213: -5929270292463427671
+    second: commando-plank_38
+  - first:
+      213: -2824645230629476572
+    second: commando-plank_39
+  - first:
+      213: -2066061861650274741
+    second: commando-plank_40
+  - first:
+      213: -3448949975654504118
+    second: commando-plank_41
+  - first:
+      213: -1536992716151467369
+    second: commando-plank_42
+  - first:
+      213: -6996283691487826278
+    second: commando-plank_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: commando-plank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20fa02ee28cf920800000000000000
+      internalID: 3025437008948298484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4decac71a94c0b770800000000000000
+      internalID: 8624609452517674708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f598fc8f8fa5af0800000000000000
+      internalID: -406739068806144243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_3
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9f2c23081e673f0800000000000000
+      internalID: -903286734517503523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_4
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d77cb608ecb34d0800000000000000
+      internalID: -3153700063083528946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_5
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a4b87ba213f7770800000000000000
+      internalID: 8610655072093424229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_6
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c40110058cf9c0800000000000000
+      internalID: -3892089742622930478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_7
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b20c7406a458a70800000000000000
+      internalID: 8828544421910817679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_8
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3acaf44ec33e40800000000000000
+      internalID: 5635074354431277884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_9
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d167c4e0ab3c2ea0800000000000000
+      internalID: -5896272249915743783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_10
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 864
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78a613118c90fc0800000000000000
+      internalID: -3528068856899008592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad1d35281786f80800000000000000
+      internalID: -8113109924141999438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c243b1b737950610800000000000000
+      internalID: 1586840709178278592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d3559337537ef0800000000000000
+      internalID: -111649686693881753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_14
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd921fa748664a230800000000000000
+      internalID: 3649154317261285855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_15
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da98a81aca44980800000000000000
+      internalID: -8555523582283108961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_16
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229247dbc9feb0830800000000000000
+      internalID: 4038584947340224802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_17
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997cde0de642ea7b0800000000000000
+      internalID: -5211187660450838631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_18
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffb1403474858d00800000000000000
+      internalID: 974330528956268543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_19
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65010f03bd207c870800000000000000
+      internalID: 8702927945358905430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_20
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9203251fd534c20800000000000000
+      internalID: 3189496252155832739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_21
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 576
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bbbb68b4323cfd0800000000000000
+      internalID: -2322974175503074541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89e4a2dbf7ff270800000000000000
+      internalID: 8286482289820342490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216aaa1047f342fb0800000000000000
+      internalID: -4673540745827015150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb39fbfa04596170800000000000000
+      internalID: 8172155404994296761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_25
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6776a7066799a44d0800000000000000
+      internalID: -3149536255688415370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_26
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96373fd63db8fd10800000000000000
+      internalID: 2159684064694974107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_27
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6d814bda9349c90800000000000000
+      internalID: -7164037689025964366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_28
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fe908698485c90800000000000000
+      internalID: -7180909794602061230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_29
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15579954757b43a0800000000000000
+      internalID: -6680116479694252769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_30
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69488ed987bb85600800000000000000
+      internalID: 457321488897836182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_31
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4878ee89baa240800000000000000
+      internalID: 4803855975980748334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_32
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 288
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac91fad44895dd00800000000000000
+      internalID: 996870314030898339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ab84c027f60de0800000000000000
+      internalID: -1367133716751865967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929a73f11a063b90800000000000000
+      internalID: -7262606276872727906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_35
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3321aab04cd1b20800000000000000
+      internalID: 3106854872332514228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_36
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cebf1ad6ffbf7a90800000000000000
+      internalID: -7313916202884022589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commando-plank_37
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 346
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188dcdb373def4a0800000000000000
+      internalID: -6557571513345800170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,7 +9,7 @@ namespace Controller.TemplateControllers {
         [SerializeField] private Button submit;
         public delegate void SimpleSearch(string keyword);
         [SerializeField]
-        public SimpleSearch simpleSearch {
+        public SimpleSearch onSearch {
             set {
                 submit.onClick.RemoveAllListeners();
                 submit.onClick.AddListener(() => {

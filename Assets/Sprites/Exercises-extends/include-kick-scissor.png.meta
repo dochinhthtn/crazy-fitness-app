@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: deaf727fe0d25a740bdeca23d8921abd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5804524868588078828
+    second: include-kick-scissor_0
+  - first:
+      213: -7633942102280415684
+    second: include-kick-scissor_1
+  - first:
+      213: 1317052843656531631
+    second: include-kick-scissor_2
+  - first:
+      213: -7540977347826427425
+    second: include-kick-scissor_3
+  - first:
+      213: 7562874217304711343
+    second: include-kick-scissor_4
+  - first:
+      213: 6945187645995281148
+    second: include-kick-scissor_5
+  - first:
+      213: -8236344801864915570
+    second: include-kick-scissor_6
+  - first:
+      213: -5130241407526075
+    second: include-kick-scissor_7
+  - first:
+      213: 2569288446755961762
+    second: include-kick-scissor_8
+  - first:
+      213: -7630430338273974367
+    second: include-kick-scissor_9
+  - first:
+      213: 2394258792433571742
+    second: include-kick-scissor_10
+  - first:
+      213: 3214403399695861061
+    second: include-kick-scissor_11
+  - first:
+      213: -5880389801743343688
+    second: include-kick-scissor_12
+  - first:
+      213: 6923265949348309193
+    second: include-kick-scissor_13
+  - first:
+      213: -6144966731133850412
+    second: include-kick-scissor_14
+  - first:
+      213: 3114016257270951536
+    second: include-kick-scissor_15
+  - first:
+      213: -997980955499979841
+    second: include-kick-scissor_16
+  - first:
+      213: 8031939489431339033
+    second: include-kick-scissor_17
+  - first:
+      213: 4955168168465862698
+    second: include-kick-scissor_18
+  - first:
+      213: 1358575424994757238
+    second: include-kick-scissor_19
+  - first:
+      213: -5953627388382781920
+    second: include-kick-scissor_20
+  - first:
+      213: -5646413923984422244
+    second: include-kick-scissor_21
+  - first:
+      213: 2930144898077604822
+    second: include-kick-scissor_22
+  - first:
+      213: -576822574669779650
+    second: include-kick-scissor_23
+  - first:
+      213: -2770939479085782004
+    second: include-kick-scissor_24
+  - first:
+      213: 5608666686064977217
+    second: include-kick-scissor_25
+  - first:
+      213: -6455937174648971499
+    second: include-kick-scissor_26
+  - first:
+      213: 4974380014034383492
+    second: include-kick-scissor_27
+  - first:
+      213: 6073529159687736278
+    second: include-kick-scissor_28
+  - first:
+      213: 8188556443651828915
+    second: include-kick-scissor_29
+  - first:
+      213: 2701366060934114254
+    second: include-kick-scissor_30
+  - first:
+      213: -8537321471822412961
+    second: include-kick-scissor_31
+  - first:
+      213: -8445250158200689736
+    second: include-kick-scissor_32
+  - first:
+      213: -7373640108089065806
+    second: include-kick-scissor_33
+  - first:
+      213: 2047328670609476811
+    second: include-kick-scissor_34
+  - first:
+      213: 7139133144522837639
+    second: include-kick-scissor_35
+  - first:
+      213: -905278298916817936
+    second: include-kick-scissor_36
+  - first:
+      213: -4822918331083796751
+    second: include-kick-scissor_37
+  - first:
+      213: -5337717646843219944
+    second: include-kick-scissor_38
+  - first:
+      213: 917390721272984200
+    second: include-kick-scissor_39
+  - first:
+      213: 415462219115656648
+    second: include-kick-scissor_40
+  - first:
+      213: 2559739004524569496
+    second: include-kick-scissor_41
+  - first:
+      213: -1704358254172650479
+    second: include-kick-scissor_42
+  - first:
+      213: 600083261490180673
+    second: include-kick-scissor_43
+  - first:
+      213: -9174609726322701674
+    second: include-kick-scissor_44
+  - first:
+      213: -2383541661166498101
+    second: include-kick-scissor_45
+  - first:
+      213: -1238021878707534301
+    second: include-kick-scissor_46
+  - first:
+      213: 1023280581081887756
+    second: include-kick-scissor_47
+  - first:
+      213: -6345644460829022755
+    second: include-kick-scissor_48
+  - first:
+      213: 1225079701747850987
+    second: include-kick-scissor_49
+  - first:
+      213: -1215904562257744492
+    second: include-kick-scissor_50
+  - first:
+      213: -6908498723739939783
+    second: include-kick-scissor_51
+  - first:
+      213: 301154001627050188
+    second: include-kick-scissor_52
+  - first:
+      213: -3266546848574506886
+    second: include-kick-scissor_53
+  - first:
+      213: -1490911021042632558
+    second: include-kick-scissor_54
+  - first:
+      213: 4263778375078239248
+    second: include-kick-scissor_55
+  - first:
+      213: -1388212140967856203
+    second: include-kick-scissor_56
+  - first:
+      213: 176170030915364881
+    second: include-kick-scissor_57
+  - first:
+      213: -6813102117333697091
+    second: include-kick-scissor_58
+  - first:
+      213: -1896196650224041208
+    second: include-kick-scissor_59
+  - first:
+      213: -3598287427919246730
+    second: include-kick-scissor_60
+  - first:
+      213: -2590506557809037973
+    second: include-kick-scissor_61
+  - first:
+      213: -3190244732681992541
+    second: include-kick-scissor_62
+  - first:
+      213: -7342166998771069612
+    second: include-kick-scissor_63
+  - first:
+      213: -6330424654536833519
+    second: include-kick-scissor_64
+  - first:
+      213: 3034244124606872476
+    second: include-kick-scissor_65
+  - first:
+      213: 1959976107505751140
+    second: include-kick-scissor_66
+  - first:
+      213: -1703350667281897054
+    second: include-kick-scissor_67
+  - first:
+      213: 445629555434801759
+    second: include-kick-scissor_68
+  - first:
+      213: -5512046671393584397
+    second: include-kick-scissor_69
+  - first:
+      213: 1796795673674132462
+    second: include-kick-scissor_70
+  - first:
+      213: 5927027812694273613
+    second: include-kick-scissor_71
+  - first:
+      213: 3507670899282636981
+    second: include-kick-scissor_72
+  - first:
+      213: 2776360099363766166
+    second: include-kick-scissor_73
+  - first:
+      213: -3919965361317099895
+    second: include-kick-scissor_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: include-kick-scissor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60d124d90dd8050800000000000000
+      internalID: 5804524868588078828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365da5ba1ace0690800000000000000
+      internalID: -7633942102280415684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec090559c174210800000000000000
+      internalID: 1317052843656531631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d9835e01195790800000000000000
+      internalID: -7540977347826427425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06863e70ab4f860800000000000000
+      internalID: 7562874217304711343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaeaf9ed53426060800000000000000
+      internalID: 6945187645995281148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e43d6a00a2bd80800000000000000
+      internalID: -8236344801864915570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bda479216cdeff0800000000000000
+      internalID: -5130241407526075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab776aca32f7a320800000000000000
+      internalID: 2569288446755961762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 483
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e0dbf8044b1690800000000000000
+      internalID: -7630430338273974367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97db57bfad1a3120800000000000000
+      internalID: 2394258792433571742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450ea38cdadb9c20800000000000000
+      internalID: 3214403399695861061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf124681a8a46ea0800000000000000
+      internalID: -5880389801743343688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a67c23b1641060800000000000000
+      internalID: 6923265949348309193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6c22c051b8baa0800000000000000
+      internalID: -6144966731133850412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2d678945373b20800000000000000
+      internalID: 3114016257270951536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb91d6cb957622f0800000000000000
+      internalID: -997980955499979841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ccfc196e277f60800000000000000
+      internalID: 8031939489431339033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a201bb3123b44c440800000000000000
+      internalID: 4955168168465862698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 414
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4367a621aad210800000000000000
+      internalID: 1358575424994757238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e58661f67706da0800000000000000
+      internalID: -5953627388382781920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac61eb378e3a1b0800000000000000
+      internalID: -5646413923984422244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb65e9247f9a820800000000000000
+      internalID: 2930144898077604822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da16aace6bef7f0800000000000000
+      internalID: -576822574669779650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6cfe8935ab89d0800000000000000
+      internalID: -2770939479085782004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145687e82acf5dd40800000000000000
+      internalID: 5608666686064977217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1fcc3857e766a0800000000000000
+      internalID: -6455937174648971499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4827252744c880540800000000000000
+      internalID: 4974380014034383492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0a208792894450800000000000000
+      internalID: 6073529159687736278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 345
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6a1f53b893a170800000000000000
+      internalID: 8188556443651828915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb2646be1e2d7520800000000000000
+      internalID: 2701366060934114254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53c5b2aa57558980800000000000000
+      internalID: -8537321471822412961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe229d9b17cca80800000000000000
+      internalID: -8445250158200689736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be37cf83619ba990800000000000000
+      internalID: -7373640108089065806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc86262492996c10800000000000000
+      internalID: 2047328670609476811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e408b25cb431360800000000000000
+      internalID: 7139133144522837639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3713afe2ecf63f0800000000000000
+      internalID: -905278298916817936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec70fa45d811db0800000000000000
+      internalID: -4822918331083796751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107394a41e9ce5b0800000000000000
+      internalID: -5337717646843219944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 276
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88237bd100a3bbc00800000000000000
+      internalID: 917390721272984200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5fbf3efa404c500800000000000000
+      internalID: 415462219115656648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89326620015068320800000000000000
+      internalID: 2559739004524569496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c80aa237e858e0800000000000000
+      internalID: -1704358254172650479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142b7c40c8ce35800800000000000000
+      internalID: 600083261490180673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a01b5201d3da080800000000000000
+      internalID: -9174609726322701674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce83dadc75fbeed0800000000000000
+      internalID: -2383541661166498101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326c97f19a9a1dee0800000000000000
+      internalID: -1238021878707534301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f0f4544c633e00800000000000000
+      internalID: 1023280581081887756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56c59cbfdbfe7a0800000000000000
+      internalID: -6345644460829022755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 207
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed83c7f7b500110800000000000000
+      internalID: 1225079701747850987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da9d52e3d302fe0800000000000000
+      internalID: -1215904562257744492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ccd3873051020a0800000000000000
+      internalID: -6908498723739939783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0faa908f9ed2400800000000000000
+      internalID: 301154001627050188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787b88b2f4eaa2d0800000000000000
+      internalID: -3266546848574506886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f90753583f4be0800000000000000
+      internalID: -1490911021042632558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd78777dbfb2b30800000000000000
+      internalID: 4263778375078239248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f9b0b9641cbce0800000000000000
+      internalID: -1388212140967856203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a7c0b5b1e17200800000000000000
+      internalID: 176170030915364881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdfcddb8bff271a0800000000000000
+      internalID: -6813102117333697091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 138
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8034c1f613b5fa5e0800000000000000
+      internalID: -1896196650224041208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8e1b16a0501ec0800000000000000
+      internalID: -3598287427919246730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de871c20cac0cd0800000000000000
+      internalID: -2590506557809037973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6cde97159f9b3d0800000000000000
+      internalID: -3190244732681992541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d87acd3026b1a90800000000000000
+      internalID: -7342166998771069612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11605f41150d528a0800000000000000
+      internalID: -6330424654536833519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b320984fccb1a20800000000000000
+      internalID: 3034244124606872476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4641228a2eb333b10800000000000000
+      internalID: 1959976107505751140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9ecb4c79b7c58e0800000000000000
+      internalID: -1703350667281897054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4b1938b13f2600800000000000000
+      internalID: 445629555434801759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 69
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0636a1c64183b0800000000000000
+      internalID: -5512046671393584397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2e4735208fe810800000000000000
+      internalID: 1796795673674132462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea0859468014250800000000000000
+      internalID: 5927027812694273613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b077b43910cda030800000000000000
+      internalID: 3507670899282636981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f3523fccc978620800000000000000
+      internalID: 2776360099363766166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: include-kick-scissor_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986cbd2d54c7999c0800000000000000
+      internalID: -3919965361317099895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

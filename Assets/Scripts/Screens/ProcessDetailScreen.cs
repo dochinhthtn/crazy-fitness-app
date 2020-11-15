@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
 using Controller.ListControllers;
 using Models;
+using UnityEngine;
+using UnityEngine.UI;
 
 namespace Screens {
     public class ProcessDetailScreen : Screen {
@@ -11,32 +11,38 @@ namespace Screens {
         [SerializeField] private Text workoutName;
         [SerializeField] private ExerciseListController exerciseList;
         [SerializeField] private RectTransform mealSection;
+        [SerializeField] private Button beginWorkoutButton;
 
         private Date date;
-        public ProcessDetailScreen() {
+        ProcessDetailScreen () {
             screenName = "Process Detail";
         }
 
         void Start () {
             date = (Date) Navigator.data;
 
-            RenderCurrentDate();
-            RenderExerciseList();
-            RenderMeal();
+            bool isCurrentDate = (bool) Navigator.tmpData;
+            if (!isCurrentDate) {
+                beginWorkoutButton.onClick.RemoveAllListeners();
+                beginWorkoutButton.image.color = new Color32(200, 200, 200, 255);
+            }
+
+            RenderCurrentDate ();
+            RenderExerciseList ();
+            RenderMeal ();
         }
 
-        public void StartWorkout() {
-
+        public void BeginWorkout () {
+            Navigator.NavigateWithData("DoWorkoutScreen", date.workout, date);
         }
 
-        void RenderCurrentDate() {
-            title.text = "Day " + date.order.ToString();
+        void RenderCurrentDate () {
+            title.text = "Day " + date.order.ToString ();
         }
 
         void RenderExerciseList () {
             workoutName.text = date.workout.name;
-            exerciseList.SetData(date.workout.exercises);
-            Debug.Log(date.workout.exercises.Count);
+            exerciseList.SetData (date.workout.exercises);
         }
 
         void RenderMeal () {

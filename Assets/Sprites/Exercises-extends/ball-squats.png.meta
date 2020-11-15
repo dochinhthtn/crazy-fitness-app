@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: f1005cf8f1f5f5e41bf302711218ee0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8445753151609906299
+    second: ball-squats_0
+  - first:
+      213: -8984272107366869538
+    second: ball-squats_1
+  - first:
+      213: 375814942731435443
+    second: ball-squats_2
+  - first:
+      213: 6805661040186444700
+    second: ball-squats_3
+  - first:
+      213: 331183771729570657
+    second: ball-squats_4
+  - first:
+      213: -9215555890998162630
+    second: ball-squats_5
+  - first:
+      213: 7179069348781983468
+    second: ball-squats_6
+  - first:
+      213: 3784527319498174236
+    second: ball-squats_7
+  - first:
+      213: 76090991688424225
+    second: ball-squats_8
+  - first:
+      213: -639462941573767058
+    second: ball-squats_9
+  - first:
+      213: 3533640609760844611
+    second: ball-squats_10
+  - first:
+      213: -1103611924811009482
+    second: ball-squats_11
+  - first:
+      213: 6103291661650740180
+    second: ball-squats_12
+  - first:
+      213: 5676072737045995002
+    second: ball-squats_13
+  - first:
+      213: -8077013169191013183
+    second: ball-squats_14
+  - first:
+      213: 7287797350093379465
+    second: ball-squats_15
+  - first:
+      213: -936958252965279468
+    second: ball-squats_16
+  - first:
+      213: 6464562777501741035
+    second: ball-squats_17
+  - first:
+      213: 7648372589297714233
+    second: ball-squats_18
+  - first:
+      213: -512007424936311202
+    second: ball-squats_19
+  - first:
+      213: 4873857781999011683
+    second: ball-squats_20
+  - first:
+      213: -343942609835560934
+    second: ball-squats_21
+  - first:
+      213: -5617395772394789941
+    second: ball-squats_22
+  - first:
+      213: 8973599141082688536
+    second: ball-squats_23
+  - first:
+      213: -1392212623962024192
+    second: ball-squats_24
+  - first:
+      213: -2961772940762607795
+    second: ball-squats_25
+  - first:
+      213: -8879837649642662518
+    second: ball-squats_26
+  - first:
+      213: -8576450710376300154
+    second: ball-squats_27
+  - first:
+      213: 8834342138641674263
+    second: ball-squats_28
+  - first:
+      213: -7933547190817674688
+    second: ball-squats_29
+  - first:
+      213: -5723097474121481527
+    second: ball-squats_30
+  - first:
+      213: -8136035752668608587
+    second: ball-squats_31
+  - first:
+      213: -3031988997181786284
+    second: ball-squats_32
+  - first:
+      213: -6090279835639392198
+    second: ball-squats_33
+  - first:
+      213: 1403656503202574154
+    second: ball-squats_34
+  - first:
+      213: -1795569066017167946
+    second: ball-squats_35
+  - first:
+      213: -2702841522667878998
+    second: ball-squats_36
+  - first:
+      213: -7291811122754745952
+    second: ball-squats_37
+  - first:
+      213: -6169758413553164048
+    second: ball-squats_38
+  - first:
+      213: 1272220120280990611
+    second: ball-squats_39
+  - first:
+      213: 6541871633321081439
+    second: ball-squats_40
+  - first:
+      213: -2147014068629091692
+    second: ball-squats_41
+  - first:
+      213: -9218476711558986677
+    second: ball-squats_42
+  - first:
+      213: 3090133038836932024
+    second: ball-squats_43
+  - first:
+      213: -4583721707299746267
+    second: ball-squats_44
+  - first:
+      213: -5340585050087041763
+    second: ball-squats_45
+  - first:
+      213: 2794942116309820803
+    second: ball-squats_46
+  - first:
+      213: -5730591384989576559
+    second: ball-squats_47
+  - first:
+      213: 2123602338239777316
+    second: ball-squats_48
+  - first:
+      213: -109281748007980338
+    second: ball-squats_49
+  - first:
+      213: 7815870552179383652
+    second: ball-squats_50
+  - first:
+      213: 4388726497575010783
+    second: ball-squats_51
+  - first:
+      213: -3959005888671211824
+    second: ball-squats_52
+  - first:
+      213: -5697651144201744492
+    second: ball-squats_53
+  - first:
+      213: 4084583733344869029
+    second: ball-squats_54
+  - first:
+      213: -8742092416313806060
+    second: ball-squats_55
+  - first:
+      213: -5308413455844066154
+    second: ball-squats_56
+  - first:
+      213: 2694434683387092592
+    second: ball-squats_57
+  - first:
+      213: 6403932199471879295
+    second: ball-squats_58
+  - first:
+      213: 2611648017407038151
+    second: ball-squats_59
+  - first:
+      213: -893342890453480192
+    second: ball-squats_60
+  - first:
+      213: 3245136197319648890
+    second: ball-squats_61
+  - first:
+      213: 2699430142729998802
+    second: ball-squats_62
+  - first:
+      213: 850190050362016497
+    second: ball-squats_63
+  - first:
+      213: -6105814938589245949
+    second: ball-squats_64
+  - first:
+      213: 118027573614526526
+    second: ball-squats_65
+  - first:
+      213: 5498752745414452443
+    second: ball-squats_66
+  - first:
+      213: -362967803394201066
+    second: ball-squats_67
+  - first:
+      213: -4783650697353671674
+    second: ball-squats_68
+  - first:
+      213: -4608776392916369023
+    second: ball-squats_69
+  - first:
+      213: 5909572203714212615
+    second: ball-squats_70
+  - first:
+      213: -1832864014789077453
+    second: ball-squats_71
+  - first:
+      213: -7676334110521887844
+    second: ball-squats_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ball-squats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74285e6eb7553570800000000000000
+      internalID: 8445753151609906299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed592fa7e14715380800000000000000
+      internalID: -8984272107366869538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7ac203b9273500800000000000000
+      internalID: 375814942731435443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b470a78a0927e50800000000000000
+      internalID: 6805661040186444700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba05db2e9989400800000000000000
+      internalID: 331183771729570657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bcb454eb4cb1080800000000000000
+      internalID: -9215555890998162630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce68b00598d21a360800000000000000
+      internalID: 7179069348781983468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2379bb87558430800000000000000
+      internalID: 3784527319498174236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b12329a545e0100800000000000000
+      internalID: 76090991688424225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 574
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e602878b7db2027f0800000000000000
+      internalID: -639462941573767058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b90bc99630a0130800000000000000
+      internalID: 3533640609760844611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63231c33dce2fa0f0800000000000000
+      internalID: -1103611924811009482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cb4dfd6f33b450800000000000000
+      internalID: 6103291661650740180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd7eac41675ce40800000000000000
+      internalID: 5676072737045995002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b734015fa8ef80800000000000000
+      internalID: -8077013169191013183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9875957d315732560800000000000000
+      internalID: 7287797350093379465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41942a2ee614ff2f0800000000000000
+      internalID: -936958252965279468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef243d689db6b950800000000000000
+      internalID: 6464562777501741035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cceed85a742a60800000000000000
+      internalID: 7648372589297714233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 492
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560f42b5fbf4e8f0800000000000000
+      internalID: -512007424936311202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36703d574db63a340800000000000000
+      internalID: 4873857781999011683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1071a5c4021a3bf0800000000000000
+      internalID: -343942609835560934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a0a7ae400b02b0800000000000000
+      internalID: -5617395772394789941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cebf8efd0a88c70800000000000000
+      internalID: 8973599141082688536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007dde8aefdddace0800000000000000
+      internalID: -1392212623962024192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f0b78d33ba5e6d0800000000000000
+      internalID: -2961772940762607795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d8ed74ba74c480800000000000000
+      internalID: -8879837649642662518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681cf56d4835af880800000000000000
+      internalID: -8576450710376300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71070066e53e99a70800000000000000
+      internalID: 8834342138641674263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 410
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa38a1dd066e190800000000000000
+      internalID: -7933547190817674688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2cd086b297390b0800000000000000
+      internalID: -5723097474121481527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b74f4ae69ef61f80800000000000000
+      internalID: -8136035752668608587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457361c32163ce5d0800000000000000
+      internalID: -3031988997181786284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385df5d1cafa7ba0800000000000000
+      internalID: -6090279835639392198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6e0c172aca7310800000000000000
+      internalID: 1403656503202574154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5ed52a27bd417e0800000000000000
+      internalID: -1795569066017167946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5843594f39d7ad0800000000000000
+      internalID: -2702841522667878998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a906f2ea684eca90800000000000000
+      internalID: -7291811122754745952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0af22696d906aa0800000000000000
+      internalID: -6169758413553164048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 328
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39304797575d7a110800000000000000
+      internalID: 1272220120280990611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5abe46179569ca50800000000000000
+      internalID: 6541871633321081439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac89774164432e0800000000000000
+      internalID: -2147014068629091692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44c05db544611080800000000000000
+      internalID: -9218476711558986677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd29860ab52ea20800000000000000
+      internalID: 3090133038836932024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec62f84695360c0800000000000000
+      internalID: -4583721707299746267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15dccc413e62e5b0800000000000000
+      internalID: -5340585050087041763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ec6aeb01a9c620800000000000000
+      internalID: 2794942116309820803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19258c05f79d870b0800000000000000
+      internalID: -5730591384989576559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a88f6431d887d10800000000000000
+      internalID: 2123602338239777316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 246
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2fc8544d0cb7ef0800000000000000
+      internalID: -109281748007980338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d96116bdc877c60800000000000000
+      internalID: 7815870552179383652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18d404f73e7ec30800000000000000
+      internalID: 4388726497575010783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9216be19ce09c0800000000000000
+      internalID: -3959005888671211824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc1c7c870ede0b0800000000000000
+      internalID: -5697651144201744492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa1c51b34b5fa830800000000000000
+      internalID: 4084583733344869029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413baf3d349dda680800000000000000
+      internalID: -8742092416313806060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb28b461ab456b0800000000000000
+      internalID: -5308413455844066154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e97cd911e846520800000000000000
+      internalID: 2694434683387092592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74153be7665fd850800000000000000
+      internalID: 6403932199471879295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 164
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c256e3e8007e3420800000000000000
+      internalID: 2611648017407038151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d46efcf553a93f0800000000000000
+      internalID: -893342890453480192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76eff09d2a090d20800000000000000
+      internalID: 3245136197319648890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d15761a96d467520800000000000000
+      internalID: 2699430142729998802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24667a85b7ccb00800000000000000
+      internalID: 850190050362016497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4d11d9a9c34ba0800000000000000
+      internalID: -6105814938589245949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30cefee37153a100800000000000000
+      internalID: 118027573614526526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4e1220d7e7f4c40800000000000000
+      internalID: 5498752745414452443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae8c5b4ba76faf0800000000000000
+      internalID: -362967803394201066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c4fae190f0d9db0800000000000000
+      internalID: -4783650697353671674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 82
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181830bf9465a00c0800000000000000
+      internalID: -4608776392916369023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70378e8eb94030250800000000000000
+      internalID: 5909572203714212615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33696e4b3eb5096e0800000000000000
+      internalID: -1832864014789077453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-squats_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f0252cce287590800000000000000
+      internalID: -7676334110521887844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1394 @@
+fileFormatVersion: 2
+guid: ef5735b214e030c43a81d8e8cbe861c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2171441491049539983
+    second: plate-seated-twists_0
+  - first:
+      213: 587996928099539863
+    second: plate-seated-twists_1
+  - first:
+      213: -4929455370618553219
+    second: plate-seated-twists_2
+  - first:
+      213: -8427073695950532642
+    second: plate-seated-twists_3
+  - first:
+      213: -8000726404640216408
+    second: plate-seated-twists_4
+  - first:
+      213: 3010380767405518399
+    second: plate-seated-twists_5
+  - first:
+      213: 6635870753864256167
+    second: plate-seated-twists_6
+  - first:
+      213: -7021706540466150767
+    second: plate-seated-twists_7
+  - first:
+      213: -4273655281307777806
+    second: plate-seated-twists_8
+  - first:
+      213: -5913188926418001240
+    second: plate-seated-twists_9
+  - first:
+      213: 9106087295973816127
+    second: plate-seated-twists_10
+  - first:
+      213: -751190333167376833
+    second: plate-seated-twists_11
+  - first:
+      213: 4275111799897367129
+    second: plate-seated-twists_12
+  - first:
+      213: 3226158930029364256
+    second: plate-seated-twists_13
+  - first:
+      213: 2841055985432202126
+    second: plate-seated-twists_14
+  - first:
+      213: -1264879197652778385
+    second: plate-seated-twists_15
+  - first:
+      213: -2871591069126148612
+    second: plate-seated-twists_16
+  - first:
+      213: 7386482338287504463
+    second: plate-seated-twists_17
+  - first:
+      213: -8983436654991785932
+    second: plate-seated-twists_18
+  - first:
+      213: 5967027264682868812
+    second: plate-seated-twists_19
+  - first:
+      213: -4609793671116292671
+    second: plate-seated-twists_20
+  - first:
+      213: -527285827916777930
+    second: plate-seated-twists_21
+  - first:
+      213: 8934474522167739242
+    second: plate-seated-twists_22
+  - first:
+      213: 2640128723112302436
+    second: plate-seated-twists_23
+  - first:
+      213: -2787597745872583540
+    second: plate-seated-twists_24
+  - first:
+      213: 2789994022727141670
+    second: plate-seated-twists_25
+  - first:
+      213: 6373495300709491471
+    second: plate-seated-twists_26
+  - first:
+      213: -5747953593767655780
+    second: plate-seated-twists_27
+  - first:
+      213: -6349919504442661863
+    second: plate-seated-twists_28
+  - first:
+      213: 106444022268928289
+    second: plate-seated-twists_29
+  - first:
+      213: -6221189727857906894
+    second: plate-seated-twists_30
+  - first:
+      213: 4752213953063048704
+    second: plate-seated-twists_31
+  - first:
+      213: 1357385864141573493
+    second: plate-seated-twists_32
+  - first:
+      213: 241222501881213498
+    second: plate-seated-twists_33
+  - first:
+      213: -3800525286310380861
+    second: plate-seated-twists_34
+  - first:
+      213: 7728698261020289994
+    second: plate-seated-twists_35
+  - first:
+      213: -954969674903598663
+    second: plate-seated-twists_36
+  - first:
+      213: -7331938041639526575
+    second: plate-seated-twists_37
+  - first:
+      213: -4020890834127074230
+    second: plate-seated-twists_38
+  - first:
+      213: -5231897035505528131
+    second: plate-seated-twists_39
+  - first:
+      213: 3186503315034704591
+    second: plate-seated-twists_40
+  - first:
+      213: -3465377545831957251
+    second: plate-seated-twists_41
+  - first:
+      213: 1665125551312885095
+    second: plate-seated-twists_42
+  - first:
+      213: -7518933622623591373
+    second: plate-seated-twists_43
+  - first:
+      213: 8181438968302773048
+    second: plate-seated-twists_44
+  - first:
+      213: 5213748374551813418
+    second: plate-seated-twists_45
+  - first:
+      213: -8201646438673092706
+    second: plate-seated-twists_46
+  - first:
+      213: 2010216963279770373
+    second: plate-seated-twists_47
+  - first:
+      213: 1347929105683453215
+    second: plate-seated-twists_48
+  - first:
+      213: -4438901905652795739
+    second: plate-seated-twists_49
+  - first:
+      213: 7509626495048668032
+    second: plate-seated-twists_50
+  - first:
+      213: -7165805281443758449
+    second: plate-seated-twists_51
+  - first:
+      213: -872613915649204
+    second: plate-seated-twists_52
+  - first:
+      213: 1934727449577861925
+    second: plate-seated-twists_53
+  - first:
+      213: -1334199010568826987
+    second: plate-seated-twists_54
+  - first:
+      213: -4600190343143746481
+    second: plate-seated-twists_55
+  - first:
+      213: 8921365891686687577
+    second: plate-seated-twists_56
+  - first:
+      213: -8608561064517924826
+    second: plate-seated-twists_57
+  - first:
+      213: 7207660720931916173
+    second: plate-seated-twists_58
+  - first:
+      213: 5682103882487008726
+    second: plate-seated-twists_59
+  - first:
+      213: 3403349355749783149
+    second: plate-seated-twists_60
+  - first:
+      213: -9206035561441232478
+    second: plate-seated-twists_61
+  - first:
+      213: -7844120498405943541
+    second: plate-seated-twists_62
+  - first:
+      213: 6026143567178582621
+    second: plate-seated-twists_63
+  - first:
+      213: 1694248846607120585
+    second: plate-seated-twists_64
+  - first:
+      213: 526028807313170390
+    second: plate-seated-twists_65
+  - first:
+      213: 1267661780213310004
+    second: plate-seated-twists_66
+  - first:
+      213: -3181295668355202111
+    second: plate-seated-twists_67
+  - first:
+      213: 1576101127614846367
+    second: plate-seated-twists_68
+  - first:
+      213: -284552029413706990
+    second: plate-seated-twists_69
+  - first:
+      213: 3988332490448371687
+    second: plate-seated-twists_70
+  - first:
+      213: 3330701734905317257
+    second: plate-seated-twists_71
+  - first:
+      213: -223335037196126556
+    second: plate-seated-twists_72
+  - first:
+      213: 5146169986343260106
+    second: plate-seated-twists_73
+  - first:
+      213: -7978858476660398001
+    second: plate-seated-twists_74
+  - first:
+      213: -6655147180911530430
+    second: plate-seated-twists_75
+  - first:
+      213: 5299182619080095482
+    second: plate-seated-twists_76
+  - first:
+      213: 3290631507842946579
+    second: plate-seated-twists_77
+  - first:
+      213: 5771552446512713435
+    second: plate-seated-twists_78
+  - first:
+      213: 1263527587079069646
+    second: plate-seated-twists_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plate-seated-twists_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176927bf77d7dd1e0800000000000000
+      internalID: -2171441491049539983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd46c371cf82800800000000000000
+      internalID: 587996928099539863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb322357e079bb0800000000000000
+      internalID: -4929455370618553219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf84d04f150d0b80800000000000000
+      internalID: -8427073695950532642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae45289b5b7f090800000000000000
+      internalID: -8000726404640216408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eafd7bb5507c920800000000000000
+      internalID: 3010380767405518399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa8b73da49571c50800000000000000
+      internalID: 6635870753864256167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1926a72aa13ed8e90800000000000000
+      internalID: -7021706540466150767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48d291a2de0b4c0800000000000000
+      internalID: -4273655281307777806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 448
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e417300220fda0800000000000000
+      internalID: -5913188926418001240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37773a46225f5e70800000000000000
+      internalID: 9106087295973816127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e9d83f5c3395f0800000000000000
+      internalID: -751190333167376833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a6ff088f345b30800000000000000
+      internalID: 4275111799897367129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ca55347e95cc20800000000000000
+      internalID: 3226158930029364256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b0faebd557d6720800000000000000
+      internalID: 2841055985432202126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620024421f327ee0800000000000000
+      internalID: -1264879197652778385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd3d80132f0628d0800000000000000
+      internalID: -2871591069126148612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc2592d8e028660800000000000000
+      internalID: 7386482338287504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430cdf465fb645380800000000000000
+      internalID: -8983436654991785932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 336
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404e7cbea32fc250800000000000000
+      internalID: 5967027264682868812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf4417419b600c0800000000000000
+      internalID: -4609793671116292671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363ceb4554bea8f0800000000000000
+      internalID: -527285827916777930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a630694bd31adfb70800000000000000
+      internalID: 8934474522167739242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671a6ee51f93a420800000000000000
+      internalID: 2640128723112302436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c5949e967059d0800000000000000
+      internalID: -2787597745872583540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294d1a18cc08b620800000000000000
+      internalID: 2789994022727141670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0329603534337850800000000000000
+      internalID: 6373495300709491471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968c0219aa2b30b0800000000000000
+      internalID: -5747953593767655780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ee51aadd80e7a0800000000000000
+      internalID: -6349919504442661863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 224
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121adc7364a2a7100800000000000000
+      internalID: 106444022268928289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b68be57e4e9a9a0800000000000000
+      internalID: -6221189727857906894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065af8796143f140800000000000000
+      internalID: 4752213953063048704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8b4f604766d210800000000000000
+      internalID: 1357385864141573493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f570669ef85300800000000000000
+      internalID: 241222501881213498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca749d5362d14bc0800000000000000
+      internalID: -3800525286310380861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2b48be1ad14b60800000000000000
+      internalID: 7728698261020289994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c91ce3244fb2f0800000000000000
+      internalID: -954969674903598663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_37
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f17e88239bf3a90800000000000000
+      internalID: -7331938041639526575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4b37071de238c0800000000000000
+      internalID: -4020890834127074230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 112
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db21641bd519467b0800000000000000
+      internalID: -5231897035505528131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8f38d1ebb83c20800000000000000
+      internalID: 3186503315034704591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc32108b7188efc0800000000000000
+      internalID: -3465377545831957251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655e60edd6bb1710800000000000000
+      internalID: 1665125551312885095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a7cd05b167a790800000000000000
+      internalID: -7518933622623591373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a931056f4a8170800000000000000
+      internalID: 8181438968302773048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d5e65e584fa5840800000000000000
+      internalID: 5213748374551813418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fea89a406ed2e80800000000000000
+      internalID: -8201646438673092706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_47
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50351c17da9b5eb10800000000000000
+      internalID: 2010216963279770373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f151ca6416ec4b210800000000000000
+      internalID: 1347929105683453215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plate-seated-twists_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6b2c03c3ad562c0800000000000000
+      internalID: -4438901905652795739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: f9c1724b1ab590543b18412674f7701b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5422832355867277535
+    second: alternating-front-dumbbell-raise_0
+  - first:
+      213: -1035754530265045913
+    second: alternating-front-dumbbell-raise_1
+  - first:
+      213: 4966249440109834973
+    second: alternating-front-dumbbell-raise_2
+  - first:
+      213: 1501624370320629813
+    second: alternating-front-dumbbell-raise_3
+  - first:
+      213: -4771632708158008872
+    second: alternating-front-dumbbell-raise_4
+  - first:
+      213: 1509407536456746726
+    second: alternating-front-dumbbell-raise_5
+  - first:
+      213: -3166578849885235646
+    second: alternating-front-dumbbell-raise_6
+  - first:
+      213: -5293587449210532258
+    second: alternating-front-dumbbell-raise_7
+  - first:
+      213: -610384553695721332
+    second: alternating-front-dumbbell-raise_8
+  - first:
+      213: -1032704573557320215
+    second: alternating-front-dumbbell-raise_9
+  - first:
+      213: 2586461664146861611
+    second: alternating-front-dumbbell-raise_10
+  - first:
+      213: -7155105015909251649
+    second: alternating-front-dumbbell-raise_11
+  - first:
+      213: -3846551023961986040
+    second: alternating-front-dumbbell-raise_12
+  - first:
+      213: 4259182945474420389
+    second: alternating-front-dumbbell-raise_13
+  - first:
+      213: 8571368200176788804
+    second: alternating-front-dumbbell-raise_14
+  - first:
+      213: -7562959010172313413
+    second: alternating-front-dumbbell-raise_15
+  - first:
+      213: -2592721902455991236
+    second: alternating-front-dumbbell-raise_16
+  - first:
+      213: 5693592075164598723
+    second: alternating-front-dumbbell-raise_17
+  - first:
+      213: 5715037376549962965
+    second: alternating-front-dumbbell-raise_18
+  - first:
+      213: 8252594517627300359
+    second: alternating-front-dumbbell-raise_19
+  - first:
+      213: -5256280681997253012
+    second: alternating-front-dumbbell-raise_20
+  - first:
+      213: 1642723542175391065
+    second: alternating-front-dumbbell-raise_21
+  - first:
+      213: -3094614736095392508
+    second: alternating-front-dumbbell-raise_22
+  - first:
+      213: -2790324433656805736
+    second: alternating-front-dumbbell-raise_23
+  - first:
+      213: -4026191759141583028
+    second: alternating-front-dumbbell-raise_24
+  - first:
+      213: 8776627309091345347
+    second: alternating-front-dumbbell-raise_25
+  - first:
+      213: -6020221372049432849
+    second: alternating-front-dumbbell-raise_26
+  - first:
+      213: -6250007429224288385
+    second: alternating-front-dumbbell-raise_27
+  - first:
+      213: 8640646168862005344
+    second: alternating-front-dumbbell-raise_28
+  - first:
+      213: 4149797943082415463
+    second: alternating-front-dumbbell-raise_29
+  - first:
+      213: -3941244511424191310
+    second: alternating-front-dumbbell-raise_30
+  - first:
+      213: 402210926365127634
+    second: alternating-front-dumbbell-raise_31
+  - first:
+      213: 7128735818577177190
+    second: alternating-front-dumbbell-raise_32
+  - first:
+      213: 584102553135042594
+    second: alternating-front-dumbbell-raise_33
+  - first:
+      213: 2901305733863540302
+    second: alternating-front-dumbbell-raise_34
+  - first:
+      213: -6435994542102254976
+    second: alternating-front-dumbbell-raise_35
+  - first:
+      213: 3085709885245377811
+    second: alternating-front-dumbbell-raise_36
+  - first:
+      213: -5579900108578777378
+    second: alternating-front-dumbbell-raise_37
+  - first:
+      213: -661307214957923964
+    second: alternating-front-dumbbell-raise_38
+  - first:
+      213: 8076240907936697476
+    second: alternating-front-dumbbell-raise_39
+  - first:
+      213: -7986098678831985366
+    second: alternating-front-dumbbell-raise_40
+  - first:
+      213: 8963343217038589616
+    second: alternating-front-dumbbell-raise_41
+  - first:
+      213: 7056261674277019032
+    second: alternating-front-dumbbell-raise_42
+  - first:
+      213: 3314726780689703421
+    second: alternating-front-dumbbell-raise_43
+  - first:
+      213: -7200695273206038888
+    second: alternating-front-dumbbell-raise_44
+  - first:
+      213: 8650983315569802229
+    second: alternating-front-dumbbell-raise_45
+  - first:
+      213: 977810611859209862
+    second: alternating-front-dumbbell-raise_46
+  - first:
+      213: 7131936944339925203
+    second: alternating-front-dumbbell-raise_47
+  - first:
+      213: 215630355296855328
+    second: alternating-front-dumbbell-raise_48
+  - first:
+      213: -7979382715206455621
+    second: alternating-front-dumbbell-raise_49
+  - first:
+      213: 3556541334417999575
+    second: alternating-front-dumbbell-raise_50
+  - first:
+      213: 5025777536915809212
+    second: alternating-front-dumbbell-raise_51
+  - first:
+      213: -3969995777440498810
+    second: alternating-front-dumbbell-raise_52
+  - first:
+      213: 4941492614514001589
+    second: alternating-front-dumbbell-raise_53
+  - first:
+      213: -5803057234729459568
+    second: alternating-front-dumbbell-raise_54
+  - first:
+      213: 7829509476095731890
+    second: alternating-front-dumbbell-raise_55
+  - first:
+      213: -2910268453350847412
+    second: alternating-front-dumbbell-raise_56
+  - first:
+      213: 4356704983719790223
+    second: alternating-front-dumbbell-raise_57
+  - first:
+      213: -4322426551026166794
+    second: alternating-front-dumbbell-raise_58
+  - first:
+      213: -5845970962529974130
+    second: alternating-front-dumbbell-raise_59
+  - first:
+      213: 840093819198324976
+    second: alternating-front-dumbbell-raise_60
+  - first:
+      213: -7101178382544270920
+    second: alternating-front-dumbbell-raise_61
+  - first:
+      213: -2497644323861529598
+    second: alternating-front-dumbbell-raise_62
+  - first:
+      213: -9101821905668568200
+    second: alternating-front-dumbbell-raise_63
+  - first:
+      213: -8071684650415286284
+    second: alternating-front-dumbbell-raise_64
+  - first:
+      213: 2539281027541780266
+    second: alternating-front-dumbbell-raise_65
+  - first:
+      213: -3064655123017779456
+    second: alternating-front-dumbbell-raise_66
+  - first:
+      213: -4350521068920482394
+    second: alternating-front-dumbbell-raise_67
+  - first:
+      213: 157406912120844650
+    second: alternating-front-dumbbell-raise_68
+  - first:
+      213: 913423826888365941
+    second: alternating-front-dumbbell-raise_69
+  - first:
+      213: -8268354206245753750
+    second: alternating-front-dumbbell-raise_70
+  - first:
+      213: -5077212692648176546
+    second: alternating-front-dumbbell-raise_71
+  - first:
+      213: -994371533593528093
+    second: alternating-front-dumbbell-raise_72
+  - first:
+      213: -1106665267201366466
+    second: alternating-front-dumbbell-raise_73
+  - first:
+      213: 7721043935527240888
+    second: alternating-front-dumbbell-raise_74
+  - first:
+      213: -3278841423189382036
+    second: alternating-front-dumbbell-raise_75
+  - first:
+      213: -8419390810032748709
+    second: alternating-front-dumbbell-raise_76
+  - first:
+      213: 4154431515058419843
+    second: alternating-front-dumbbell-raise_77
+  - first:
+      213: -7216117487318684630
+    second: alternating-front-dumbbell-raise_78
+  - first:
+      213: -6170781943817956201
+    second: alternating-front-dumbbell-raise_79
+  - first:
+      213: 3239359116627342672
+    second: alternating-front-dumbbell-raise_80
+  - first:
+      213: -641468105343797726
+    second: alternating-front-dumbbell-raise_81
+  - first:
+      213: 65662413979419433
+    second: alternating-front-dumbbell-raise_82
+  - first:
+      213: 4611304166044826744
+    second: alternating-front-dumbbell-raise_83
+  - first:
+      213: -2366091725644938057
+    second: alternating-front-dumbbell-raise_84
+  - first:
+      213: -6229988057636372508
+    second: alternating-front-dumbbell-raise_85
+  - first:
+      213: -3482867517334790819
+    second: alternating-front-dumbbell-raise_86
+  - first:
+      213: 2215263481250590963
+    second: alternating-front-dumbbell-raise_87
+  - first:
+      213: 7173380126055460038
+    second: alternating-front-dumbbell-raise_88
+  - first:
+      213: -8174726365720226877
+    second: alternating-front-dumbbell-raise_89
+  - first:
+      213: -7422594395841157201
+    second: alternating-front-dumbbell-raise_90
+  - first:
+      213: -5999143424331992951
+    second: alternating-front-dumbbell-raise_91
+  - first:
+      213: -6412739700113938493
+    second: alternating-front-dumbbell-raise_92
+  - first:
+      213: 3008790214921015450
+    second: alternating-front-dumbbell-raise_93
+  - first:
+      213: 335336834859020161
+    second: alternating-front-dumbbell-raise_94
+  - first:
+      213: 7776390631535438242
+    second: alternating-front-dumbbell-raise_95
+  - first:
+      213: 3743424026178916228
+    second: alternating-front-dumbbell-raise_96
+  - first:
+      213: -5744047613185475186
+    second: alternating-front-dumbbell-raise_97
+  - first:
+      213: -4126588758639790949
+    second: alternating-front-dumbbell-raise_98
+  - first:
+      213: 3122347816186328962
+    second: alternating-front-dumbbell-raise_99
+  - first:
+      213: -2846569737817144243
+    second: alternating-front-dumbbell-raise_100
+  - first:
+      213: 1823317745620819306
+    second: alternating-front-dumbbell-raise_101
+  - first:
+      213: 5855793111575476117
+    second: alternating-front-dumbbell-raise_102
+  - first:
+      213: 1739275457506142226
+    second: alternating-front-dumbbell-raise_103
+  - first:
+      213: 3718080307865089650
+    second: alternating-front-dumbbell-raise_104
+  - first:
+      213: 2626283192553412523
+    second: alternating-front-dumbbell-raise_105
+  - first:
+      213: 8201366345762065640
+    second: alternating-front-dumbbell-raise_106
+  - first:
+      213: -8070205460259790367
+    second: alternating-front-dumbbell-raise_107
+  - first:
+      213: 1328768485182422778
+    second: alternating-front-dumbbell-raise_108
+  - first:
+      213: 6814816197903830575
+    second: alternating-front-dumbbell-raise_109
+  - first:
+      213: -1402619175635802456
+    second: alternating-front-dumbbell-raise_110
+  - first:
+      213: -313674627883779904
+    second: alternating-front-dumbbell-raise_111
+  - first:
+      213: -4361175460874099581
+    second: alternating-front-dumbbell-raise_112
+  - first:
+      213: -4472171823060376452
+    second: alternating-front-dumbbell-raise_113
+  - first:
+      213: 8385221384169130151
+    second: alternating-front-dumbbell-raise_114
+  - first:
+      213: 2779515881696418048
+    second: alternating-front-dumbbell-raise_115
+  - first:
+      213: -8554379567017141277
+    second: alternating-front-dumbbell-raise_116
+  - first:
+      213: -7776814287419717526
+    second: alternating-front-dumbbell-raise_117
+  - first:
+      213: 8183763650449942507
+    second: alternating-front-dumbbell-raise_118
+  - first:
+      213: 7016650528799238672
+    second: alternating-front-dumbbell-raise_119
+  - first:
+      213: -5592676958567864225
+    second: alternating-front-dumbbell-raise_120
+  - first:
+      213: -9079028157730741427
+    second: alternating-front-dumbbell-raise_121
+  - first:
+      213: 7083248174797558227
+    second: alternating-front-dumbbell-raise_122
+  - first:
+      213: -6354215889079076416
+    second: alternating-front-dumbbell-raise_123
+  - first:
+      213: -7791150999334368457
+    second: alternating-front-dumbbell-raise_124
+  - first:
+      213: -3579197381550159761
+    second: alternating-front-dumbbell-raise_125
+  - first:
+      213: -4015645102625694595
+    second: alternating-front-dumbbell-raise_126
+  - first:
+      213: 5731882836120104857
+    second: alternating-front-dumbbell-raise_127
+  - first:
+      213: -4486605450807328372
+    second: alternating-front-dumbbell-raise_128
+  - first:
+      213: -6780849050181919734
+    second: alternating-front-dumbbell-raise_129
+  - first:
+      213: -5131233081170115097
+    second: alternating-front-dumbbell-raise_130
+  - first:
+      213: -3418542853998519778
+    second: alternating-front-dumbbell-raise_131
+  - first:
+      213: 8346660754771986442
+    second: alternating-front-dumbbell-raise_132
+  - first:
+      213: 3429720992007194862
+    second: alternating-front-dumbbell-raise_133
+  - first:
+      213: -2035112457800966891
+    second: alternating-front-dumbbell-raise_134
+  - first:
+      213: -3743150884593878289
+    second: alternating-front-dumbbell-raise_135
+  - first:
+      213: 7462947497932615941
+    second: alternating-front-dumbbell-raise_136
+  - first:
+      213: 7145081249255574636
+    second: alternating-front-dumbbell-raise_137
+  - first:
+      213: -9009157920773039930
+    second: alternating-front-dumbbell-raise_138
+  - first:
+      213: -5905468644738364908
+    second: alternating-front-dumbbell-raise_139
+  - first:
+      213: -8750381027819188236
+    second: alternating-front-dumbbell-raise_140
+  - first:
+      213: -6789245640103072354
+    second: alternating-front-dumbbell-raise_141
+  - first:
+      213: 456844059110435442
+    second: alternating-front-dumbbell-raise_142
+  - first:
+      213: 1904237127298460613
+    second: alternating-front-dumbbell-raise_143
+  - first:
+      213: 3795458197219554757
+    second: alternating-front-dumbbell-raise_144
+  - first:
+      213: -8944706028536008450
+    second: alternating-front-dumbbell-raise_145
+  - first:
+      213: 8603129471639586866
+    second: alternating-front-dumbbell-raise_146
+  - first:
+      213: -7209755820092853496
+    second: alternating-front-dumbbell-raise_147
+  - first:
+      213: -7757335510944315107
+    second: alternating-front-dumbbell-raise_148
+  - first:
+      213: 5648180277801906251
+    second: alternating-front-dumbbell-raise_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b6f7db45c14b40800000000000000
+      internalID: 5422832355867277535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ec0d0eb240a1f0800000000000000
+      internalID: -1035754530265045913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2babfad89abe440800000000000000
+      internalID: 4966249440109834973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530e70ba867d6d410800000000000000
+      internalID: 1501624370320629813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d15b974551c7cdb0800000000000000
+      internalID: -4771632708158008872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64dcf382e72f410800000000000000
+      internalID: 1509407536456746726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465353305d0e04d0800000000000000
+      internalID: -3166578849885235646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0756f2466986b0800000000000000
+      internalID: -5293587449210532258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c49c7b7a7787f0800000000000000
+      internalID: -610384553695721332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d13f69a81ba1f0800000000000000
+      internalID: -1032704573557320215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ea3ac0e25f4e320800000000000000
+      internalID: 2586461664146861611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50d1cb5e5f3bc90800000000000000
+      internalID: -7155105015909251649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca45e393e4e9ac0800000000000000
+      internalID: -3846551023961986040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9762a258ab1b30800000000000000
+      internalID: 4259182945474420389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ed9a07fd93f670800000000000000
+      internalID: 8571368200176788804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0e6dbb9d8fa0790800000000000000
+      internalID: -7562959010172313413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c345cb2aa2dc40cd0800000000000000
+      internalID: -2592721902455991236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c14a2093d3b30f40800000000000000
+      internalID: 5693592075164598723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44753e634ef4f40800000000000000
+      internalID: 5715037376549962965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 518
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae28a5dfa178270800000000000000
+      internalID: 8252594517627300359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c664ec59190fd07b0800000000000000
+      internalID: -5256280681997253012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d198bab502cc610800000000000000
+      internalID: 1642723542175391065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d48522b48bd05d0800000000000000
+      internalID: -3094614736095392508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960bcb16b6c649d0800000000000000
+      internalID: -2790324433656805736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47c2ce3de71028c0800000000000000
+      internalID: -4026191759141583028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d16c7908dcc970800000000000000
+      internalID: 8776627309091345347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee57c10f80e37ca0800000000000000
+      internalID: -6020221372049432849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fa8896b538349a0800000000000000
+      internalID: -6250007429224288385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0681cd419edb9e770800000000000000
+      internalID: 8640646168862005344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f21f1e3b079930800000000000000
+      internalID: 4149797943082415463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46a9b9ff2ed49c0800000000000000
+      internalID: -3941244511424191310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d336ced4b0f49500800000000000000
+      internalID: 402210926365127634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a65e3157b5ee260800000000000000
+      internalID: 7128735818577177190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22053086d262b1800800000000000000
+      internalID: 584102553135042594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e468db37132834820800000000000000
+      internalID: 2901305733863540302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a64a53011cea6a0800000000000000
+      internalID: -6435994542102254976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d46f5bac4a2da20800000000000000
+      internalID: 3085709885245377811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69ff13a663092b0800000000000000
+      internalID: -5579900108578777378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b70d779092d6f0800000000000000
+      internalID: -661307214957923964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 444
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c8b06e052941070800000000000000
+      internalID: 8076240907936697476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc003509dab2190800000000000000
+      internalID: -7986098678831985366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0befd738a21346c70800000000000000
+      internalID: 8963343217038589616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1c796b90ece160800000000000000
+      internalID: 7056261674277019032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1eb72e176400e20800000000000000
+      internalID: 3314726780689703421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e38b8cccdf11c90800000000000000
+      internalID: -7200695273206038888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb7e5a9d777e0870800000000000000
+      internalID: 8650983315569802229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb9712291e19d00800000000000000
+      internalID: 977810611859209862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8bddf3ddab9f260800000000000000
+      internalID: 7131936944339925203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025a24a6aa21ef200800000000000000
+      internalID: 215630355296855328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2a3572b9834190800000000000000
+      internalID: -7979382715206455621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d68af2108f5b5130800000000000000
+      internalID: 3556541334417999575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32108ca062fb540800000000000000
+      internalID: 5025777536915809212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bbbd5dfddb7e8c0800000000000000
+      internalID: -3969995777440498810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6c25c0a55b39440800000000000000
+      internalID: 4941492614514001589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a0b0e036677fa0800000000000000
+      internalID: -5803057234729459568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_55
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ad30d26108ac60800000000000000
+      internalID: 7829509476095731890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c4ffcc246ac97d0800000000000000
+      internalID: -2910268453350847412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86cac19910267c30800000000000000
+      internalID: 4356704983719790223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35e5af3f7a304c0800000000000000
+      internalID: -4322426551026166794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_59
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 370
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8807230260fedea0800000000000000
+      internalID: -5845970962529974130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04157a0ec98ab00800000000000000
+      internalID: 840093819198324976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b904cd72eb837d90800000000000000
+      internalID: -7101178382544270920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c76f478b5965dd0800000000000000
+      internalID: -2497644323861529598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b81c74335dfa180800000000000000
+      internalID: -9101821905668568200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71609739d9bff80800000000000000
+      internalID: -8071684650415286284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27448f04a65d3320800000000000000
+      internalID: 2539281027541780266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b17127682875d0800000000000000
+      internalID: -3064655123017779456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5542b4328df93c0800000000000000
+      internalID: -4350521068920482394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61772aa0c83f2200800000000000000
+      internalID: 157406912120844650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5771f0b81222dac00800000000000000
+      internalID: 913423826888365941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6d9338a7e04d80800000000000000
+      internalID: -8268354206245753750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d99dc4fd1a89b0800000000000000
+      internalID: -5077212692648176546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b56dcb584332f0800000000000000
+      internalID: -994371533593528093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3623378dc554a0f0800000000000000
+      internalID: -1106665267201366466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b409403d88a62b60800000000000000
+      internalID: 7721043935527240888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce5fff8173f72d0800000000000000
+      internalID: -3278841423189382036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574fc68aa0582b80800000000000000
+      internalID: -8419390810032748709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388bebaa37187a930800000000000000
+      internalID: 4154431515058419843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca2eeb0633bdb90800000000000000
+      internalID: -7216117487318684630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 296
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794165c248afc5aa0800000000000000
+      internalID: -6170781943817956201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055fe7624f384fc20800000000000000
+      internalID: 3239359116627342672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267d36282c0917f0800000000000000
+      internalID: -641468105343797726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923865c1e9749e000800000000000000
+      internalID: 65662413979419433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c716015b4aeff30800000000000000
+      internalID: 4611304166044826744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b441f29c14f92fd0800000000000000
+      internalID: -2366091725644938057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef78a59ed2aa89a0800000000000000
+      internalID: -6229988057636372508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d538d227e5aafc0800000000000000
+      internalID: -3482867517334790819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f036d336623ebe10800000000000000
+      internalID: 2215263481250590963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cce16ce737fc8360800000000000000
+      internalID: 7173380126055460038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d9339ea98d8e80800000000000000
+      internalID: -8174726365720226877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7251c39b5adf890800000000000000
+      internalID: -7422594395841157201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_91
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980321427d2cebca0800000000000000
+      internalID: -5999143424331992951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e9a9083f5107a0800000000000000
+      internalID: -6412739700113938493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90d90c52ce51c920800000000000000
+      internalID: 3008790214921015450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f20e9131b57a400800000000000000
+      internalID: 335336834859020161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_95
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9685b041a4beb60800000000000000
+      internalID: 7776390631535438242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8e0c715053f330800000000000000
+      internalID: 3743424026178916228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d362b012b0940b0800000000000000
+      internalID: -5744047613185475186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b72b33696bb6c0800000000000000
+      internalID: -4126588758639790949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 222
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b001cbcec45b20800000000000000
+      internalID: 3122347816186328962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44480db7e3fe78d0800000000000000
+      internalID: -2846569737817144243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d156c44d9bd4910800000000000000
+      internalID: 1823317745620819306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b2a54fc4f34150800000000000000
+      internalID: 5855793111575476117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218653340d5232810800000000000000
+      internalID: 1739275457506142226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767cac3756499330800000000000000
+      internalID: 3718080307865089650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba799b326ae627420800000000000000
+      internalID: 2626283192553412523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eccdff1d3b11d170800000000000000
+      internalID: 8201366345762065640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12cc444eed00090800000000000000
+      internalID: -8070205460259790367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe380ca5ebb07210800000000000000
+      internalID: 1328768485182422778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec2adb937139e50800000000000000
+      internalID: 6814816197903830575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a3198a45e88ce0800000000000000
+      internalID: -1402619175635802456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_111
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83fed769a95abf0800000000000000
+      internalID: -313674627883779904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e27b560ef973c0800000000000000
+      internalID: -4361175460874099581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_113
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a9f7eb67afe1c0800000000000000
+      internalID: -4472171823060376452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8096e0c6a4e5470800000000000000
+      internalID: 8385221384169130151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_115
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095218c7f2d29620800000000000000
+      internalID: 2779515881696418048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb551a5b1db84980800000000000000
+      internalID: -8554379567017141277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_117
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684a22eb94331490800000000000000
+      internalID: -7776814287419717526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a2de3ea1929170800000000000000
+      internalID: 8183763650449942507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_119
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 148
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa22aea76206160800000000000000
+      internalID: 7016650528799238672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ec0dffe1d262b0800000000000000
+      internalID: -5592676958567864225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a0b84effc00280800000000000000
+      internalID: -9079028157730741427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d11eb2bfa0cc4260800000000000000
+      internalID: 7083248174797558227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97c41a05a41d7a0800000000000000
+      internalID: -6354215889079076416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bce35027540e390800000000000000
+      internalID: -7791150999334368457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c1b3e1f2245ec0800000000000000
+      internalID: -3579197381550159761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c55f11e009548c0800000000000000
+      internalID: -4015645102625694595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe815121dbb8f40800000000000000
+      internalID: 5731882836120104857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814c411d106cb1c0800000000000000
+      internalID: -4486605450807328372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9c5027b595e1a0800000000000000
+      internalID: -6780849050181919734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54f19f2b23ac8b0800000000000000
+      internalID: -5131233081170115097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad7f1f265ee80d0800000000000000
+      internalID: -3418542853998519778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c0e4ebbb45d370800000000000000
+      internalID: 8346660754771986442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_133
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80a4f1211d89f20800000000000000
+      internalID: 3429720992007194862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_134
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1dca8004d1c3e0800000000000000
+      internalID: -2035112457800966891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab71f3a18ad0cc0800000000000000
+      internalID: -3743150884593878289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f9af7537b19760800000000000000
+      internalID: 7462947497932615941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cce293a8d682360800000000000000
+      internalID: 7145081249255574636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81de68a9a09f280800000000000000
+      internalID: -9009157920773039930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_139
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 74
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a892e5e8f8b0ea0800000000000000
+      internalID: -5905468644738364908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff058311d6609680800000000000000
+      internalID: -8750381027819188236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d69c0bf01c7c1a0800000000000000
+      internalID: -6789245640103072354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a66055049075600800000000000000
+      internalID: 456844059110435442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2cb404953d6a10800000000000000
+      internalID: 1904237127298460613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5bd150f1d2ca430800000000000000
+      internalID: 3795458197219554757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f0d412450ed380800000000000000
+      internalID: -8944706028536008450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23885c15ca4746770800000000000000
+      internalID: 8603129471639586866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037f02d74dc1fb90800000000000000
+      internalID: -7209755820092853496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1904a2f378685490800000000000000
+      internalID: -7757335510944315107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternating-front-dumbbell-raise_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ffbd890e526e40800000000000000
+      internalID: 5648180277801906251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

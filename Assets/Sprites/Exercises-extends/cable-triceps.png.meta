@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 5636014ed88ff2044bb7370e9c69443c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7962309205709820757
+    second: cable-triceps_0
+  - first:
+      213: -4456549538270150670
+    second: cable-triceps_1
+  - first:
+      213: 6899145368145391046
+    second: cable-triceps_2
+  - first:
+      213: -1085630511273706426
+    second: cable-triceps_3
+  - first:
+      213: 3799279977499797526
+    second: cable-triceps_4
+  - first:
+      213: 7455718854212674981
+    second: cable-triceps_5
+  - first:
+      213: 8951098037100260181
+    second: cable-triceps_6
+  - first:
+      213: -1161310624431140281
+    second: cable-triceps_7
+  - first:
+      213: -2337201870921473856
+    second: cable-triceps_8
+  - first:
+      213: 6116767444431670216
+    second: cable-triceps_9
+  - first:
+      213: -5587470262834667601
+    second: cable-triceps_10
+  - first:
+      213: 6593355107179893955
+    second: cable-triceps_11
+  - first:
+      213: -2705870642613544656
+    second: cable-triceps_12
+  - first:
+      213: -2920853687573174843
+    second: cable-triceps_13
+  - first:
+      213: -7383953121255976903
+    second: cable-triceps_14
+  - first:
+      213: 3226953104675916717
+    second: cable-triceps_15
+  - first:
+      213: -1158484587159698231
+    second: cable-triceps_16
+  - first:
+      213: 4071995206229854914
+    second: cable-triceps_17
+  - first:
+      213: -7256688360843839344
+    second: cable-triceps_18
+  - first:
+      213: -2463938813889618008
+    second: cable-triceps_19
+  - first:
+      213: -5586624996246083144
+    second: cable-triceps_20
+  - first:
+      213: 618324349345550473
+    second: cable-triceps_21
+  - first:
+      213: -778681077131773257
+    second: cable-triceps_22
+  - first:
+      213: -4972610937591258488
+    second: cable-triceps_23
+  - first:
+      213: -8108748606643856365
+    second: cable-triceps_24
+  - first:
+      213: -1602114610630040785
+    second: cable-triceps_25
+  - first:
+      213: 5886073275195323898
+    second: cable-triceps_26
+  - first:
+      213: -3370021704179044419
+    second: cable-triceps_27
+  - first:
+      213: 343089863055259301
+    second: cable-triceps_28
+  - first:
+      213: 9045177894294834554
+    second: cable-triceps_29
+  - first:
+      213: 852319340401452137
+    second: cable-triceps_30
+  - first:
+      213: -2940400988584339659
+    second: cable-triceps_31
+  - first:
+      213: 1688587423338595296
+    second: cable-triceps_32
+  - first:
+      213: 1057056505720937427
+    second: cable-triceps_33
+  - first:
+      213: 4871449051759863514
+    second: cable-triceps_34
+  - first:
+      213: -500596044693681142
+    second: cable-triceps_35
+  - first:
+      213: 2709516462285141989
+    second: cable-triceps_36
+  - first:
+      213: -9200356702578161524
+    second: cable-triceps_37
+  - first:
+      213: 5712917120909836873
+    second: cable-triceps_38
+  - first:
+      213: 1635266555809608438
+    second: cable-triceps_39
+  - first:
+      213: 1614771070884738081
+    second: cable-triceps_40
+  - first:
+      213: 2344464956416769433
+    second: cable-triceps_41
+  - first:
+      213: -6970735389638658376
+    second: cable-triceps_42
+  - first:
+      213: -861836096557057271
+    second: cable-triceps_43
+  - first:
+      213: 2558109556032320480
+    second: cable-triceps_44
+  - first:
+      213: 593178133397086847
+    second: cable-triceps_45
+  - first:
+      213: 4526475564920205104
+    second: cable-triceps_46
+  - first:
+      213: 84630060741364367
+    second: cable-triceps_47
+  - first:
+      213: -3557723621174147309
+    second: cable-triceps_48
+  - first:
+      213: 903875822107912162
+    second: cable-triceps_49
+  - first:
+      213: -4499329296229204990
+    second: cable-triceps_50
+  - first:
+      213: 8727639251765248473
+    second: cable-triceps_51
+  - first:
+      213: -7017174370836822415
+    second: cable-triceps_52
+  - first:
+      213: 6063136595171202027
+    second: cable-triceps_53
+  - first:
+      213: -6774713208075427430
+    second: cable-triceps_54
+  - first:
+      213: 909968931564402283
+    second: cable-triceps_55
+  - first:
+      213: 6585642490067374969
+    second: cable-triceps_56
+  - first:
+      213: -6755515198856400971
+    second: cable-triceps_57
+  - first:
+      213: 4903003769356339561
+    second: cable-triceps_58
+  - first:
+      213: -4747677612740242731
+    second: cable-triceps_59
+  - first:
+      213: 2024405976373899016
+    second: cable-triceps_60
+  - first:
+      213: -9181785018554958043
+    second: cable-triceps_61
+  - first:
+      213: -3911953166510817707
+    second: cable-triceps_62
+  - first:
+      213: -8017858573032717816
+    second: cable-triceps_63
+  - first:
+      213: 1044458246476712244
+    second: cable-triceps_64
+  - first:
+      213: -3695148398388731536
+    second: cable-triceps_65
+  - first:
+      213: 7660247997824741651
+    second: cable-triceps_66
+  - first:
+      213: 7759635737259955285
+    second: cable-triceps_67
+  - first:
+      213: -3565928478234013777
+    second: cable-triceps_68
+  - first:
+      213: -8526567397979619534
+    second: cable-triceps_69
+  - first:
+      213: -827350342926391811
+    second: cable-triceps_70
+  - first:
+      213: -7202081765742544194
+    second: cable-triceps_71
+  - first:
+      213: -7869099037341380236
+    second: cable-triceps_72
+  - first:
+      213: 6327866517185431955
+    second: cable-triceps_73
+  - first:
+      213: -5150373421032056170
+    second: cable-triceps_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cable-triceps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace7d9a6f1308190800000000000000
+      internalID: -7962309205709820757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff9778ec72722c0800000000000000
+      internalID: -4456549538270150670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd661ab820bebf50800000000000000
+      internalID: 6899145368145391046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c743a4dc01fe0f0800000000000000
+      internalID: -1085630511273706426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61821259201c9b430800000000000000
+      internalID: 3799279977499797526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5678abbc8087760800000000000000
+      internalID: 7455718854212674981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bae036d30b83c70800000000000000
+      internalID: 8951098037100260181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74215e4d32232efe0800000000000000
+      internalID: -1161310624431140281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e85b0847909fd0800000000000000
+      internalID: -2337201870921473856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 602
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb060b259f13e450800000000000000
+      internalID: 6116767444431670216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5eae46615572b0800000000000000
+      internalID: -5587470262834667601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41771798d408b50800000000000000
+      internalID: 6593355107179893955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399cd2acf0d27ad0800000000000000
+      internalID: -2705870642613544656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5af47eb0b0777d0800000000000000
+      internalID: -2920853687573174843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930966112cde68990800000000000000
+      internalID: -7383953121255976903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4d0760c078cc20800000000000000
+      internalID: 3226953104675916717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c498e76c3cefe0800000000000000
+      internalID: -1158484587159698231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca8c62d012a28830800000000000000
+      internalID: 4071995206229854914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f03622601b4b90800000000000000
+      internalID: -7256688360843839344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 516
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afdfc904b45ecdd0800000000000000
+      internalID: -2463938813889618008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92f654a225872b0800000000000000
+      internalID: -5586624996246083144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98057be38bab49800800000000000000
+      internalID: 618324349345550473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bafd3c9fa19135f0800000000000000
+      internalID: -778681077131773257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a6a2c2bcbdfab0800000000000000
+      internalID: -4972610937591258488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c9c00ba10f77f80800000000000000
+      internalID: -8108748606643856365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23eeefff3524c9e0800000000000000
+      internalID: -1602114610630040785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ffe145788fa150800000000000000
+      internalID: 5886073275195323898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2d0d7d174b31d0800000000000000
+      internalID: -3370021704179044419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63275a966e2c400800000000000000
+      internalID: 343089863055259301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 430
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc8a71f5de68d70800000000000000
+      internalID: 9045177894294834554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964e2df9ceb04db00800000000000000
+      internalID: 852319340401452137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537193a31e89137d0800000000000000
+      internalID: -2940400988584339659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30a44a0511f6710800000000000000
+      internalID: 1688587423338595296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db130b9a4b6bae00800000000000000
+      internalID: 1057056505720937427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66f8f3a1dda9340800000000000000
+      internalID: 4871449051759863514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c4114bc868d09f0800000000000000
+      internalID: -500596044693681142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e73497edd22a9520800000000000000
+      internalID: 2709516462285141989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c1f71354c15080800000000000000
+      internalID: -9200356702578161524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94204176adb584f40800000000000000
+      internalID: 5712917120909836873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 344
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2bb1cb442a1b610800000000000000
+      internalID: 1635266555809608438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12479a9cbb1d86610800000000000000
+      internalID: 1614771070884738081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db293d476398020800000000000000
+      internalID: 2344464956416769433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f75d7819f24f90800000000000000
+      internalID: -6970735389638658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b7b1ae2a42a04f0800000000000000
+      internalID: -861836096557057271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b6d7761b308320800000000000000
+      internalID: 2558109556032320480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72a9a99e546b3800800000000000000
+      internalID: 593178133397086847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fed834b8541de30800000000000000
+      internalID: 4526475564920205104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a0fc3879aac2100800000000000000
+      internalID: 84630060741364367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31706e6573d60aec0800000000000000
+      internalID: -3557723621174147309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 258
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e76ec175463b8c00800000000000000
+      internalID: 903875822107912162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cffb2f7db2f81c0800000000000000
+      internalID: -4499329296229204990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1493198adce1970800000000000000
+      internalID: 8727639251765248473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176cb4b961dfd9e90800000000000000
+      internalID: -7017174370836822415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d9d30c96942450800000000000000
+      internalID: 6063136595171202027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9164813b326bf1a0800000000000000
+      internalID: -6774713208075427430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b98a0cebd0ac00800000000000000
+      internalID: 909968931564402283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735f26d3f6e46b50800000000000000
+      internalID: 6585642490067374969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf696908b69f32a0800000000000000
+      internalID: -6755515198856400971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c2e473f7fa0440800000000000000
+      internalID: 4903003769356339561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 172
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21b809d5cdc1eb0800000000000000
+      internalID: -4747677612740242731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa1fe7282281c10800000000000000
+      internalID: 2024405976373899016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f370d3c2fb39080800000000000000
+      internalID: -9181785018554958043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e782c4253f5b9c0800000000000000
+      internalID: -3911953166510817707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028017bb18dab090800000000000000
+      internalID: -8017858573032717816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c8fbcd39ae7e00800000000000000
+      internalID: 1044458246476712244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071afa10c1238bcc0800000000000000
+      internalID: -3695148398388731536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bdb1e7faae4a60800000000000000
+      internalID: 7660247997824741651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5545ec93793cfab60800000000000000
+      internalID: 7759635737259955285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf896031f6438ec0800000000000000
+      internalID: -3565928478234013777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 86
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7ff1902c8ba980800000000000000
+      internalID: -8526567397979619534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df523112f39a484f0800000000000000
+      internalID: -827350342926391811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf895dac01d0c90800000000000000
+      internalID: -7202081765742544194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47116e82e185bc290800000000000000
+      internalID: -7869099037341380236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990de6221911d750800000000000000
+      internalID: 6327866517185431955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cable-triceps_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a55c259a23688b0800000000000000
+      internalID: -5150373421032056170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

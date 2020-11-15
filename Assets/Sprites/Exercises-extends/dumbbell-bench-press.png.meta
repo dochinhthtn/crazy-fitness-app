@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: cedfe0113e1e93a47a476be2289f6eca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3165965264361880368
+    second: dumbbell-bench-press_0
+  - first:
+      213: -6841902481211633795
+    second: dumbbell-bench-press_1
+  - first:
+      213: -2405641630182739175
+    second: dumbbell-bench-press_2
+  - first:
+      213: -645177612873624621
+    second: dumbbell-bench-press_3
+  - first:
+      213: -602274203493502533
+    second: dumbbell-bench-press_4
+  - first:
+      213: -5830844436072128248
+    second: dumbbell-bench-press_5
+  - first:
+      213: 7400680950299255404
+    second: dumbbell-bench-press_6
+  - first:
+      213: -7171261895028937653
+    second: dumbbell-bench-press_7
+  - first:
+      213: -304154483737128106
+    second: dumbbell-bench-press_8
+  - first:
+      213: -3433488234569377241
+    second: dumbbell-bench-press_9
+  - first:
+      213: 2093380607223798572
+    second: dumbbell-bench-press_10
+  - first:
+      213: -5812567134973057699
+    second: dumbbell-bench-press_11
+  - first:
+      213: -300958663566321241
+    second: dumbbell-bench-press_12
+  - first:
+      213: 2324369427271600306
+    second: dumbbell-bench-press_13
+  - first:
+      213: -1125453808987714852
+    second: dumbbell-bench-press_14
+  - first:
+      213: -6811314651182943972
+    second: dumbbell-bench-press_15
+  - first:
+      213: 1267959204427234686
+    second: dumbbell-bench-press_16
+  - first:
+      213: -1669686717664089454
+    second: dumbbell-bench-press_17
+  - first:
+      213: 7099214804573540375
+    second: dumbbell-bench-press_18
+  - first:
+      213: 7481270976762810439
+    second: dumbbell-bench-press_19
+  - first:
+      213: -7900735444895365278
+    second: dumbbell-bench-press_20
+  - first:
+      213: 4433280019171326358
+    second: dumbbell-bench-press_21
+  - first:
+      213: -7463566489587061346
+    second: dumbbell-bench-press_22
+  - first:
+      213: -5496691250667343914
+    second: dumbbell-bench-press_23
+  - first:
+      213: 2293205326724680576
+    second: dumbbell-bench-press_24
+  - first:
+      213: -5454973070754564280
+    second: dumbbell-bench-press_25
+  - first:
+      213: -5076596512257518525
+    second: dumbbell-bench-press_26
+  - first:
+      213: 4401854270770109473
+    second: dumbbell-bench-press_27
+  - first:
+      213: 2306054889345010236
+    second: dumbbell-bench-press_28
+  - first:
+      213: -7843668099741665777
+    second: dumbbell-bench-press_29
+  - first:
+      213: -9124994660938593646
+    second: dumbbell-bench-press_30
+  - first:
+      213: -3355707477698755638
+    second: dumbbell-bench-press_31
+  - first:
+      213: -5246561681485716402
+    second: dumbbell-bench-press_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dumbbell-bench-press_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40c76bd5b3014d0800000000000000
+      internalID: -3165965264361880368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f448b71fdac01a0800000000000000
+      internalID: -6841902481211633795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f018dea17d9ed0800000000000000
+      internalID: -2405641630182739175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d312af116edb07f0800000000000000
+      internalID: -645177612873624621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1736b8dca44a7f0800000000000000
+      internalID: -602274203493502533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ab57e0eda41fa0800000000000000
+      internalID: -5830844436072128248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6266922d1084b660800000000000000
+      internalID: 7400680950299255404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c618b2d4f8a7c90800000000000000
+      internalID: -7171261895028937653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6539108cb1d67cbf0800000000000000
+      internalID: -304154483737128106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 237
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a520e54acc950d0800000000000000
+      internalID: -3433488234569377241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1441329e2d0d10800000000000000
+      internalID: 2093380607223798572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5522deacfc955fa0800000000000000
+      internalID: -5812567134973057699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a99d06a0b7c2dbf0800000000000000
+      internalID: -300958663566321241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b84d47dda1d14020800000000000000
+      internalID: 2324369427271600306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda4d2049b59160f0800000000000000
+      internalID: -1125453808987714852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b3d2a9695971a0800000000000000
+      internalID: -6811314651182943972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d7291bd22b89110800000000000000
+      internalID: 1267959204427234686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa173d6c414d8e0800000000000000
+      internalID: -1669686717664089454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710dcc2604a758260800000000000000
+      internalID: 7099214804573540375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 158
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740136ed050d2d760800000000000000
+      internalID: 7481270976762810439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2678ca609f2fa5290800000000000000
+      internalID: -7900735444895365278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6993b8c50bc268d30800000000000000
+      internalID: 4433280019171326358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d67a642d51c6890800000000000000
+      internalID: -7463566489587061346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa9f32e64d7b3b0800000000000000
+      internalID: -5496691250667343914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b4570481a13df10800000000000000
+      internalID: 2293205326724680576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8473a52d4ea0c44b0800000000000000
+      internalID: -5454973070754564280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34457ea7e5e4c89b0800000000000000
+      internalID: -5076596512257518525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cd9422327861d30800000000000000
+      internalID: 4401854270770109473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a46ff24b0c00020800000000000000
+      internalID: 2306054889345010236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 79
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b5dabb61b52390800000000000000
+      internalID: -7843668099741665777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4b61c3b18d5180800000000000000
+      internalID: -9124994660938593646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c4ad04d12e61d0800000000000000
+      internalID: -3355707477698755638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumbbell-bench-press_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e442edab2f77037b0800000000000000
+      internalID: -5246561681485716402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
