@@ -1,10 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System;
 using UnityEngine;
-using Controller.ComponentControllers;
+using UnityEngine.Events;
+
 public class TestScript : MonoBehaviour {
     // Start is called before the first frame update
+    public UnityEvent myEvent;
     void Start () {
+        myEvent.Invoke();
     }
 
 }

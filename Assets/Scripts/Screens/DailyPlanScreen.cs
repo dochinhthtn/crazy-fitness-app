@@ -50,18 +50,19 @@ namespace Screens {
             }
         }
 
-        public void LoadPlans (PlanListController planList, string url, int page = 1) {
-            planList.ShowLoadingPanel ();
+        public void LoadPlans (PlanListController list, string url, int page = 1) {
+            list.ShowLoadingPanel ();
             RestClient.Get<Result<List<Plan>>> (Config.api + url + "?page=" + page.ToString ()).Then ((result) => {
+                Debug.Log(result.data.ToString());
                 if (page > 1) {
-                    List<Plan> data = planList.GetData ();
+                    List<Plan> data = list.GetData ();
                     data.AddRange (result.data);
-                    planList.SetData (data);
+                    list.SetData (data);
                 } else {
-                    planList.SetData (result.data);
+                    list.SetData (result.data);
                 }
             }).Catch ((error) => {
-                planList.ShowErrorPanel ();
+                list.ShowErrorPanel ();
             });
         }
 
@@ -71,7 +72,7 @@ namespace Screens {
 
         public void RenderRecommendedPlanList () {
             LoadPlans (this.recommendedPlanList, "/plan", currentRecommendedPlanPage++);
+            Debug.Log("Render recommended plans");
         }
-
     }
 }

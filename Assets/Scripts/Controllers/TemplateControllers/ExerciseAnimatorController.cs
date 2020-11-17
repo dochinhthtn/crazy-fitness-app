@@ -50,14 +50,15 @@ namespace Controller.TemplateControllers {
                 audioSource.PlayOneShot (audioClips[0]);
             }
 
+            string state = "BaseLayer." + StringUtils.Slugify (exercise.name);
             animator.fireEvents = false;
-            animator.Play ("BaseLayer." + StringUtils.Slugify (exercise.name), 0);
+            animator.Play (state, 0);
 
             image.color = new Color32 (200, 200, 200, 200);
             yield return new WaitForSeconds (5.616f);
 
             animator.fireEvents = true;
-            animator.Play ("BaseLayer." + StringUtils.Slugify (exercise.name), 0);
+            animator.Play (state, 0);
 
             image.color = new Color32 (255, 255, 255, 255);;
         }

@@ -1695,10 +1695,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemTemplate: {fileID: 4531187788711065868, guid: 0b9905acc9fcc574d9cfbfb6983fdf21,
     type: 3}
-  list: {fileID: 0}
-  loadingPanel: {fileID: 0}
-  errorPanel: {fileID: 0}
-  controlButtons: {fileID: 0}
+  list: {fileID: 1628773414}
+  loadingPanel: {fileID: 1628773413}
+  errorPanel: {fileID: 1628773412}
+  controlButtons: {fileID: 1628773411}
+--- !u!1 &1628773411 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1240053718764214172, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 1628773408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1628773412 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6073358735330767292, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 1628773408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1628773413 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2947051771248009517, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 1628773408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1628773414 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5173930662839325709, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 1628773408}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1629369490
 GameObject:
   m_ObjectHideFlags: 0

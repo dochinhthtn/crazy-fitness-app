@@ -16,16 +16,17 @@ namespace Controller.ListControllers {
         protected GameObject errorPanel;
         protected GameObject controlButtons;
 
+        // data loader
+        [SerializeField] string url;
+        [SerializeField] int currentPage;
+        
+
         protected void Awake () {
-            list = transform.Find("List").gameObject;
-            loadingPanel = transform.Find("LoadingPanel").gameObject;
-            errorPanel = transform.Find("ErrorPanel").gameObject;
-            controlButtons = transform.Find("ControlButtons").gameObject;
+            this.list = transform.Find ("List").gameObject;
+            this.loadingPanel = transform.Find ("LoadingPanel").gameObject;
+            this.errorPanel = transform.Find ("ErrorPanel").gameObject;
+            controlButtons = transform.Find ("ControlButtons").gameObject;
 
-
-        }
-
-        protected void Start() {
             RectTransform listRect = list.GetComponent<RectTransform> ();
             GridLayoutGroup listLayoutGroup = list.GetComponent<GridLayoutGroup> ();
             LayoutElement listLayoutElement = list.GetComponent<LayoutElement> ();
@@ -36,7 +37,8 @@ namespace Controller.ListControllers {
             float y = 20f;
             listLayoutGroup.spacing = new Vector2 (x, y);
 
-            Render (); 
+            Render();
+
         }
 
         public void Render () {
@@ -63,13 +65,18 @@ namespace Controller.ListControllers {
             Render ();
         }
 
-        public List<M> GetData() {
+        public List<M> GetData () {
             return this.data;
         }
 
         public void ShowLoadingPanel () {
-            errorPanel.SetActive (false);
-            loadingPanel.SetActive (true);
+            try {
+                errorPanel.SetActive (false);
+                loadingPanel.SetActive (true);
+
+            } catch (System.Exception) {
+                //
+            }
         }
 
         public void HideLoadingPanel () {
@@ -77,7 +84,7 @@ namespace Controller.ListControllers {
         }
 
         public void ShowErrorPanel () {
-            HideLoadingPanel();
+            HideLoadingPanel ();
             errorPanel.SetActive (true);
         }
 
@@ -87,60 +94,3 @@ namespace Controller.ListControllers {
 
     }
 }
-
-// protected Transform loadingPanel;
-// protected RectTransform listRect;
-// protected GridLayoutGroup listLayout;
-// protected LayoutElement layoutElement;
-
-// protected void Start () {
-//     loadingPanel = transform.Find ("LoadingPanel");
-
-//     listRect = GetComponent<RectTransform> ();
-//     listLayout = GetComponent<GridLayoutGroup> ();
-
-//     layoutElement = GetComponent<LayoutElement> ();
-
-//     listLayout.cellSize = new Vector2 (itemTemplate.rect.width, itemTemplate.rect.height);
-
-//     int fixedCount = listLayout.constraintCount;
-//     float x = (fixedCount == 1) ? 0 :  (layoutElement.minWidth - fixedCount * itemTemplate.rect.width) / (fixedCount - 1);
-//     float y = 20f;
-//     listLayout.spacing = new Vector2 (x, y);
-
-//     Render ();
-// }
-
-// public void Render () {
-//     if (data == null) return;
-//     ClearAllItems();
-//     HideLoadingPanel ();
-//     foreach (var itemData in data) {
-//         RectTransform item = Instantiate<RectTransform> (itemTemplate);
-//         item.SetParent (listRect, false);
-//         C componentController = item.GetComponent<C> ();
-//         componentController.SetData (itemData);
-//     }
-// }
-
-// public void SetData (List<M> data) {
-//     this.data = data;
-//     Render ();
-// }
-
-// public void ShowLoadingPanel () {
-//     ClearAllItems();
-//     if (loadingPanel != null) loadingPanel.gameObject.SetActive (true);
-// }
-
-// public void HideLoadingPanel () {
-//     if (loadingPanel != null) loadingPanel.gameObject.SetActive (false);
-// }
-
-// public void ClearAllItems () {
-//     foreach (Transform item in transform) {
-//         if (item.name != "LoadingPanel") {
-//             Destroy (item.gameObject);
-//         }
-//     }
-// }

@@ -203,6 +203,36 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3157922916801990955, guid: b86e570218c3ff84b98c0a5579c73e95,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3157922916801990955, guid: b86e570218c3ff84b98c0a5579c73e95,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3157922916801990955, guid: b86e570218c3ff84b98c0a5579c73e95,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3157922916801990955, guid: b86e570218c3ff84b98c0a5579c73e95,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 201139386}
+    - target: {fileID: 3157922916801990955, guid: b86e570218c3ff84b98c0a5579c73e95,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RenderPlanList
+      objectReference: {fileID: 0}
+    - target: {fileID: 3157922916801990955, guid: b86e570218c3ff84b98c0a5579c73e95,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3302195512247537836, guid: b86e570218c3ff84b98c0a5579c73e95,
         type: 3}
       propertyPath: m_Name
@@ -385,6 +415,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemTemplate: {fileID: 1141411899674807483, guid: 0a8ed3678875e8b40a17e87fd8843876,
     type: 3}
+  url: 
+  currentPage: 0
 --- !u!1001 &327596467
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1892,6 +1924,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemTemplate: {fileID: 1141411899674807483, guid: 0a8ed3678875e8b40a17e87fd8843876,
     type: 3}
+  url: 
+  currentPage: 0
 --- !u!1001 &1720455722
 PrefabInstance:
   m_ObjectHideFlags: 0

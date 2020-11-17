@@ -1637,10 +1637,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemTemplate: {fileID: 2687018609853590915, guid: 7ce8f93805cc13a42bbed227afe02e38,
     type: 3}
-  list: {fileID: 0}
-  loadingPanel: {fileID: 0}
-  errorPanel: {fileID: 0}
-  controlButtons: {fileID: 0}
+  list: {fileID: 2022197404}
+  loadingPanel: {fileID: 2022197403}
+  errorPanel: {fileID: 2022197402}
+  controlButtons: {fileID: 2022197401}
 --- !u!1 &1645558617
 GameObject:
   m_ObjectHideFlags: 0
@@ -2432,6 +2432,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b86e570218c3ff84b98c0a5579c73e95, type: 3}
+--- !u!1 &2022197401 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1240053718764214172, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 2022197400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2022197402 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6073358735330767292, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 2022197400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2022197403 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2947051771248009517, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 2022197400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2022197404 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5173930662839325709, guid: b86e570218c3ff84b98c0a5579c73e95,
+    type: 3}
+  m_PrefabInstance: {fileID: 2022197400}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2079698074
 GameObject:
   m_ObjectHideFlags: 0
