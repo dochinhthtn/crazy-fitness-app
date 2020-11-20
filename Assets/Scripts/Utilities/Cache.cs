@@ -1,6 +1,15 @@
 using UnityEngine;
 public class Cache {
     public delegate object DefaultValue();
+
+    public static bool HasKey(string key) {
+        return PlayerPrefs.HasKey(key);
+    }
+
+    public static void RemoveItem(string key) {
+        PlayerPrefs.DeleteKey(key);
+    }
+
     public static T GetItem<T>(string key) {
         string value = PlayerPrefs.GetString(key);
         return JsonUtility.FromJson<T>(value);

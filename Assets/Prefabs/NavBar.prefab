@@ -473,13 +473,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 7110935450087261279}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8641d76cc2ffba489c09548d2ca74ee, type: 3}
+  m_Script: {fileID: 11500000, guid: 55777ad0c3e730c4cb46010de745308d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  homeNav: {fileID: 7110935450438002985}
-  planNav: {fileID: 7110935450762457391}
-  challengeNav: {fileID: 7110935450501320612}
-  tutorialNav: {fileID: 7110935450378303713}
 --- !u!114 &5752043897706006077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -699,7 +695,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7110935450378303714}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7110935450838753662}
+        m_MethodName: NavigateTo
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: TutorialScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &7110935450438002991
 GameObject:
   m_ObjectHideFlags: 0
@@ -819,7 +826,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7110935450438002986}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7110935450838753662}
+        m_MethodName: NavigateTo
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: HomeScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &7110935450487469329
 GameObject:
   m_ObjectHideFlags: 0
@@ -1014,7 +1032,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7110935450501320613}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7110935450838753662}
+        m_MethodName: NavigateTo
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: ChallengeScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &7110935450762457389
 GameObject:
   m_ObjectHideFlags: 0
@@ -1134,7 +1163,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7110935450762457384}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7110935450838753662}
+        m_MethodName: NavigateTo
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: DailyPlanScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &7110935450774492978
 GameObject:
   m_ObjectHideFlags: 0

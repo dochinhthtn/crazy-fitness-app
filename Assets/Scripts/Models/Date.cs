@@ -5,6 +5,6 @@ namespace Models {
         public int order;
         public Workout workout;
         public Meal meal;
-        public bool isCompleted = false;
+        public bool is_completed = false;
     }
 }

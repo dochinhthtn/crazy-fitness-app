@@ -624,7 +624,7 @@ GameObject:
   - component: {fileID: 4947095648973631837}
   - component: {fileID: 4947095648973631839}
   - component: {fileID: 4947095648973631836}
-  - component: {fileID: 4947095648973631838}
+  - component: {fileID: 216632495859367254}
   m_Layer: 5
   m_Name: ProfileForm
   m_TagString: Untagged
@@ -702,7 +702,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &4947095648973631838
+--- !u!114 &216632495859367254
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -711,7 +711,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4947095648973631834}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b37f32433f0339a4f9d0ac03af41d20b, type: 3}
+  m_Script: {fileID: 11500000, guid: 750a497a62c6ba849b5cfcf1fe91a46f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   nameInput: {fileID: 4947095648509073750}

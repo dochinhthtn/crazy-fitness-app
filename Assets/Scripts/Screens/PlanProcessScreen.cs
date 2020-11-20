@@ -1,5 +1,4 @@
-﻿using Controller.ListControllers;
-using Controller.TemplateControllers;
+﻿using Components;
 using Models;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -11,7 +10,7 @@ namespace Screens {
         [SerializeField] private RectTransform currentPlanInfoSection;
         [SerializeField] private Text currentPlanName;
         [SerializeField] private Text currentPlanDate;
-        [SerializeField] private ProcessBarController currentProcess;
+        [SerializeField] private ProcessBar currentProcess;
         [SerializeField] private Button startForTodayButton;
 
         [SerializeField] private RectTransform planInfoSection;
@@ -19,7 +18,7 @@ namespace Screens {
         [SerializeField] private Text planDates;
         [SerializeField] private Button startPlanButton;
 
-        [SerializeField] private DateListController dateList;
+        [SerializeField] private DateList dateList;
 
         private Plan currentPlan;
         private Plan plan;
@@ -27,9 +26,7 @@ namespace Screens {
             screenName = "Plan Process";
         }
         void Start () {
-
-            currentPlan = App.instance.profile.currentPlan;
-
+            currentPlan = App.instance.profile.current_plan;
             plan = (Plan) Navigator.data;
 
             currentPlanInfoSection.gameObject.SetActive (false);
@@ -60,7 +57,8 @@ namespace Screens {
             currentPlanInfoSection.gameObject.SetActive (true);
             startForTodayButton.gameObject.SetActive (true);
             currentPlanName.text = currentPlan.name;
-            currentProcess.percentage = Mathf.Round(currentPlan.completedDates.Count * 100 / currentPlan.dates.Count) / 100;
+            float percentage =  Mathf.Round(currentPlan.completed_dates.Count * 100 / currentPlan.dates.Count) / 100;
+            currentProcess.percentage = percentage;
         }
 
         void RenderPlanInfoSection () {
@@ -75,21 +73,19 @@ namespace Screens {
             if (currentPlan.id != 0) {
                 Debug.Log ("Already have a current plan. Are you sure to select this plan instead?");
             } else {
-                Debug.Log ("start new plan");
-                currentProfile.currentPlan = plan;
-                App.instance.SaveProfile (currentProfile);
+                currentProfile.current_plan = plan;
+                Profile.Save (currentProfile);
                 Navigator.Reload ();
             }
         }
 
         public void StartForToday () {
             foreach (Date date in currentPlan.dates) {
-                if (!date.isCompleted) {
+                if (!date.is_completed) {
                     Navigator.NavigateWithData ("ProcessDetailScreen", date, true);
                     break;
                 }
             }
-
         }
     }
 

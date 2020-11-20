@@ -361,10 +361,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5418479144485454367}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f507348316da4d44685b472a5186b146, type: 3}
+  m_Script: {fileID: 11500000, guid: f3cdac88c2fec6d4e950b43a366a3f16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  day: {fileID: 8853032704798714643}
+  dateName: {fileID: 8853032704798714643}
   isCompleted: {fileID: 3774655911500112254}
 --- !u!1 &6427959174279531860
 GameObject:

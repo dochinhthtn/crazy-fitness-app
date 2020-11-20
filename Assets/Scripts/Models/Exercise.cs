@@ -3,7 +3,7 @@ namespace Models {
     public class Exercise : Model {
         public int id;
         public string name;
-        public string countType;
+        public string count_type;
         public float duration;
         public string tutorial;
         public float calories;

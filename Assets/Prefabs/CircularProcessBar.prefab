@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6993509570037415913}
   - component: {fileID: 6993509570037415919}
   - component: {fileID: 6993509570037415918}
-  - component: {fileID: 183341094102070775}
+  - component: {fileID: 2610662894287479598}
   m_Layer: 5
   m_Name: CircularProcessBar
   m_TagString: Untagged
@@ -78,7 +78,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &183341094102070775
+--- !u!114 &2610662894287479598
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -87,7 +87,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6993509570037415912}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5034569a63d2fc498d7fcffa300e74b, type: 3}
+  m_Script: {fileID: 11500000, guid: 16527e185bbc3ef4ebecf7fce3a5dc9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   loadingBar: {fileID: 6993509570070143914}
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
-  m_FillAmount: 0.5
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 2
   m_UseSpriteMesh: 0
@@ -246,4 +246,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: x15/30
+  m_Text: 0/10

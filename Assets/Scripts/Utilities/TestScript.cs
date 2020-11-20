@@ -7,6 +7,7 @@ public class TestScript : MonoBehaviour {
     public UnityEvent myEvent;
     void Start () {
         myEvent.Invoke();
+
     }
 
 }

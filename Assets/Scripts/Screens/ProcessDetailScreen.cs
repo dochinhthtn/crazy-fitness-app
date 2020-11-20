@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using Controller.ListControllers;
+using Components;
 using Models;
 using UnityEngine;
 using UnityEngine.UI;
@@ -9,8 +9,8 @@ namespace Screens {
     public class ProcessDetailScreen : Screen {
         [SerializeField] private Text title;
         [SerializeField] private Text workoutName;
-        [SerializeField] private ExerciseListController exerciseList;
-        [SerializeField] private RectTransform mealSection;
+        [SerializeField] private ExerciseList exerciseList;
+        [SerializeField] private Text mealDetailText;
         [SerializeField] private Button beginWorkoutButton;
 
         private Date date;
@@ -46,7 +46,7 @@ namespace Screens {
         }
 
         void RenderMeal () {
-
+            mealDetailText.text = date.meal.description;
         }
     }
 }

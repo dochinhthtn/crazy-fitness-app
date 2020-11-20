@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 4284293194631306306}
   - component: {fileID: 4284293194631306304}
   - component: {fileID: 4284293194631306305}
-  - component: {fileID: 4043269485207730131}
   - component: {fileID: 6532172452350016966}
+  - component: {fileID: 571141524321773000}
   m_Layer: 5
   m_Name: HeaderWithBackButton
   m_TagString: Untagged
@@ -78,21 +78,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &4043269485207730131
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4284293194631306307}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc8f817899da2bd49b8dfff13a32feb2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sideMenuButton: {fileID: 0}
-  sideMenu: {fileID: 0}
-  backwardButton: {fileID: 6356068821851544032}
 --- !u!114 &6532172452350016966
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113,6 +98,21 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &571141524321773000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4284293194631306307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ee29db3e8e9f54ab6b38a2377de087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleMenuButton: {fileID: 0}
+  sideMenu: {fileID: 0}
+  backwardButton: {fileID: 6356068821851544032}
 --- !u!1 &4284293195181767788
 GameObject:
   m_ObjectHideFlags: 0

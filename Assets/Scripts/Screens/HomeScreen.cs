@@ -1,9 +1,8 @@
 using Models;
 using UnityEngine;
 using UnityEngine.UI;
-using Controller.ListControllers;
+using Components;
 using System.Collections.Generic;
-using Controller.TemplateControllers;
 using Proyecto26;
 
 namespace Screens {
@@ -21,10 +20,10 @@ namespace Screens {
         // has current plan section
         [SerializeField] private RectTransform sectionIfHasCurrentPlan;
         [SerializeField] private Text currentPlanName;
-        [SerializeField] private ProcessBarController currentPlanProcessBar;
+        [SerializeField] private ProcessBar currentPlanProcessBar;
         [SerializeField] private Text currentPlanDatesText;
         // lists
-        [SerializeField] private PlanListController recommendedPlanList;
+        [SerializeField] private PlanList recommendedPlanList;
 
         private Profile profile;
         HomeScreen () {
@@ -46,27 +45,27 @@ namespace Screens {
         }
 
         public void ContinueCurrentPlan() {
-            if(profile.currentPlan.id != 0) {
-                Navigator.NavigateWithData("PlanProcessScreen", profile.currentPlan);
+            if(profile.current_plan.id != 0) {
+                Navigator.NavigateWithData("PlanProcessScreen", profile.current_plan);
             }
         }
 
         void RenderStatSection() {
-            challengesCompletedText.text = profile.completedChallenges.Count.ToString();
-            durationsText.text = StringUtils.SecondsToMinutes((int) profile.currentDurations);
-            planCompletedText.text = profile.completedPlans.Count.ToString();
-            caloriesConsumedText.text = profile.currentCalories.ToString();
+            challengesCompletedText.text = profile.completed_challenges.Count.ToString();
+            durationsText.text = StringUtils.SecondsToMinutes((int) profile.current_durations);
+            planCompletedText.text = profile.completed_plans.Count.ToString();
+            caloriesConsumedText.text = profile.current_calories.ToString();
         }
 
         void RenderCurrentPlanSection() {
-            Plan currentPlan = profile.currentPlan;
+            Plan currentPlan = profile.current_plan;
             sectionIfHasCurrentPlan.gameObject.SetActive (false);
             sectionIfNoCurrentPlan.gameObject.SetActive (false);
 
             if (currentPlan.id == 0) {
                 sectionIfNoCurrentPlan.gameObject.SetActive (true);
             } else {
-                int completedDates = currentPlan.completedDates.Count;
+                int completedDates = currentPlan.completed_dates.Count;
                 int currentPlanDates = currentPlan.dates.Count;
                 sectionIfHasCurrentPlan.gameObject.SetActive (true);
                 currentPlanName.text = currentPlan.name;
@@ -76,9 +75,10 @@ namespace Screens {
         }
 
         void RenderRecommendedPlanList () {
-            RestClient.Get<Result<List<Plan>>>(Config.api + "/plan").Then((result) => {
+            RestClient.Get<ServerResponse<List<Plan>>>(App.instance.config.host + "/plan").Then((result) => {
                 recommendedPlanList.SetData(result.data);
             }).Catch((error) => {
+                Debug.Log(error.Message);
                 recommendedPlanList.ShowErrorPanel();
             });
         }

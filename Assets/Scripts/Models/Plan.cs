@@ -5,10 +5,10 @@ namespace Models {
         public int id;
         public string name;
         public List<Date> dates;
-        public List<Date> completedDates {
+        public List<Date> completed_dates {
             get {
                 return dates.FindAll((Date date) => {
-                    return date.isCompleted;
+                    return date.is_completed;
                 });
             }
         }

@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using Controller.TemplateControllers;
+using Components;
 using Models;
 using UnityEngine;
 using UnityEngine.UI;
@@ -9,8 +9,8 @@ namespace Screens {
     public class DoWorkoutScreen : Screen {
         [SerializeField] private Text currentExerciseName;
         [SerializeField] private Text currentExerciseOrder;
-        [SerializeField] private ExerciseAnimatorController exerciseAnimatorController;
-        [SerializeField] private ProcessBarController workoutProcess;
+        [SerializeField] private ExerciseAnimator exerciseAnimator;
+        [SerializeField] private ProcessBar workoutProcess;
         [SerializeField] private Animator nextExerciseAnimator;
         [SerializeField] private AudioSource musicSpeaker;
         [SerializeField] private AudioClip[] musics;
@@ -43,12 +43,9 @@ namespace Screens {
 
             nextExerciseAnimator.fireEvents = false;
 
-            exerciseAnimatorController.onFinishExercise = (durations, calories) => {
+            exerciseAnimator.onFinishExercise = (durations, calories) => {
                 totalDurations += durations;
                 totalCalories += calories;
-
-                Debug.Log (totalDurations);
-                Debug.Log (totalCalories);
 
                 StartCoroutine (NextExercise ());
             };
@@ -60,7 +57,7 @@ namespace Screens {
         public void PlayExercise () {
             RenderWorkoutProcess ();
 
-            exerciseAnimatorController.PlayExercise (workout.exercises[currentExerciseIndex]);
+            exerciseAnimator.SetData (workout.exercises[currentExerciseIndex]);
             if(currentExerciseIndex + 1 < workout.exercises.Count) {
                 nextExerciseAnimator.Play ("BaseLayer." + StringUtils.Slugify (workout.exercises[currentExerciseIndex + 1].name), 0);
             }
@@ -87,12 +84,12 @@ namespace Screens {
 
         public void EndWorkout () {
             Profile profile = App.instance.profile;
-            profile.currentCalories += totalCalories;
-            profile.currentDurations += totalDurations;
+            profile.current_calories += totalCalories;
+            profile.current_durations += totalDurations;
 
-            if (currentDate != null) currentDate.isCompleted = true;
+            if (currentDate != null) currentDate.is_completed = true;
 
-            App.instance.SaveProfile (profile);
+            Profile.Save (profile);
 
             totalDurationsText.text = StringUtils.SecondsToMinutes ((int) totalDurations);
             totalCaloriesText.text = totalCalories.ToString () + " cal";
@@ -102,6 +99,12 @@ namespace Screens {
         }
 
         public void Backward () {
+            if(currentDate != null) {
+                Navigator.tmpData = true;
+            } else {
+                Navigator.tmpData = workout;
+            }
+            
             Navigator.Backward ();
         }
 

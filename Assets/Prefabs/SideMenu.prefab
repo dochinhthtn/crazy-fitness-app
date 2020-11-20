@@ -226,10 +226,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6012490534254026332}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13b57c99dc9b3574789297a9a36f8db9, type: 3}
+  m_Script: {fileID: 11500000, guid: 6eb48f21ddeb679439901767bcf890cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  menu: {fileID: 6012490534963319016}
+  menuItems: []
+  currentItemIndex: 0
 --- !u!1 &6012490534583709017
 GameObject:
   m_ObjectHideFlags: 0

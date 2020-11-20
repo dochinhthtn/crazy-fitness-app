@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
-using Controller.ListControllers;
-using Controller.TemplateControllers;
+using Components;
 using Models;
 using Proyecto26;
 using UnityEngine;
@@ -10,12 +9,12 @@ namespace Screens {
     public class DailyPlanScreen : Screen {
         [SerializeField] private RectTransform allPlansContent;
         [SerializeField] private SimpleSearchForm searchPlansForm;
-        [SerializeField] private PlanListController planList;
+        [SerializeField] private PlanList planList;
         private int currentPlanPage = 1;
 
         [SerializeField] private RectTransform recommendedPlansPlansContent;
         [SerializeField] private SimpleSearchForm searchRecommendedPlansForm;
-        [SerializeField] private PlanListController recommendedPlanList;
+        [SerializeField] private PlanList recommendedPlanList;
         private int currentRecommendedPlanPage = 1;
 
         DailyPlanScreen () {
@@ -24,8 +23,6 @@ namespace Screens {
 
         void Start () {
             ShowAllPlansContent ();
-            RenderPlanList ();
-            RenderRecommendedPlanList ();
         }
 
         public void HideAllContent () {
@@ -36,24 +33,25 @@ namespace Screens {
         public void ShowAllPlansContent () {
             HideAllContent ();
             allPlansContent.gameObject.SetActive (true);
+            LoadPlans(planList, "/plan", 1);
         }
 
         public void ShowRecommendedPlansContent () {
             HideAllContent ();
             recommendedPlansPlansContent.gameObject.SetActive (true);
+            LoadPlans(recommendedPlanList, "/plan", 1);
         }
 
         public void ShowCurrentPlanContent () {
             Profile profile = App.instance.profile;
-            if(profile.currentPlan.id != 0) {
-                Navigator.NavigateWithData("ProcessDetailScreen", profile.currentPlan);
+            if(profile.current_plan.id != 0) {
+                Navigator.NavigateWithData("PlanProcessScreen", profile.current_plan);
             }
         }
 
-        public void LoadPlans (PlanListController list, string url, int page = 1) {
+        public void LoadPlans (PlanList list, string url, int page = 1) {
             list.ShowLoadingPanel ();
-            RestClient.Get<Result<List<Plan>>> (Config.api + url + "?page=" + page.ToString ()).Then ((result) => {
-                Debug.Log(result.data.ToString());
+            RestClient.Get<ServerResponse<List<Plan>>> (App.instance.config.host + url + "?page=" + page.ToString ()).Then ((result) => {
                 if (page > 1) {
                     List<Plan> data = list.GetData ();
                     data.AddRange (result.data);
@@ -66,13 +64,12 @@ namespace Screens {
             });
         }
 
-        public void RenderPlanList () {
-            LoadPlans (this.planList, "/plan", currentPlanPage++);
+        public void LoadMorePlans() {
+            LoadPlans(planList, "/plan", ++currentPlanPage);
         }
 
-        public void RenderRecommendedPlanList () {
-            LoadPlans (this.recommendedPlanList, "/plan", currentRecommendedPlanPage++);
-            Debug.Log("Render recommended plans");
+        public void LoadMoreRecommendedPlans() {
+            LoadPlans(recommendedPlanList, "/plan", ++currentRecommendedPlanPage);
         }
     }
 }
