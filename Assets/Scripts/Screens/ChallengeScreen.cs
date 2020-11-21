@@ -28,6 +28,9 @@ namespace Screens {
             }
         }
         public void GenerateRandomChallenge () {
+            exerciseList.Clear();
+            startMyWorkoutButton.gameObject.SetActive(false);
+            exerciseList.ShowLoadingPanel();
             RestClient.Get<ServerResponse<Workout>> (App.instance.config.host + "/workout/random/" + minuteInput.text).Then ((serverResponse) => {
                 myWorkout = serverResponse.data;
                 exerciseList.SetData (myWorkout.exercises);

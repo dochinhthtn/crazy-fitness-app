@@ -44,7 +44,7 @@ namespace Screens {
 
         public void ShowCurrentPlanContent () {
             Profile profile = App.instance.profile;
-            if(profile.current_plan.id != 0) {
+            if(profile != null && profile.current_plan.id != 0) {
                 Navigator.NavigateWithData("PlanProcessScreen", profile.current_plan);
             }
         }

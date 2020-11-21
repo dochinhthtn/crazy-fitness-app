@@ -47,7 +47,7 @@ namespace Screens {
                 totalDurations += durations;
                 totalCalories += calories;
 
-                StartCoroutine (NextExercise ());
+                Invoke("NextExercise", 3);
             };
 
             PlayExercise ();
@@ -72,8 +72,7 @@ namespace Screens {
         }
 
 
-        public IEnumerator NextExercise () {
-            yield return new WaitForSeconds (3);
+        public void NextExercise () {
             currentExerciseIndex++;
             if (currentExerciseIndex >= workout.exercises.Count) {
                 EndWorkout ();
@@ -120,6 +119,10 @@ namespace Screens {
             pauseWorkoutButton.gameObject.SetActive(true);
             resumeWorkoutButton.gameObject.SetActive(false);
             musicSpeaker.Play();
+        }
+
+        public void QuitWorkout() {
+            Backward();
         }
 
         void RenderWorkoutProcess () {

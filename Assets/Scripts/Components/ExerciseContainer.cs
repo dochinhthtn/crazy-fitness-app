@@ -7,6 +7,8 @@ namespace Components {
         [SerializeField] private Text exerciseName;
         [SerializeField] private Text exerciseCounter;
         [SerializeField] private Animator exerciseAnimator;
+        [SerializeField] private ExerciseDetailModal exerciseDetailModal;
+
 
         public override void Render () {
             this.exerciseName.text = this.data.name;
@@ -20,7 +22,10 @@ namespace Components {
         }
 
         public void OnPointerClick (PointerEventData pointerEventData) {
-            Debug.Log("Show tutorial");
+            Transform canvas = GameObject.Find("Canvas").transform;
+            var modal = RectTransform.Instantiate(exerciseDetailModal);
+            modal.transform.SetParent(canvas, false);
+            modal.SetData(data);
         }
     }
 }

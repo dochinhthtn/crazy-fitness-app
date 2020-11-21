@@ -10,5 +10,6 @@ namespace Models {
         public int difficulty;
         public int order;
         public int counter;
+        public string muscle_involved;
     }
 }

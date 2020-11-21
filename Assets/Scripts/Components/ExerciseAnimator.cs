@@ -35,16 +35,18 @@ namespace Components {
         }
 
         public override void Render () {
-            StartCoroutine (Play ());
+            currentCount = (data.count_type == "repetition") ? 0 : data.counter;
+            Play();
+
         }
 
-        public IEnumerator Play () {
+        public void Play () {
             Ready ();
-
             if (data.name != "Rest") {
-                yield return new WaitForSeconds (5.616f);
+                Invoke ("Go", 5.616f);
+            } else {
+                Go ();
             }
-            Go ();
         }
 
         void Ready () {
@@ -61,8 +63,10 @@ namespace Components {
         }
 
         void Go () {
+
             image.color = new Color32 (241, 241, 241, 255);
             animator.fireEvents = true;
+            animator.Play ("BaseLayer." + StringUtils.Slugify (data.name), 0);
         }
 
         public void Resume () {
@@ -95,6 +99,7 @@ namespace Components {
         }
 
         void CountDown (int amount) {
+            Debug.Log(currentCount);
             currentCount -= amount;
 
             if (processBar != null) {
@@ -119,7 +124,7 @@ namespace Components {
             if (data.name != "Rest") {
                 audioSource.PlayOneShot (audioClips[2]);
             }
-            
+
             animator.Play ("BaseLayer.end-of-exercise", 0);
             if (processBar != null) {
                 processBar.text = "";

@@ -1022,7 +1022,7 @@ PrefabInstance:
     - target: {fileID: 7200000556843338957, guid: 69b42950f8fcdce4799e11b22b8480ae,
         type: 3}
       propertyPath: m_Text
-      value: Create a random challenge
+      value: Create a random workout
       objectReference: {fileID: 0}
     - target: {fileID: 7688305118582970244, guid: 69b42950f8fcdce4799e11b22b8480ae,
         type: 3}
@@ -2091,7 +2091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.96470594, g: 0.5803922, b: 0.32941177, a: 1}
+  m_Color: {r: 0.45098042, g: 0.62352943, b: 0.2392157, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:

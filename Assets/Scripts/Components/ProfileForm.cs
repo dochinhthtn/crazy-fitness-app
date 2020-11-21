@@ -14,7 +14,7 @@ namespace Components {
         [SerializeField] private InputField heightInput;
 
         void Start () {
-            Profile profile = (App.instance.profile != null) ? App.instance.profile : new Profile();
+            Profile profile = (App.instance.profile != null) ? App.instance.profile : new Profile ();
             SetData (profile);
 
             AttachInputsListener ();
@@ -33,57 +33,67 @@ namespace Components {
             heightInput.text = data.height.ToString ();
         }
 
-        void InputChangedCallback (string info, object value) {
-            switch (info) {
-                case "name":
-                    data.name = value.ToString ();
-                    break;
+        void InputChangedCallback (string info, string value) {
 
-                case "sex":
-                    data.sex = value.ToString ();
-                    break;
+            try {
+                switch (info) {
+                    case "name":
+                        data.name = value;
+                        break;
 
-                case "age":
-                    data.age = int.Parse (value.ToString ());
-                    break;
+                    case "sex":
+                        data.sex = value;
+                        break;
 
-                case "weight":
-                    data.weight = float.Parse (value.ToString ());
-                    break;
+                    case "age":
+                        data.age = (int) Mathf.Abs(int.Parse(value));
+                        break;
 
-                case "height":
-                    data.height = float.Parse (value.ToString ());
-                    break;
+                    case "weight":
+                        data.weight = Mathf.Abs(float.Parse(value));
+                        break;
+
+                    case "height":
+                        data.height = Mathf.Abs(float.Parse(value));
+                        break;
+                }
+
+                Profile.Save (data);
+            } catch (System.Exception e) {
+                Debug.Log(e.Message);
             }
-
-            Profile.Save (data);
 
         }
 
         void AttachInputsListener () {
-            nameInput.onValueChanged.AddListener (delegate {
-                InputChangedCallback ("name", nameInput.text);
-            });
+            try {
+                nameInput.onEndEdit.AddListener (delegate {
+                    InputChangedCallback ("name", nameInput.text);
+                });
 
-            maleOption.onValueChanged.AddListener (delegate {
-                if (maleOption.isOn) InputChangedCallback ("sex", "male");
-            });
+                maleOption.onValueChanged.AddListener (delegate {
+                    if (maleOption.isOn) InputChangedCallback ("sex", "male");
+                });
 
-            femaleOption.onValueChanged.AddListener (delegate {
-                if (femaleOption.isOn) InputChangedCallback ("sex", "female");
-            });
+                femaleOption.onValueChanged.AddListener (delegate {
+                    if (femaleOption.isOn) InputChangedCallback ("sex", "female");
+                });
 
-            ageInput.onValueChanged.AddListener (delegate {
-                InputChangedCallback ("age", Mathf.Abs (int.Parse (ageInput.text)));
-            });
+                ageInput.onEndEdit.AddListener (delegate {
+                    InputChangedCallback ("age", ageInput.text);
+                });
 
-            weightInput.onValueChanged.AddListener (delegate {
-                InputChangedCallback ("weight", Mathf.Abs (float.Parse (weightInput.text)));
-            });
+                weightInput.onEndEdit.AddListener (delegate {
+                    InputChangedCallback ("weight", weightInput.text);
+                });
 
-            heightInput.onValueChanged.AddListener (delegate {
-                InputChangedCallback ("height", Mathf.Abs (float.Parse (heightInput.text)));
-            });
+                heightInput.onEndEdit.AddListener (delegate {
+                    InputChangedCallback ("height", heightInput.text);
+                });
+            } catch (System.Exception e) {
+                Debug.Log(e.Message);
+            }
+
         }
 
     }

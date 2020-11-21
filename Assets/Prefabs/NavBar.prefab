@@ -152,7 +152,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Tutorial
+  m_Text: Exercises
 --- !u!1 &7110935449753959657
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,6 +397,7 @@ GameObject:
   - component: {fileID: 7110935450087261273}
   - component: {fileID: 7110935450838753662}
   - component: {fileID: 5752043897706006077}
+  - component: {fileID: 1618811918410956438}
   m_Layer: 5
   m_Name: NavBar
   m_TagString: Untagged
@@ -416,8 +417,8 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7110935450438002984}
-  - {fileID: 7110935450501320619}
   - {fileID: 7110935450762457390}
+  - {fileID: 7110935450501320619}
   - {fileID: 7110935450378303712}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -501,6 +502,21 @@ MonoBehaviour:
   m_ChildControlHeight: 0
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
+--- !u!114 &1618811918410956438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7110935450087261279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.39215687}
+  m_EffectDistance: {x: 0, y: 10}
+  m_UseGraphicAlpha: 1
 --- !u!1 &7110935450220862222
 GameObject:
   m_ObjectHideFlags: 0
@@ -946,7 +962,7 @@ RectTransform:
   - {fileID: 7110935450774492979}
   - {fileID: 7110935450220862223}
   m_Father: {fileID: 7110935450087261272}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1077,7 +1093,7 @@ RectTransform:
   - {fileID: 7110935449753959658}
   - {fileID: 7110935448731437700}
   m_Father: {fileID: 7110935450087261272}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
