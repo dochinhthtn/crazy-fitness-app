@@ -366,3 +366,5 @@ MonoBehaviour:
   exerciseName: {fileID: 6507101232880348703}
   exerciseCounter: {fileID: 5827570039721505677}
   exerciseAnimator: {fileID: 6481229233993584770}
+  exerciseDetailModal: {fileID: 5658467718700513432, guid: 1a681fb05652dfc49b873df7596da5ef,
+    type: 3}
