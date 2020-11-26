@@ -31,8 +31,8 @@ namespace Screens {
         }
 
         void Start () {
-            workout = (Workout) Navigator.data;
-            currentDate = (Date) Navigator.tmpData;
+            currentDate = (Date) Navigator.data;
+            workout = currentDate.workout;
 
             currentExerciseIndex = 0;
 
@@ -99,6 +99,7 @@ namespace Screens {
 
         public void Backward () {
             if(currentDate != null) {
+                // can be remove this line
                 Navigator.tmpData = true;
             } else {
                 Navigator.tmpData = workout;

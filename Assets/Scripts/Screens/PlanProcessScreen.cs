@@ -82,7 +82,7 @@ namespace Screens {
         public void StartForToday () {
             foreach (Date date in currentPlan.dates) {
                 if (!date.is_completed) {
-                    Navigator.NavigateWithData ("ProcessDetailScreen", date, true);
+                    Navigator.NavigateWithData ("ProcessDetailScreen", date);
                     break;
                 }
             }

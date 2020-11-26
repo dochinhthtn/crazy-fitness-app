@@ -1,5 +1,5 @@
 {
-    "host": "http://127.0.0.1:8000/api",
+    "host": "http://mysterious-springs-22718.herokuapp.com/api",
     "originalData": "fakeData.json",
     "driver": "api"
 }

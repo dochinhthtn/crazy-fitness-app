@@ -21,11 +21,24 @@ namespace Screens {
         void Start () {
             date = (Date) Navigator.data;
 
-            bool isCurrentDate = (bool) Navigator.tmpData;
-            if (!isCurrentDate) {
-                beginWorkoutButton.onClick.RemoveAllListeners();
-                beginWorkoutButton.image.color = new Color32(200, 200, 200, 255);
+            Plan currentPlan = App.instance.profile.current_plan;
+            if(currentPlan != null && currentPlan.id != 0) {
+                Date currentDate = currentPlan.dates.Find((_date) => {
+                    return _date.is_completed == false;
+                });
+
+                Debug.Log("aaa");
+
+                if(currentDate != date) {
+                    beginWorkoutButton.interactable = false;
+                }
+            } else {
+                beginWorkoutButton.interactable = false;
             }
+            // bool isCurrentDate = (bool) Navigator.tmpData;
+            // if () {
+            //     beginWorkoutButton.interactable = false;
+            // }
 
             RenderCurrentDate ();
             RenderExerciseList ();
@@ -33,7 +46,7 @@ namespace Screens {
         }
 
         public void BeginWorkout () {
-            Navigator.NavigateWithData("DoWorkoutScreen", date.workout, date);
+            Navigator.NavigateWithData("DoWorkoutScreen", date);
         }
 
         void RenderCurrentDate () {

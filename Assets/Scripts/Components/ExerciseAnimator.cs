@@ -7,7 +7,6 @@ namespace Components {
 
     public class ExerciseAnimator : BaseComponent<Exercise> {
         [SerializeField] private ProcessBar processBar;
-        private Image image;
         private Animator animator;
         private AudioSource audioSource;
 
@@ -31,7 +30,6 @@ namespace Components {
         void Awake () {
             animator = GetComponent<Animator> ();
             audioSource = GetComponent<AudioSource> ();
-            image = GetComponent<Image> ();
         }
 
         public override void Render () {
@@ -58,15 +56,14 @@ namespace Components {
 
             animator.fireEvents = false;
             animator.Play ("BaseLayer." + StringUtils.Slugify (data.name), 0);
+            animator.speed = 0;
 
-            image.color = new Color32 (215, 215, 215, 215);
         }
 
         void Go () {
 
-            image.color = new Color32 (241, 241, 241, 255);
             animator.fireEvents = true;
-            animator.Play ("BaseLayer." + StringUtils.Slugify (data.name), 0);
+            animator.speed = 1;
         }
 
         public void Resume () {
