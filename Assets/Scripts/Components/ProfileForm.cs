@@ -1,6 +1,7 @@
 ﻿using Models;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
 
 namespace Components {
 
@@ -33,67 +34,39 @@ namespace Components {
             heightInput.text = data.height.ToString ();
         }
 
-        void InputChangedCallback (string info, string value) {
-
-            try {
-                switch (info) {
-                    case "name":
-                        data.name = value;
-                        break;
-
-                    case "sex":
-                        data.sex = value;
-                        break;
-
-                    case "age":
-                        data.age = (int) Mathf.Abs(int.Parse(value));
-                        break;
-
-                    case "weight":
-                        data.weight = Mathf.Abs(float.Parse(value));
-                        break;
-
-                    case "height":
-                        data.height = Mathf.Abs(float.Parse(value));
-                        break;
-                }
-
-                Profile.Save (data);
-            } catch (System.Exception e) {
-                Debug.Log(e.Message);
-            }
-
-        }
-
         void AttachInputsListener () {
             try {
-                nameInput.onEndEdit.AddListener (delegate {
-                    InputChangedCallback ("name", nameInput.text);
+                nameInput.onValueChanged.AddListener ((value) => {
+                    data.name = value;
                 });
 
-                maleOption.onValueChanged.AddListener (delegate {
-                    if (maleOption.isOn) InputChangedCallback ("sex", "male");
+                maleOption.onValueChanged.AddListener ((value) => {
+                    if (maleOption.isOn) data.sex = "male";
                 });
 
-                femaleOption.onValueChanged.AddListener (delegate {
-                    if (femaleOption.isOn) InputChangedCallback ("sex", "female");
+                femaleOption.onValueChanged.AddListener ((value) => {
+                    if (femaleOption.isOn) data.sex = "female";
                 });
 
-                ageInput.onEndEdit.AddListener (delegate {
-                    InputChangedCallback ("age", ageInput.text);
+                ageInput.onValueChanged.AddListener ((value) => {
+                    Int32.TryParse(value, out data.age);
                 });
 
-                weightInput.onEndEdit.AddListener (delegate {
-                    InputChangedCallback ("weight", weightInput.text);
+                weightInput.onValueChanged.AddListener ((value) => {
+                    float.TryParse(value, out data.weight);
                 });
 
-                heightInput.onEndEdit.AddListener (delegate {
-                    InputChangedCallback ("height", heightInput.text);
+                heightInput.onValueChanged.AddListener ((value) => {
+                    float.TryParse(value, out data.height);
                 });
+
             } catch (System.Exception e) {
-                Debug.Log(e.Message);
+                Debug.Log (e.Message);
             }
+        }
 
+        public void SaveProfile() {
+            Profile.Save(data);
         }
 
     }

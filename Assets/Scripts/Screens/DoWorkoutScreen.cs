@@ -31,8 +31,13 @@ namespace Screens {
         }
 
         void Start () {
-            currentDate = (Date) Navigator.data;
-            workout = currentDate.workout;
+
+            if (Navigator.data is Date) {
+                currentDate = (Date) Navigator.data;
+                workout = currentDate.workout;
+            } else if (Navigator.data is Workout) {
+                workout = (Workout) Navigator.data;
+            }
 
             currentExerciseIndex = 0;
 
@@ -47,7 +52,7 @@ namespace Screens {
                 totalDurations += durations;
                 totalCalories += calories;
 
-                Invoke("NextExercise", 3);
+                Invoke ("NextExercise", 3);
             };
 
             PlayExercise ();
@@ -58,19 +63,20 @@ namespace Screens {
             RenderWorkoutProcess ();
 
             exerciseAnimator.SetData (workout.exercises[currentExerciseIndex]);
-            if(currentExerciseIndex + 1 < workout.exercises.Count) {
+            if (currentExerciseIndex + 1 < workout.exercises.Count) {
                 nextExerciseAnimator.Play ("BaseLayer." + StringUtils.Slugify (workout.exercises[currentExerciseIndex + 1].name), 0);
+            } else {
+                nextExerciseAnimator.Play ("BaseLayer.rest", 0);
             }
-            
+
         }
 
         public void PlayMusic () {
             int randomIndex = Random.Range (0, 2);
             musicSpeaker.clip = musics[randomIndex];
-            musicSpeaker.Play();
+            musicSpeaker.Play ();
             // musicSpeaker.PlayOneShot (musics[randomIndex]);
         }
-
 
         public void NextExercise () {
             currentExerciseIndex++;
@@ -98,32 +104,32 @@ namespace Screens {
         }
 
         public void Backward () {
-            if(currentDate != null) {
+            if (currentDate != null) {
                 // can be remove this line
                 Navigator.tmpData = true;
             } else {
                 Navigator.tmpData = workout;
             }
-            
+
             Navigator.Backward ();
         }
 
-        public void PauseWorkout() {
+        public void PauseWorkout () {
             Time.timeScale = 0;
-            pauseWorkoutButton.gameObject.SetActive(false);
-            resumeWorkoutButton.gameObject.SetActive(true);
-            musicSpeaker.Stop();
+            pauseWorkoutButton.gameObject.SetActive (false);
+            resumeWorkoutButton.gameObject.SetActive (true);
+            musicSpeaker.Stop ();
         }
 
-        public void ResumeWorkout() {
+        public void ResumeWorkout () {
             Time.timeScale = 1;
-            pauseWorkoutButton.gameObject.SetActive(true);
-            resumeWorkoutButton.gameObject.SetActive(false);
-            musicSpeaker.Play();
+            pauseWorkoutButton.gameObject.SetActive (true);
+            resumeWorkoutButton.gameObject.SetActive (false);
+            musicSpeaker.Play ();
         }
 
-        public void QuitWorkout() {
-            Backward();
+        public void QuitWorkout () {
+            Backward ();
         }
 
         void RenderWorkoutProcess () {

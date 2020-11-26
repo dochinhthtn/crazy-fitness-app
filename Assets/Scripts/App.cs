@@ -29,13 +29,21 @@ public class App : MonoBehaviour {
         }
         
         this.config = Config.Load();
-
         this.profile = Profile.Load ();
+
         if (profile == null) {
+            profile = new Profile();
+            profile.name = "Your name";
             Navigator.Navigate ("WelcomeScreen");
         } else {
             Navigator.Navigate ("HomeScreen");
         }
 
+    }
+
+    void Update () {
+        if(Input.GetKeyDown(KeyCode.Escape)) {
+            Navigator.Backward();
+        }
     }
 }

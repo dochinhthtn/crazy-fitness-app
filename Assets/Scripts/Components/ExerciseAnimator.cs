@@ -53,7 +53,8 @@ namespace Components {
             } else {
                 audioSource.PlayOneShot (audioClips[0]);
             }
-
+            
+            Count(0);
             animator.fireEvents = false;
             animator.Play ("BaseLayer." + StringUtils.Slugify (data.name), 0);
             animator.speed = 0;
@@ -61,7 +62,6 @@ namespace Components {
         }
 
         void Go () {
-
             animator.fireEvents = true;
             animator.speed = 1;
         }

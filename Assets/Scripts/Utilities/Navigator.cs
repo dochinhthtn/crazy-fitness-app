@@ -40,7 +40,10 @@ public class Navigator {
 
     static public void Backward () {
         histories.Pop ();
-        History first = histories.Peek ();
+
+        if(histories.Count == 0) return;
+
+        // History first = histories.Peek ();
         SceneManager.LoadScene ("LoadingScreen");
     }
 

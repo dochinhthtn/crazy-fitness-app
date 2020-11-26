@@ -1,9 +1,9 @@
+using System.Collections.Generic;
+using Components;
 using Models;
+using Proyecto26;
 using UnityEngine;
 using UnityEngine.UI;
-using Components;
-using System.Collections.Generic;
-using Proyecto26;
 
 namespace Screens {
 
@@ -28,36 +28,40 @@ namespace Screens {
         private Profile profile;
         HomeScreen () {
             screenName = "Home";
-            
         }
 
         void Start () {
             profile = App.instance.profile;
+            try {
+                RenderStatSection ();
+                RenderCurrentPlanSection ();
+            } catch (System.Exception exception) {
+                Debug.Log (exception.Message);
+                // App.instance.profile = new Profile();
+                sectionIfNoCurrentPlan.gameObject.SetActive (true);
+            }
 
-            RenderStatSection();
-            RenderCurrentPlanSection();
-            RenderRecommendedPlanList();
-            RenderRecommendedChallengeList();
+            RenderRecommendedPlanList ();
         }
 
-        public void GetPlans() {
-            Navigator.Navigate("DailyPlanScreen");
+        public void GetPlans () {
+            Navigator.Navigate ("DailyPlanScreen");
         }
 
-        public void ContinueCurrentPlan() {
-            if(profile.current_plan.id != 0) {
-                Navigator.NavigateWithData("PlanProcessScreen", profile.current_plan);
+        public void ContinueCurrentPlan () {
+            if (profile.current_plan.id != 0) {
+                Navigator.NavigateWithData ("PlanProcessScreen", profile.current_plan);
             }
         }
 
-        void RenderStatSection() {
-            challengesCompletedText.text = profile.completed_challenges.Count.ToString();
-            durationsText.text = StringUtils.SecondsToMinutes((int) profile.current_durations);
-            planCompletedText.text = profile.completed_plans.Count.ToString();
-            caloriesConsumedText.text = profile.current_calories.ToString();
+        void RenderStatSection () {
+            challengesCompletedText.text = profile.completed_challenges.Count.ToString ();
+            durationsText.text = StringUtils.SecondsToMinutes ((int) profile.current_durations);
+            planCompletedText.text = profile.completed_plans.Count.ToString ();
+            caloriesConsumedText.text = profile.current_calories.ToString ();
         }
 
-        void RenderCurrentPlanSection() {
+        void RenderCurrentPlanSection () {
             Plan currentPlan = profile.current_plan;
             sectionIfHasCurrentPlan.gameObject.SetActive (false);
             sectionIfNoCurrentPlan.gameObject.SetActive (false);
@@ -69,22 +73,18 @@ namespace Screens {
                 int currentPlanDates = currentPlan.dates.Count;
                 sectionIfHasCurrentPlan.gameObject.SetActive (true);
                 currentPlanName.text = currentPlan.name;
-                currentPlanProcessBar.percentage = Mathf.Round(completedDates * 100 / currentPlanDates) / 100;
-                currentPlanDatesText.text = completedDates.ToString() + "/" + currentPlanDates.ToString() + " days";
+                currentPlanProcessBar.percentage = Mathf.Round (completedDates * 100 / currentPlanDates) / 100;
+                currentPlanDatesText.text = completedDates.ToString () + "/" + currentPlanDates.ToString () + " days";
             }
         }
 
         void RenderRecommendedPlanList () {
-            RestClient.Get<ServerResponse<List<Plan>>>(App.instance.config.host + "/plan").Then((result) => {
-                recommendedPlanList.SetData(result.data);
-            }).Catch((error) => {
-                Debug.Log(error.Message);
-                recommendedPlanList.ShowErrorPanel();
+            RestClient.Get<ServerResponse<List<Plan>>> (App.instance.config.host + "/plan").Then ((result) => {
+                recommendedPlanList.SetData (result.data);
+            }).Catch ((error) => {
+                Debug.Log (error.Message);
+                recommendedPlanList.ShowErrorPanel ();
             });
-        }
-
-        void RenderRecommendedChallengeList() {
-            
         }
     }
 }
